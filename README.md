@@ -12,9 +12,3 @@ Resumo: repositório com dados e análises espaciais para o artigo submetido ao 
 - `figures/` — mapas e gráficos exportados para o manuscrito
 - `manuscript/` — rascunho e arquivos do artigo (docx/tex)
 
-
-## Instruções rápidas
-1. Criar ambiente (conda):
-```bash
-conda env create -f environment.yml
-conda activate tocantins_env
