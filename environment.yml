@@ -1,0 +1,29 @@
+name: tocantins_env
+channels:
+- conda-forge
+dependencies:
+- python=3.10
+- geopandas
+- fiona
+- shapely
+- pyproj
+- rtree
+- rasterio
+- rioxarray
+- rasterstats
+- xarray
+- numpy
+- pandas
+- matplotlib
+- contextily
+- jupyterlab
+- notebook
+- pysal
+- mgwr
+- scikit-learn
+- statsmodels
+- folium
+- branca
+- pip
+- pip:
+- keplergl
