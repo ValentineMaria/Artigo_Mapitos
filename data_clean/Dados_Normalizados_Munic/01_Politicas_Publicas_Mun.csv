@@ -1,0 +1,875 @@
+﻿acessa_ou_ja_acessou_politicas_publicas__,municipio_original,Record Count,municipio_norm,COD_UF,COD,NOME,nome_norm,nome_match,COD_fuzzy,COD_UF_fuzzy,NOME_fuzzy,nome_norm_fuzzy,codigo_final,uf_final,municipio_ibge
+Crédito Rural,MIRANORTE,13,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+Não,Tocantínia,13,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+Compra Direta (PAA),CHAPADA DE AREIA,11,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+Não,GUARAI,10,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+Não,ALMAS TO,8,almas to,,,,,almas,1700400.0,17.0,Almas,almas,1700400.0,17.0,Almas
+Não,PEDRO AFONSO,8,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+Crédito Rural,Miranorte,8,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+Crédito Rural,PARANÃ TO,7,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+Não,Barrolândia,7,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+Não,FILADÉLFIA,7,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+Crédito Rural,PARANÃ-TO,7,parana-to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+Não,Piraquê,7,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+Não,DIANÓPOLIS,6,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Não,CHAPADA DE AREIA,6,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+Não,MIRANORTE,6,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+Não,NOVA OLINDA,6,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+"Crédito Rural, Compra Direta (PAA)",GOIATINS,5,goiatins,17.0,1709005.0,Goiatins,goiatins,,,,,,1709005.0,17.0,Goiatins
+Não,CARMOLANDIA,5,carmolandia,17.0,1703883.0,Carmolândia,carmolandia,,,,,,1703883.0,17.0,Carmolândia
+Não,MARIANOPOLIS DO TOCANTINS,5,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",Nova Rosalãndia,5,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+Bolsa Família,CARMOLANDIA,5,carmolandia,17.0,1703883.0,Carmolândia,carmolandia,,,,,,1703883.0,17.0,Carmolândia
+Não,TUPIRAMA,5,tupirama,17.0,1721257.0,Tupirama,tupirama,,,,,,1721257.0,17.0,Tupirama
+Não,Miracema do Tocantins,5,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+Crédito Rural,pium,5,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+Não,GUARAÍ,5,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+Crédito Rural,Marianópolis do Tocantins,5,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+Bolsa Família,Ananás,5,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+Compra Direta (PAA),Araguaína,5,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+"Compra Direta (PAA), Merenda Escolar (PENAE)",Araguaína,5,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+"Crédito Rural, Aposentadoria Rural",Araguanã,4,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+Não,Ananás,4,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+Não,Wanderlândia,4,wanderlandia,17.0,1722081.0,Wanderlândia,wanderlandia,,,,,,1722081.0,17.0,Wanderlândia
+"Compra Direta (PAA), Merenda Escolar (PENAE)",Couto Magalhães,4,couto magalhaes,17.0,1706001.0,Couto Magalhães,couto magalhaes,,,,,,1706001.0,17.0,Couto Magalhães
+Crédito Rural,PARAISO DO TOCANTINS,4,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+Não,MONTE SANTO,4,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+Compra Direta (PAA),CHAPADA DA NATIVIDADE,4,chapada da natividade,17.0,1705102.0,Chapada da Natividade,chapada da natividade,,,,,,1705102.0,17.0,Chapada da Natividade
+Aposentadoria Rural,CASEARA,4,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+"Compra Direta (PAA), Merenda Escolar (PENAE)",Miracema do Tocantins,4,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+Crédito Rural,Paraiso do Tocantins,4,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+Não,PARANÃ-TO,4,parana-to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+Compra Direta (PAA),CHAPADA DA NATIVIDADE-TO,4,chapada da natividade-to,,,,,chapada da natividade,1705102.0,17.0,Chapada da Natividade,chapada da natividade,1705102.0,17.0,Chapada da Natividade
+Crédito Rural,Talismã-TO,4,talisma-to,,,,,talisma,1720978.0,17.0,Talismã,talisma,1720978.0,17.0,Talismã
+Não,RIO DOS BOIS,4,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+Não,Chapada de Areia,4,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+Crédito Rural,PONTE ALTA DO BOM JESUS,4,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+Crédito Rural,Wanderlândia,4,wanderlandia,17.0,1722081.0,Wanderlândia,wanderlandia,,,,,,1722081.0,17.0,Wanderlândia
+Crédito Rural,Peixe,4,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+"Merenda Escolar (PENAE), Bolsa Família",DIANÓPOLIS,4,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Crédito Rural,Gurupi-TO,4,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+Não,PIUM,4,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+Aposentadoria Rural,Xambioá,4,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+Não,PARAISO DO TOCANTINS,4,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+"Crédito Rural, Aposentadoria Rural",PIUM,3,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+Crédito Rural,LAJEADO,3,lajeado,17.0,1712009.0,Lajeado,lajeado,,,,,,1712009.0,17.0,Lajeado
+Crédito Rural,DARCINÓPOLIS,3,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+Crédito Rural,Chapada de Areia,3,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+Crédito Rural,Alvorada,3,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+Não,Marianópolis do Tocantins,3,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+Crédito Rural,Piraquê,3,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+Merenda Escolar (PENAE),Araguaína,3,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+ATER INDÍGENA,LAGOA DA CONFUSÃO - TO,3,lagoa da confusao - to,,,,,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão
+Aposentadoria Rural,Cristalandia,3,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",PALMEIRAS DO TOCANTINS,3,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+Crédito Rural,PIUM,3,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+Aposentadoria Rural,PALMAS,3,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+Crédito Rural,Xambioá,3,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+Não,Filadelfia,3,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+Não,RIO DA CONCEIÇÃO,3,rio da conceicao,17.0,1718659.0,Rio da Conceição,rio da conceicao,,,,,,1718659.0,17.0,Rio da Conceição
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",Nova Rosalândia,3,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+Não,PONTE ALTA DO BOM JESUS,3,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+Não,Nova Rosalãndia,3,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+Fomento,Ananás,3,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+Aposentadoria Rural,MARIANOPOLIS DO TOCANTINS,3,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+Crédito Rural,Divinopolis do Tocantins,3,divinopolis do tocantins,17.0,1707108.0,Divinópolis do Tocantins,divinopolis do tocantins,,,,,,1707108.0,17.0,Divinópolis do Tocantins
+Bolsa Família,MIRANORTE,3,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+Bolsa Família,FIGUEIROPOLIS,3,figueiropolis,17.0,1707652.0,Figueirópolis,figueiropolis,,,,,,1707652.0,17.0,Figueirópolis
+Compra Direta (PAA),DIVINÓPOLIS,3,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+Crédito Rural,GUARAI,3,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+Aposentadoria Rural,PIUM,3,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento, Aposentadoria Rural",BOM JESUS DO TOCANTINS,3,bom jesus do tocantins,17.0,1703305.0,Bom Jesus do Tocantins,bom jesus do tocantins,,,,,,1703305.0,17.0,Bom Jesus do Tocantins
+Crédito Rural,Dianópolis,3,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Compra Direta (PAA),Aurora do Tocantins,3,aurora do tocantins,17.0,1702703.0,Aurora do Tocantins,aurora do tocantins,,,,,,1702703.0,17.0,Aurora do Tocantins
+Compra Direta (PAA),RIO SONO,3,rio sono,17.0,1718758.0,Rio Sono,rio sono,,,,,,1718758.0,17.0,Rio Sono
+Bolsa Família,NOVA OLINDA - TO,3,nova olinda - to,,,,,nova olinda,1714880.0,17.0,Nova Olinda,nova olinda,1714880.0,17.0,Nova Olinda
+"Crédito Rural, Aposentadoria Rural",AXIXA DO TOCANTINS,3,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+Crédito Rural,Araguanã,3,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+Crédito Rural,MURICILÂNDIA,3,muricilandia,17.0,1713957.0,Muricilândia,muricilandia,,,,,,1713957.0,17.0,Muricilândia
+Não,Peixe,3,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+Crédito Rural,FILADÉLFIA,3,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+Não,Paraiso do Tocantins,3,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+Crédito Rural,LAGOA DA CONFUSÃO,3,lagoa da confusao,17.0,1711902.0,Lagoa da Confusão,lagoa da confusao,,,,,,1711902.0,17.0,Lagoa da Confusão
+Não,GURUPI,3,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+Aposentadoria Rural,MIRANORTE,3,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+"Crédito Rural, Aposentadoria Rural",RIO SONO  TO,3,rio sono  to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+Bolsa Família,NOVA OLINDA,3,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+Crédito Rural,AXIXA DO TOCANTINS,3,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+Crédito Rural,PALMEIRAS DO TOCANTINS,3,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+"Crédito Rural, Fomento",PEIXE,3,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+Compra Direta (PAA),pium,3,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+Bolsa Família,Xambioá,3,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+Não,Alvorada,3,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+Crédito Rural,SÍTIO NOVO DO TO,3,sitio novo do to,,,,,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins
+"Fomento, Bolsa Família",NOVA OLINDA - TO,2,nova olinda - to,,,,,nova olinda,1714880.0,17.0,Nova Olinda,nova olinda,1714880.0,17.0,Nova Olinda
+"Crédito Rural, Aposentadoria Rural",AXIXÁ DO TOCANTINS,2,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",PEDRO AFONSO,2,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Fomento, Bolsa Família",PALMEIRAS DO TOCANTINS,2,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",PALMAS,2,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+Crédito Rural,PALMAS,2,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+"Crédito Rural, Compra Direta (PAA)",TABOCÃO,2,tabocao,,,,,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão
+Crédito Rural,DIANÓPOLIS,2,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Bolsa Família,Araguaína,2,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+Aposentadoria Rural,JAU DO TO,2,jau do to,,,,,jau do tocantins,1711506.0,17.0,Jaú do Tocantins,jau do tocantins,1711506.0,17.0,Jaú do Tocantins
+Aposentadoria Rural,ARAGOMINAS,2,aragominas,17.0,1701309.0,Aragominas,aragominas,,,,,,1701309.0,17.0,Aragominas
+"Crédito Rural, Compra Direta (PAA)",Piraquê,2,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+"Compra Direta (PAA), Merenda Escolar (PENAE)",PALMEIRAS DO TOCANTINS,2,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+Compra Direta (PAA),Ananás,2,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+Não,ABREULANDIA,2,abreulandia,17.0,1700251.0,Abreulândia,abreulandia,,,,,,1700251.0,17.0,Abreulândia
+Crédito Rural,TABOCÃO,2,tabocao,,,,,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão
+Não,Araguaina,2,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+"Crédito Rural, Aposentadoria Rural",Dois Irmãos do Tocantins,2,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+Crédito Rural,GOIATINS,2,goiatins,17.0,1709005.0,Goiatins,goiatins,,,,,,1709005.0,17.0,Goiatins
+Não,Araguaína,2,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+Aposentadoria Rural,Ananás,2,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+Não,MONTE SANTO -TO,2,monte santo -to,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+Crédito Rural,Cristalândia,2,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+"Crédito Rural, Bolsa Família",Araguanã,2,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+"Compra Direta (PAA), Merenda Escolar (PENAE), CONAB",PALMEIRAS,2,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+Não,Miranorte,2,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+"Crédito Rural, Aposentadoria Rural",DIVINÓPOLIS,2,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+"Compra Direta (PAA), Aposentadoria Rural",LUZINOPOLIS-TO,2,luzinopolis-to,,,,,luzinopolis,1712454.0,17.0,Luzinópolis,luzinopolis,1712454.0,17.0,Luzinópolis
+"Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",Dianópolis,2,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Crédito Rural,ESPERANTINA,2,esperantina,17.0,1707405.0,Esperantina,esperantina,,,,,,1707405.0,17.0,Esperantina
+Bolsa Família,FILADÉLFIA,2,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+Não,TUPIRAMA TO,2,tupirama to,,,,,tupirama,1721257.0,17.0,Tupirama,tupirama,1721257.0,17.0,Tupirama
+Não,Gurupi-TO,2,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+Compra Direta (PAA),Gurupi-TO,2,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",PARANÃ TO,2,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+"Crédito Rural, Aposentadoria Rural",Peixe,2,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+"Crédito Rural, Compra Direta (PAA)",CASEARA-TO,2,caseara-to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+Não,CHAPADA DA NATIVIDADE,2,chapada da natividade,17.0,1705102.0,Chapada da Natividade,chapada da natividade,,,,,,1705102.0,17.0,Chapada da Natividade
+"Compra Direta (PAA), Merenda Escolar (PENAE)",Nova Rosalãndia,2,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+Aposentadoria Rural,SÍTIO NOVO DO TOCANTINS,2,sitio novo do tocantins,17.0,1720804.0,Sítio Novo do Tocantins,sitio novo do tocantins,,,,,,1720804.0,17.0,Sítio Novo do Tocantins
+Crédito Rural,SÍTIO NOVO DO TOCANTINS,2,sitio novo do tocantins,17.0,1720804.0,Sítio Novo do Tocantins,sitio novo do tocantins,,,,,,1720804.0,17.0,Sítio Novo do Tocantins
+Crédito Rural,ALIANÇA,2,alianca,,,,,alianca do tocantins,1700350.0,17.0,Aliança do Tocantins,alianca do tocantins,1700350.0,17.0,Aliança do Tocantins
+"Crédito Rural, Compra Direta (PAA), Aposentadoria Rural",PALMAS,2,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+"Crédito Rural, Aposentadoria Rural",XAMBIOÁ,2,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+"Crédito Rural, Aposentadoria Rural",Gurupi-TO,2,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+Não,RIO SONO,2,rio sono,17.0,1718758.0,Rio Sono,rio sono,,,,,,1718758.0,17.0,Rio Sono
+Crédito Rural,CASEARA,2,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+Não,Xambioá,2,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+"Crédito Rural, Aposentadoria Rural",PONTE ALTA DO BOM JESUS,2,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+"Compra Direta (PAA), Merenda Escolar (PENAE)",DARCINOPOLIS,2,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+"Crédito Rural, PNCF",NOVO JARDIM,2,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+"Crédito Rural, Compra Direta (PAA)",CHAPADA DE AREIA,2,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+Não,PALMEIRAS DO TOCANTINS,2,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+Bolsa Família,PIUM,2,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+Não,RIO SONO - TO,2,rio sono - to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+Crédito Rural,SANTA RITA DO TOCANTINS,2,santa rita do tocantins,17.0,1718899.0,Santa Rita do Tocantins,santa rita do tocantins,,,,,,1718899.0,17.0,Santa Rita do Tocantins
+Crédito Rural,Gurupi,2,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+"Crédito Rural, Bolsa Família",MONTE DO CARMO-TO.,2,monte do carmo-to.,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+Crédito Rural,DIANOPOLIS,2,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Fomento,SÃO MIGUEL DO TOCANTINS,2,sao miguel do tocantins,17.0,1720200.0,São Miguel do Tocantins,sao miguel do tocantins,,,,,,1720200.0,17.0,São Miguel do Tocantins
+Crédito Rural,MARIANOPOLIS DO TOCANTINS,2,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+Não,PARANÃ -TO,2,parana -to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",PUGMIL -TO,2,pugmil -to,,,,,pugmil,1718451.0,17.0,Pugmil,pugmil,1718451.0,17.0,Pugmil
+Bolsa Família,Xambioa,2,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+Compra Direta (PAA),ARAGUAÍNA,2,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+"Fomento, Bolsa Família",PARANÃ TO,2,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+Merenda Escolar (PENAE),SÃO MIGUEL DO TOCANTINS,2,sao miguel do tocantins,17.0,1720200.0,São Miguel do Tocantins,sao miguel do tocantins,,,,,,1720200.0,17.0,São Miguel do Tocantins
+Não,SANTA RITA DO TOCANTINS,2,santa rita do tocantins,17.0,1718899.0,Santa Rita do Tocantins,santa rita do tocantins,,,,,,1718899.0,17.0,Santa Rita do Tocantins
+"Crédito Rural, Bolsa Família",SÃO BENTO DO TOCANTINS,2,sao bento do tocantins,17.0,1720101.0,São Bento do Tocantins,sao bento do tocantins,,,,,,1720101.0,17.0,São Bento do Tocantins
+Compra Direta (PAA),PALMEIRAS DO TOCANTINS,2,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+Crédito Rural,RIACHINHO,2,riachinho,17.0,1718550.0,Riachinho,riachinho,,,,,,1718550.0,17.0,Riachinho
+Não,Xambioa,2,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+Bolsa Família,Tocantínia,2,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",Miranorte,2,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",DIVINÓPOLIS,2,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",GOIATINS,2,goiatins,17.0,1709005.0,Goiatins,goiatins,,,,,,1709005.0,17.0,Goiatins
+Aposentadoria Rural,Esperantina,2,esperantina,17.0,1707405.0,Esperantina,esperantina,,,,,,1707405.0,17.0,Esperantina
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",SÃO MIGUEL DO TOCANTINS,2,sao miguel do tocantins,17.0,1720200.0,São Miguel do Tocantins,sao miguel do tocantins,,,,,,1720200.0,17.0,São Miguel do Tocantins
+"Bolsa Família, Aposentadoria Rural",MARIANOPOLIS DO TOCANTINS,2,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",RIO DOS BOIS,2,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+"Compra Direta (PAA), Fomento, Aposentadoria Rural",BABAÇULÂNDIA,2,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+"Compra Direta (PAA), Bolsa Família",MIRANORTE,2,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+Aposentadoria Rural,DIANÓPOLIS,2,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+"Crédito Rural, Compra Direta (PAA), Bolsa Família",RIO DOS BOIS,2,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+Bolsa Família,Cristalandia,2,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+Crédito Rural,MONTE DO CARMO-TO,2,monte do carmo-to,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+Crédito Rural,DIVINÓPOLIS,2,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+Crédito Rural,SANTA FÉ DO ARAGUAIA,2,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+Compra Direta (PAA),Nova Rosalãndia,2,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+Crédito Rural,Miranorte-To,2,miranorte-to,,,,,miranorte,1713304.0,17.0,Miranorte,miranorte,1713304.0,17.0,Miranorte
+Crédito Rural,DOIS IRMÃOS DO TOCANTINS,2,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+"Crédito Rural, Compra Direta (PAA)",Aurora do Tocantins,2,aurora do tocantins,17.0,1702703.0,Aurora do Tocantins,aurora do tocantins,,,,,,1702703.0,17.0,Aurora do Tocantins
+Crédito Rural,AXIXA DO TOCANTIS,2,axixa do tocantis,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE)",ALIANÇA DO TOCANTINS,2,alianca do tocantins,17.0,1700350.0,Aliança do Tocantins,alianca do tocantins,,,,,,1700350.0,17.0,Aliança do Tocantins
+Bolsa Família,Araguatins,2,araguatins,17.0,1702208.0,Araguatins,araguatins,,,,,,1702208.0,17.0,Araguatins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",Couto Magalhães,2,couto magalhaes,17.0,1706001.0,Couto Magalhães,couto magalhaes,,,,,,1706001.0,17.0,Couto Magalhães
+Crédito Rural,NOVA OLINDA,2,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+"Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",CASEARA-TO,2,caseara-to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+"Crédito Rural, Aposentadoria Rural",Talisma,2,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+Não,DIVINÓPOLIS,2,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+Aposentadoria Rural,Xambioa,2,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+Não,Cristalandia,2,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",Gurupi-TO,2,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+Aposentadoria Rural,Piraquê,2,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+Crédito Rural,Araguaina,2,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+"Crédito Rural, Compra Direta (PAA), Bolsa Família",Piraquê,2,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+Não,MIRACEMA,2,miracema,,,,,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins
+Crédito Rural,PALMEIRAS,2,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+Bolsa Família,JAU DO TO,2,jau do to,,,,,jau do tocantins,1711506.0,17.0,Jaú do Tocantins,jau do tocantins,1711506.0,17.0,Jaú do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",BOM JESUS DO TOCANTINS,2,bom jesus do tocantins,17.0,1703305.0,Bom Jesus do Tocantins,bom jesus do tocantins,,,,,,1703305.0,17.0,Bom Jesus do Tocantins
+"Compra Direta (PAA), Bolsa Família",RIO DOS BOIS,2,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+Não,araguaína,2,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",LUZINOPOLIS-TO,2,luzinopolis-to,,,,,luzinopolis,1712454.0,17.0,Luzinópolis,luzinopolis,1712454.0,17.0,Luzinópolis
+Não,"P.A Tamboril, Angico - TO",2,"p.a tamboril, angico - to",,,,,angico,1701051.0,17.0,Angico,angico,1701051.0,17.0,Angico
+"Crédito Rural, Bolsa Família",FILADÉLFIA,2,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), CONAB",PALMEIRAS,2,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+"Fomento, Bolsa Família",NOVA OLINDA,2,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+"Crédito Rural, Aposentadoria Rural",Cristalandia,2,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+Compra Direta (PAA),Monte do Carmo,1,monte do carmo,17.0,1713601.0,Monte do Carmo,monte do carmo,,,,,,1713601.0,17.0,Monte do Carmo
+Bolsa Família,PORTONACIONAL - TO,1,portonacional - to,,,,,porto nacional,1718204.0,17.0,Porto Nacional,porto nacional,1718204.0,17.0,Porto Nacional
+"Crédito Rural, Bolsa Família",AXIXA DO TOCANTINS,1,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+"Bolsa Família, Aposentadoria Rural",Ananás P.A Antonio Moreira,1,ananas p.a antonio moreira,,,,,ananas,1701002.0,17.0,Ananás,ananas,1701002.0,17.0,Ananás
+PRONAF A,Araguaçu,1,araguacu,17.0,1702000.0,Araguaçu,araguacu,,,,,,1702000.0,17.0,Araguaçu
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",Riachinho,1,riachinho,17.0,1718550.0,Riachinho,riachinho,,,,,,1718550.0,17.0,Riachinho
+"Crédito Rural, Merenda Escolar (PENAE), Bolsa Família",Xambioa,1,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+"Crédito Rural, Compra Direta (PAA)",RIACHINHO - TO,1,riachinho - to,,,,,riachinho,1718550.0,17.0,Riachinho,riachinho,1718550.0,17.0,Riachinho
+"Crédito Rural, Compra Direta (PAA)",PIUM,1,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+"Compra Direta (PAA), Fomento, Bolsa Família",PUGMIL,1,pugmil,17.0,1718451.0,Pugmil,pugmil,,,,,,1718451.0,17.0,Pugmil
+Bolsa Família,ABREULANDIA,1,abreulandia,17.0,1700251.0,Abreulândia,abreulandia,,,,,,1700251.0,17.0,Abreulândia
+"Crédito Rural, Bolsa Família",LAJEADO,1,lajeado,17.0,1712009.0,Lajeado,lajeado,,,,,,1712009.0,17.0,Lajeado
+"Crédito Rural, Aposentadoria Rural",IPUEIRAS,1,ipueiras,17.0,1709807.0,Ipueiras,ipueiras,,,,,,1709807.0,17.0,Ipueiras
+Não,Miracema do tocantins-TO,1,miracema do tocantins-to,,,,,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins
+Não,SILVANOPOLIS,1,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+"Crédito Rural, Bolsa Família",AXIXÁ DO TOCANTINS,1,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+Fomento,MONTE DO CARMO-TO,1,monte do carmo-to,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+Compra Direta (PAA),Araguanã,1,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+"Compra Direta (PAA), Fomento",Nova Rosalãndia,1,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+Aposentadoria Rural,Cristalândia,1,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+Compra Direta (PAA),Darcinópolis,1,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+"Crédito Rural, PNCF",Novo Jardim,1,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+"Crédito Rural, Compra Direta (PAA)",Chapada De Areia,1,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+Fomento,ARAGUAÍNA,1,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+Não,Pugmil,1,pugmil,17.0,1718451.0,Pugmil,pugmil,,,,,,1718451.0,17.0,Pugmil
+"Compra Direta (PAA), Bolsa Família, Aposentadoria Rural",ALMAS,1,almas,17.0,1700400.0,Almas,almas,,,,,,1700400.0,17.0,Almas
+Compra Direta (PAA),Palmeirópolis,1,palmeiropolis,17.0,1715754.0,Palmeirópolis,palmeiropolis,,,,,,1715754.0,17.0,Palmeirópolis
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",DIVINÓPOLIS,1,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",Gurupi,1,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+CAF,MONTE DO CARMO -TO.,1,monte do carmo -to.,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+Crédito Rural,barrolandia,1,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+Compra Direta (PAA),LUZINOPOLIS -TO,1,luzinopolis -to,,,,,luzinopolis,1712454.0,17.0,Luzinópolis,luzinopolis,1712454.0,17.0,Luzinópolis
+"Compra Direta (PAA), Bolsa Família",Araguaína,1,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+Não,MIRACEMA DO TOCANTINS,1,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+"Crédito Rural, Aposentadoria Rural",Monte Santo,1,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",Palmeiras do Tocantins,1,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+"Crédito Rural, Aposentadoria Rural",ALMAS TO,1,almas to,,,,,almas,1700400.0,17.0,Almas,almas,1700400.0,17.0,Almas
+Aposentadoria Rural,MARIANÓPOLIS DO TOCANTINS,1,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+Não,Marianopolis - TO,1,marianopolis - to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+Aposentadoria Rural,TALISMÃ,1,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+Compra Direta (PAA),Miracema do Tocantins,1,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+Crédito Rural,NOVO JARDIM,1,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+"Compra Direta (PAA), Merenda Escolar (PENAE)",TABOCÃO,1,tabocao,,,,,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão
+Compra Direta (PAA),DIANOPOLIS,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",Barrolândia,1,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+Crédito Rural,Palmeirópolis,1,palmeiropolis,17.0,1715754.0,Palmeirópolis,palmeiropolis,,,,,,1715754.0,17.0,Palmeirópolis
+"Crédito Rural, Compra Direta (PAA), Aposentadoria Rural",MIRANORTE,1,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+Não,DIANOPOLIS,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Programa Quintal Verde,Aliança do Tocantins,1,alianca do tocantins,17.0,1700350.0,Aliança do Tocantins,alianca do tocantins,,,,,,1700350.0,17.0,Aliança do Tocantins
+Crédito Rural,Abreulândia - TO,1,abreulandia - to,,,,,abreulandia,1700251.0,17.0,Abreulândia,abreulandia,1700251.0,17.0,Abreulândia
+"Crédito Rural, Bolsa Família, Aposentadoria Rural",pium to,1,pium to,,,,,pium,1717503.0,17.0,Pium,pium,1717503.0,17.0,Pium
+"Compra Direta (PAA), Merenda Escolar (PENAE), PNCF",Novo Jardim,1,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+Não,PARAISO -TO,1,paraiso -to,,,,,paraiso do tocantins,1716109.0,17.0,Paraíso do Tocantins,paraiso do tocantins,1716109.0,17.0,Paraíso do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",GUARAI,1,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+Fomento,SÍTIO NOVO DO TOCANTINS,1,sitio novo do tocantins,17.0,1720804.0,Sítio Novo do Tocantins,sitio novo do tocantins,,,,,,1720804.0,17.0,Sítio Novo do Tocantins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), CONAB",PALMEIRAS DO TOCANTINS,1,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+"Merenda Escolar (PENAE), Bolsa Família",CASEARA,1,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+Crédito Rural,RIO SO  TO,1,rio so  to,,,,,aparecida do rio negro,1701101.0,17.0,Aparecida do Rio Negro,aparecida do rio negro,1701101.0,17.0,Aparecida do Rio Negro
+Bolsa Família,Babaçulândia,1,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+Não,MONTE VSANTO -TO,1,monte vsanto -to,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+"Crédito Rural, Compra Direta (PAA)",GUARAI,1,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+"Compra Direta (PAA), Fomento",SILVANÓPOLIS,1,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",GUARAI,1,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",Angico,1,angico,17.0,1701051.0,Angico,angico,,,,,,1701051.0,17.0,Angico
+Bolsa Família,CARMOLÂNDIA,1,carmolandia,17.0,1703883.0,Carmolândia,carmolandia,,,,,,1703883.0,17.0,Carmolândia
+Bolsa Família,ALMAS,1,almas,17.0,1700400.0,Almas,almas,,,,,,1700400.0,17.0,Almas
+"Bolsa Família, PENSÃO INSS",MARIANÓPOLIS DO TOCANTINS,1,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+Não,Wandrlãndia,1,wandrlandia,,,,,wanderlandia,1722081.0,17.0,Wanderlândia,wanderlandia,1722081.0,17.0,Wanderlândia
+"Merenda Escolar (PENAE), Fomento, Bolsa Família",SÍTIO NOVO DO TOCANTINS,1,sitio novo do tocantins,17.0,1720804.0,Sítio Novo do Tocantins,sitio novo do tocantins,,,,,,1720804.0,17.0,Sítio Novo do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE)",CRIXAS DO TOCANTINS,1,crixas do tocantins,17.0,1706258.0,Crixás do Tocantins,crixas do tocantins,,,,,,1706258.0,17.0,Crixás do Tocantins
+ATER INGENA,LAGOA DA CONFUSÃO - TO,1,lagoa da confusao - to,,,,,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão
+Não,Figueiropolis-TO,1,figueiropolis-to,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+Bolsa Família,CASEARA,1,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+"Crédito Rural, Compra Direta (PAA), Fomento",TUPIRAMA-TO,1,tupirama-to,,,,,tupirama,1721257.0,17.0,Tupirama,tupirama,1721257.0,17.0,Tupirama
+"Crédito Rural, Bolsa Família",FILADELFIA,1,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+Não,Caseara,1,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+"Compra Direta (PAA), Merenda Escolar (PENAE)",PALMAS,1,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+"Crédito Rural, Aposentadoria Rural",Gurupi,1,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+Fomento,Miracema do tocantins,1,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Fomento, Bolsa Família, Aposentadoria Rural",Novo Acordo,1,novo acordo,17.0,1715101.0,Novo Acordo,novo acordo,,,,,,1715101.0,17.0,Novo Acordo
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",Dianópolis,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+"Merenda Escolar (PENAE), Aposentadoria Rural",Araguaina,1,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+"Crédito Rural, Bolsa Família",MARIANOPOLIS DO TOCANTINS,1,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+Não,NOVA OLINDA - TO,1,nova olinda - to,,,,,nova olinda,1714880.0,17.0,Nova Olinda,nova olinda,1714880.0,17.0,Nova Olinda
+"Merenda Escolar (PENAE), Bolsa Família",Araguaina,1,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+"Crédito Rural, Aposentadoria Rural",CHAPADA DA NATIVIDADE,1,chapada da natividade,17.0,1705102.0,Chapada da Natividade,chapada da natividade,,,,,,1705102.0,17.0,Chapada da Natividade
+"Merenda Escolar (PENAE), Aposentadoria Rural",Couto Magalhães,1,couto magalhaes,17.0,1706001.0,Couto Magalhães,couto magalhaes,,,,,,1706001.0,17.0,Couto Magalhães
+"Crédito Rural, Compra Direta (PAA), Fomento, Aposentadoria Rural",SANTA MARIA DO TOCANTINS,1,santa maria do tocantins,17.0,1718881.0,Santa Maria do Tocantins,santa maria do tocantins,,,,,,1718881.0,17.0,Santa Maria do Tocantins
+"Compra Direta (PAA), Aposentadoria Rural",Miracema do Tocantins,1,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+Compra Direta (PAA),IPUEIRAS -TO,1,ipueiras -to,,,,,ipueiras,1709807.0,17.0,Ipueiras,ipueiras,1709807.0,17.0,Ipueiras
+Fomento,PORTO NACIONAL - TO,1,porto nacional - to,,,,,porto nacional,1718204.0,17.0,Porto Nacional,porto nacional,1718204.0,17.0,Porto Nacional
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Fomento, Aposentadoria Rural",Couto Magalhães,1,couto magalhaes,17.0,1706001.0,Couto Magalhães,couto magalhaes,,,,,,1706001.0,17.0,Couto Magalhães
+"Bolsa Família, Aposentadoria Rural",NOVA OLINDA - TO,1,nova olinda - to,,,,,nova olinda,1714880.0,17.0,Nova Olinda,nova olinda,1714880.0,17.0,Nova Olinda
+Não,Palmeirópolis,1,palmeiropolis,17.0,1715754.0,Palmeirópolis,palmeiropolis,,,,,,1715754.0,17.0,Palmeirópolis
+"Compra Direta (PAA), Merenda Escolar (PENAE)",DOIS IRMÃOS - TO,1,dois irmaos - to,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+"Bolsa Família, Aposentadoria Rural",DOIS IRMÃOS DO TOCANTINS - TO,1,dois irmaos do tocantins - to,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",SANTA MARIA DO TOCANTINS,1,santa maria do tocantins,17.0,1718881.0,Santa Maria do Tocantins,santa maria do tocantins,,,,,,1718881.0,17.0,Santa Maria do Tocantins
+Bolsa Família,BOM JESUS DO TOCANTINS,1,bom jesus do tocantins,17.0,1703305.0,Bom Jesus do Tocantins,bom jesus do tocantins,,,,,,1703305.0,17.0,Bom Jesus do Tocantins
+Compra Direta (PAA),Chapada de Areia,1,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+"Compra Direta (PAA), Aposentadoria Rural",Dois Irmãos do Tocantins,1,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+"Crédito Rural, Compra Direta (PAA)",Palmeirópolis,1,palmeiropolis,17.0,1715754.0,Palmeirópolis,palmeiropolis,,,,,,1715754.0,17.0,Palmeirópolis
+"Compra Direta (PAA), Aposentadoria Rural",ALMAS,1,almas,17.0,1700400.0,Almas,almas,,,,,,1700400.0,17.0,Almas
+Compra Direta (PAA),araguatins-esperantina,1,araguatins-esperantina,,,,,araguatins,1702208.0,17.0,Araguatins,araguatins,1702208.0,17.0,Araguatins
+Não,Colmeia,1,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",COLMÉIA,1,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",BOM JESUS DO TOCANTINS-TO,1,bom jesus do tocantins-to,,,,,bom jesus do tocantins,1703305.0,17.0,Bom Jesus do Tocantins,bom jesus do tocantins,1703305.0,17.0,Bom Jesus do Tocantins
+Crédito Rural,PARANÃ -TO,1,parana -to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",Novo Acordo,1,novo acordo,17.0,1715101.0,Novo Acordo,novo acordo,,,,,,1715101.0,17.0,Novo Acordo
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",Dianópolis - TO,1,dianopolis - to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+Não,ALMAES TO,1,almaes to,,,,,,,,,,,,
+"Compra Direta (PAA), Bolsa Família",Babaçulandia,1,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+Aposentadoria Rural,FÁTIMA - TO,1,fatima - to,,,,,fatima,1707553.0,17.0,Fátima,fatima,1707553.0,17.0,Fátima
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",PARAISO -TO,1,paraiso -to,,,,,paraiso do tocantins,1716109.0,17.0,Paraíso do Tocantins,paraiso do tocantins,1716109.0,17.0,Paraíso do Tocantins
+"Aposentadoria Rural, BPC",Cristalandia,1,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",esperantina,1,esperantina,17.0,1707405.0,Esperantina,esperantina,,,,,,1707405.0,17.0,Esperantina
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento, Bolsa Família",SÍTIO DEUS É BOM,1,sitio deus e bom,,,,,,,,,,,,
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",Dianópolis -To,1,dianopolis -to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+Compra Direta (PAA),SANTA FÉ DO ARAGUAIA,1,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+Compra Direta (PAA),SILVANOPOLIS,1,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+Não,DIVINOPOLIS,1,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+"Crédito Rural, Aposentadoria Rural",ITAGUATINS DO TOCANTINS,1,itaguatins do tocantins,,,,,itaguatins,1710706.0,17.0,Itaguatins,itaguatins,1710706.0,17.0,Itaguatins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família, Aposentadoria Rural",NOVA OLINDA - TO,1,nova olinda - to,,,,,nova olinda,1714880.0,17.0,Nova Olinda,nova olinda,1714880.0,17.0,Nova Olinda
+"Compra Direta (PAA), Fomento, Bolsa Família",Talismã-TO,1,talisma-to,,,,,talisma,1720978.0,17.0,Talismã,talisma,1720978.0,17.0,Talismã
+"Crédito Rural, Fomento",SÍTIO NOVO DO TO,1,sitio novo do to,,,,,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE)",São Salvador do Tocantins,1,sao salvador do tocantins,17.0,1720259.0,São Salvador do Tocantins,sao salvador do tocantins,,,,,,1720259.0,17.0,São Salvador do Tocantins
+"Crédito Rural, ATER",DARCINÓPOLIS,1,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+"Compra Direta (PAA), Bolsa Família",Riachinho,1,riachinho,17.0,1718550.0,Riachinho,riachinho,,,,,,1718550.0,17.0,Riachinho
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",PALMEIRAS,1,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+Bolsa Família,Dianópolis - To,1,dianopolis - to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+"Compra Direta (PAA), Merenda Escolar (PENAE)",NOVA OLINDA,1,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+Crédito Rural,BARROLÂNDIA,1,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",FILADÉLFIA,1,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+"Crédito Rural, Compra Direta (PAA)",SANTA FÉ DO ARAGUAIA,1,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+"Compra Direta (PAA), Bolsa Família",Ananás,1,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+Não,Monte Santo,1,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+Bolsa Família,SILVANOPOLIS TO,1,silvanopolis to,,,,,silvanopolis,1720655.0,17.0,Silvanópolis,silvanopolis,1720655.0,17.0,Silvanópolis
+Não,Alvorada TO,1,alvorada to,,,,,alvorada,1700707.0,17.0,Alvorada,alvorada,1700707.0,17.0,Alvorada
+Crédito Rural,MONTE DO CARMO-TO.,1,monte do carmo-to.,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+Compra Direta (PAA),Araguaçu,1,araguacu,17.0,1702000.0,Araguaçu,araguacu,,,,,,1702000.0,17.0,Araguaçu
+Não,Colmeia TO,1,colmeia to,,,,,colmeia,1716703.0,17.0,Colméia,colmeia,1716703.0,17.0,Colméia
+"Compra Direta (PAA), Aposentadoria Rural",PRAIA NORTE,1,praia norte,17.0,1718303.0,Praia Norte,praia norte,,,,,,1718303.0,17.0,Praia Norte
+Não,Barrolândia-TO,1,barrolandia-to,,,,,barrolandia,1703107.0,17.0,Barrolândia,barrolandia,1703107.0,17.0,Barrolândia
+Agente saúde,São Salvador do Tocantins,1,sao salvador do tocantins,17.0,1720259.0,São Salvador do Tocantins,sao salvador do tocantins,,,,,,1720259.0,17.0,São Salvador do Tocantins
+"Compra Direta (PAA), Bolsa Família",Nova Rosalãndia,1,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+Crédito Rural,RIO SONO - TO,1,rio sono - to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+Crédito Rural,BARROLÂNDIA -TO,1,barrolandia -to,,,,,barrolandia,1703107.0,17.0,Barrolândia,barrolandia,1703107.0,17.0,Barrolândia
+"Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",Dois Irmãos do Tocantins,1,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",TUPIRAMA,1,tupirama,17.0,1721257.0,Tupirama,tupirama,,,,,,1721257.0,17.0,Tupirama
+Crédito Rural,Dueré,1,duere,17.0,1707306.0,Dueré,duere,,,,,,1707306.0,17.0,Dueré
+Crédito Rural,MONTE SANTO DO TOCANTINS - TO,1,monte santo do tocantins - to,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+"Fomento, Aposentadoria Rural",AXIXÁ,1,axixa,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+"Crédito Rural, Merenda Escolar (PENAE), Fomento, Bolsa Família",NOVA OLINDA,1,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",DOIS IRMÃOS - TO,1,dois irmaos - to,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",DIANÓPOLIS-TO,1,dianopolis-to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+Não,NOVO JARDIM,1,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+PENSÃO,MARIANOPOLIS DO TOCANTINS,1,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+"Crédito Rural, Compra Direta (PAA), Aposentadoria Rural",Sucupira-TO,1,sucupira-to,,,,,sucupira,1720853.0,17.0,Sucupira,sucupira,1720853.0,17.0,Sucupira
+"Compra Direta (PAA), Merenda Escolar (PENAE), CONAB",DARCINOPOLIS,1,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+Crédito Rural,Axixá To,1,axixa to,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+LOA,NOVA OLINDA,1,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+Crédito Rural,São Salvador do Tocantins,1,sao salvador do tocantins,17.0,1720259.0,São Salvador do Tocantins,sao salvador do tocantins,,,,,,1720259.0,17.0,São Salvador do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",APARECIDA DO RIO NEGRO,1,aparecida do rio negro,17.0,1701101.0,Aparecida do Rio Negro,aparecida do rio negro,,,,,,1701101.0,17.0,Aparecida do Rio Negro
+Aposentadoria Rural,São Salvador do Tocantins,1,sao salvador do tocantins,17.0,1720259.0,São Salvador do Tocantins,sao salvador do tocantins,,,,,,1720259.0,17.0,São Salvador do Tocantins
+"Crédito Rural, Bolsa Família",MIRANORTE,1,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+Aposentadoria Rural,Araguaçu,1,araguacu,17.0,1702000.0,Araguaçu,araguacu,,,,,,1702000.0,17.0,Araguaçu
+"Crédito Rural, Compra Direta (PAA), Aposentadoria Rural",Araguatins,1,araguatins,17.0,1702208.0,Araguatins,araguatins,,,,,,1702208.0,17.0,Araguatins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",PARANÃ,1,parana,17.0,1716208.0,Paranã,parana,,,,,,1716208.0,17.0,Paranã
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",Dianópolis  -  TO,1,dianopolis  -  to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+Não,DUEURÉ,1,dueure,,,,,duere,1707306.0,17.0,Dueré,duere,1707306.0,17.0,Dueré
+APOSENTADORIA POR INVALIDEZ,PARAISO DO TOCANTINS,1,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+APOSENTADORIA POR INVALIDADE,SANTA FÉ DO ARAGUAIA,1,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+Crédito Rural,Sucupira,1,sucupira,17.0,1720853.0,Sucupira,sucupira,,,,,,1720853.0,17.0,Sucupira
+Não,PARAÍSO DO TOCANTINS,1,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+Compra Direta (PAA),DIVINOPOLIS,1,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+Bolsa Família,Gurupi,1,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",DIANÓPOLIS,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Não,FÁTIMA-TO,1,fatima-to,,,,,fatima,1707553.0,17.0,Fátima,fatima,1707553.0,17.0,Fátima
+"Crédito Rural, Merenda Escolar (PENAE), Aposentadoria Rural",SÍTIO NOVO DO TO,1,sitio novo do to,,,,,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins
+Não,"P.A Tamboril , Angico - TO",1,"p.a tamboril , angico - to",,,,,angico,1701051.0,17.0,Angico,angico,1701051.0,17.0,Angico
+"Crédito Rural, Bolsa Família",NOVA OLINDA,1,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+"Crédito Rural, Aposentadoria Rural",XAMBIOÁ TO,1,xambioa to,,,,,xambioa,1722107.0,17.0,Xambioá,xambioa,1722107.0,17.0,Xambioá
+Crédito Rural,SANTA MARIA DO TOCANTINS,1,santa maria do tocantins,17.0,1718881.0,Santa Maria do Tocantins,santa maria do tocantins,,,,,,1718881.0,17.0,Santa Maria do Tocantins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",COLMEIA,1,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+Aposentadoria Rural,ARAGUAÍNA,1,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+"Aposentadoria Rural, Aposentadoria INSS",Gurupi-TO,1,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+"Merenda Escolar (PENAE), Bolsa Família, Aposentadoria Rural, Oportunidade",Araguaína,1,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+"Compra Direta (PAA), Bolsa Família",PEDRO AFONSO,1,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+Aposentadoria Rural,FÁTIMA -TO,1,fatima -to,,,,,fatima,1707553.0,17.0,Fátima,fatima,1707553.0,17.0,Fátima
+"Crédito Rural, Bolsa Família",Dois Irmaos do Tocantins,1,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+"Crédito Rural, Aposentadoria Rural",DOIS IRMÃOS - TO,1,dois irmaos - to,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+"Compra Direta (PAA), Aposentadoria Rural, PENSÃO POR MORTE",NOVA OLINDA,1,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+"Não, Compra Direta (PAA), Bolsa Família",NOVA OLINDA,1,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+Não,DIANOPÓLIS,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+"Crédito Rural, Bolsa Família",SANTA FE DO ARAGUAIA,1,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+"Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",DIANÓPOLIS,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Fomento, Bolsa Família",DOIS IRMÃOS DO TOCANTINS - TO,1,dois irmaos do tocantins - to,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+"Crédito Rural, Compra Direta (PAA), Aposentadoria Rural",RIO SONO,1,rio sono,17.0,1718758.0,Rio Sono,rio sono,,,,,,1718758.0,17.0,Rio Sono
+"Compra Direta (PAA), Aposentadoria Rural",CASEARA-TO,1,caseara-to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+"Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",Gurupi-TO,1,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+"Crédito Rural, Compra Direta (PAA)",FIGUEIRÓPOLIS  - TO.,1,figueiropolis  - to.,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+"Crédito Rural, Compra Direta (PAA), Bolsa Família",PARANÃ TO,1,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+Crédito Rural,Itaguatins,1,itaguatins,17.0,1710706.0,Itaguatins,itaguatins,,,,,,1710706.0,17.0,Itaguatins
+Compra Direta (PAA),FÁTIMA -TO,1,fatima -to,,,,,fatima,1707553.0,17.0,Fátima,fatima,1707553.0,17.0,Fátima
+Crédito Rural,FÁTIMA -TO,1,fatima -to,,,,,fatima,1707553.0,17.0,Fátima,fatima,1707553.0,17.0,Fátima
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento, Bolsa Família, CONAB",PALMEIRAS,1,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+Crédito Rural,LAGOA DA CONFUSÃO -TO,1,lagoa da confusao -to,,,,,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão
+"Merenda Escolar (PENAE), Bolsa Família",Araguaina TO,1,araguaina to,,,,,araguaina,1702109.0,17.0,Araguaína,araguaina,1702109.0,17.0,Araguaína
+Bolsa Família,DIVINÓPOLIS,1,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",LAJEADO,1,lajeado,17.0,1712009.0,Lajeado,lajeado,,,,,,1712009.0,17.0,Lajeado
+"Compra Direta (PAA), Aposentadoria Rural",CHAPADA DE AREIA,1,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",DOIS IRMÃOS DO TOCANTINS,1,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+Bolsa Família,Novo Acordo,1,novo acordo,17.0,1715101.0,Novo Acordo,novo acordo,,,,,,1715101.0,17.0,Novo Acordo
+Aposentadoria Rural,SANTA FÉ DO ARAGUAIA,1,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",PALMEIRA DO TOCANTINS,1,palmeira do tocantins,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+Bolsa Família,Cristalandia -TO  Associação Vila da Prata,1,cristalandia -to  associacao vila da prata,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+"Crédito Rural, Aposentadoria Rural",MURICILANDIA,1,muricilandia,17.0,1713957.0,Muricilândia,muricilandia,,,,,,1713957.0,17.0,Muricilândia
+Crédito Rural,PEDRO AFONSO,1,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+"Crédito Rural, Compra Direta (PAA), Aposentadoria Rural",AXIXA DO TOCANTINS,1,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+Crédito Rural,MIRACEMA,1,miracema,,,,,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins
+"Crédito Rural, Bolsa Família, Aposentadoria Rural",ITAGUATINS,1,itaguatins,17.0,1710706.0,Itaguatins,itaguatins,,,,,,1710706.0,17.0,Itaguatins
+Não,Ananas,1,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+"Compra Direta (PAA), Merenda Escolar (PENAE), AUXILIO DOENÇA",ALMAS TO,1,almas to,,,,,almas,1700400.0,17.0,Almas,almas,1700400.0,17.0,Almas
+Bolsa Família,araguantins-esperantina,1,araguantins-esperantina,,,,,esperantina,1707405.0,17.0,Esperantina,esperantina,1707405.0,17.0,Esperantina
+Bolsa Família,Talisma,1,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+"Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",Araguatins,1,araguatins,17.0,1702208.0,Araguatins,araguatins,,,,,,1702208.0,17.0,Araguatins
+Não,Novo Jardim,1,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+"Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",CRIXAS DO TOCANTINS,1,crixas do tocantins,17.0,1706258.0,Crixás do Tocantins,crixas do tocantins,,,,,,1706258.0,17.0,Crixás do Tocantins
+"Compra Direta (PAA), Fomento, Aposentadoria Rural",BABAÇULANDIA,1,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",BOM JESUS DO TOCANTINS,1,bom jesus do tocantins,17.0,1703305.0,Bom Jesus do Tocantins,bom jesus do tocantins,,,,,,1703305.0,17.0,Bom Jesus do Tocantins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Fomento, Bolsa Família",DOIS IRMÃOS DO TOCANTINS,1,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+"Crédito Rural, AUXILIO DOENÇA",FILADELFIA,1,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+"Compra Direta (PAA), Merenda Escolar (PENAE)",CASEARA-TO,1,caseara-to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+Compra Direta (PAA),FIGUEIRÓPOLIS - TO.,1,figueiropolis - to.,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+CAF,CASEARA-TO,1,caseara-to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+Bolsa Família,SILVANOPOLIS,1,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+Compra Direta (PAA),AXIXA DO TOCANTINS,1,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+Compra Direta (PAA),PORTO NACIONAL - TO,1,porto nacional - to,,,,,porto nacional,1718204.0,17.0,Porto Nacional,porto nacional,1718204.0,17.0,Porto Nacional
+Crédito Rural,Sucupira-TO,1,sucupira-to,,,,,sucupira,1720853.0,17.0,Sucupira,sucupira,1720853.0,17.0,Sucupira
+Compra Direta (PAA),BABAÇULANDIA,1,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",LAJEADO,1,lajeado,17.0,1712009.0,Lajeado,lajeado,,,,,,1712009.0,17.0,Lajeado
+Não,ARAGOMINAS,1,aragominas,17.0,1701309.0,Aragominas,aragominas,,,,,,1701309.0,17.0,Aragominas
+Crédito Rural,ALMAS,1,almas,17.0,1700400.0,Almas,almas,,,,,,1700400.0,17.0,Almas
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",Santa Terezinha do Tocantins,1,santa terezinha do tocantins,17.0,1720002.0,Santa Terezinha do Tocantins,santa terezinha do tocantins,,,,,,1720002.0,17.0,Santa Terezinha do Tocantins
+Compra Direta (PAA),Talisma,1,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+Não,Araguanã,1,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+Crédito Rural,ARAGOMINAS-TO,1,aragominas-to,,,,,aragominas,1701309.0,17.0,Aragominas,aragominas,1701309.0,17.0,Aragominas
+Crédito Rural,Nova Rosalândia,1,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+CONAB,SÍTIO NVOVO DO TO,1,sitio nvovo do to,,,,,santa terezinha do tocantins,1720002.0,17.0,Santa Terezinha do Tocantins,santa terezinha do tocantins,1720002.0,17.0,Santa Terezinha do Tocantins
+Bolsa Família,Araguanã,1,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+Crédito Rural,ponte alta do bom jesus,1,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+Compra Direta (PAA),CASEARA-TO,1,caseara-to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+Não,SITIO NOVO TO,1,sitio novo to,,,,,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins
+Fomento,Ipueiras,1,ipueiras,17.0,1709807.0,Ipueiras,ipueiras,,,,,,1709807.0,17.0,Ipueiras
+"Bolsa Família, DEFESO",Filadélfia,1,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+"Merenda Escolar (PENAE), Aposentadoria Rural",GUARAÍ,1,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+Não,SITIO NOVO -TO,1,sitio novo -to,,,,,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins
+Não,São Bento do Tocantins,1,sao bento do tocantins,17.0,1720101.0,São Bento do Tocantins,sao bento do tocantins,,,,,,1720101.0,17.0,São Bento do Tocantins
+"Crédito Rural, Merenda Escolar (PENAE)",SÃO MIGUEL DO TOCANTINS,1,sao miguel do tocantins,17.0,1720200.0,São Miguel do Tocantins,sao miguel do tocantins,,,,,,1720200.0,17.0,São Miguel do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",DIANÓPOLIS-TO,1,dianopolis-to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",Dois Irmãos do Tocantins,1,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+"Crédito Rural, Aposentadoria Rural",MONTE SANTO,1,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+Compra Direta (PAA),COLMÉIA,1,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+Bolsa Família,Wanderlândia,1,wanderlandia,17.0,1722081.0,Wanderlândia,wanderlandia,,,,,,1722081.0,17.0,Wanderlândia
+"Crédito Rural, Bolsa Família",Paraiso do Tocantins,1,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+"Crédito Rural, Aposentadoria Rural",Araguaçu,1,araguacu,17.0,1702000.0,Araguaçu,araguacu,,,,,,1702000.0,17.0,Araguaçu
+"Crédito Rural, Compra Direta (PAA)",PONTE ALTA DO BOM JESUS,1,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+"Crédito Rural, Fomento",PALMEIRAS DO TOCANTINS,1,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+Não,LAGOA DA CONFUSÃO -TO,1,lagoa da confusao -to,,,,,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão
+Crédito Rural,AXIXÁ DO TOCANTINS TO,1,axixa do tocantins to,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+APOSENTADORIA RURAL,CHAPADA DA NATIVIDADE-TO,1,chapada da natividade-to,,,,,chapada da natividade,1705102.0,17.0,Chapada da Natividade,chapada da natividade,1705102.0,17.0,Chapada da Natividade
+"Crédito Rural, Compra Direta (PAA)",AXIXA DO TOCANTINS,1,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+Aposentadoria Rural,CHAPADA DA NATIVIDADE-TO,1,chapada da natividade-to,,,,,chapada da natividade,1705102.0,17.0,Chapada da Natividade,chapada da natividade,1705102.0,17.0,Chapada da Natividade
+"Compra Direta (PAA), Merenda Escolar (PENAE)",CASEARA,1,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+"Crédito Rural, Aposentadoria Rural",SÍTIO NOVO DO TOCANTINS,1,sitio novo do tocantins,17.0,1720804.0,Sítio Novo do Tocantins,sitio novo do tocantins,,,,,,1720804.0,17.0,Sítio Novo do Tocantins
+"Merenda Escolar (PENAE), Bolsa Família",Miranorte,1,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+Não,IPUEIRAS,1,ipueiras,17.0,1709807.0,Ipueiras,ipueiras,,,,,,1709807.0,17.0,Ipueiras
+Compra Direta (PAA),GUARAÍ,1,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+"CAF , CAR.",PARANÃ,1,parana,17.0,1716208.0,Paranã,parana,,,,,,1716208.0,17.0,Paranã
+"Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",Araguanã,1,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento, Bolsa Família",Palmeiras do Tocantins,1,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",PONTE ALTA DO BOM JESUS,1,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+Não,Almas,1,almas,17.0,1700400.0,Almas,almas,,,,,,1700400.0,17.0,Almas
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",Dois Irmãos,1,dois irmaos,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+Bolsa Família,ARAGOMINAS,1,aragominas,17.0,1701309.0,Aragominas,aragominas,,,,,,1701309.0,17.0,Aragominas
+Bolsa Família,DUERÉ,1,duere,17.0,1707306.0,Dueré,duere,,,,,,1707306.0,17.0,Dueré
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",DIVINÓPOLIS - TO,1,divinopolis - to,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+"Crédito Rural, Aposentadoria Rural",Divinopolis do Tocantins,1,divinopolis do tocantins,17.0,1707108.0,Divinópolis do Tocantins,divinopolis do tocantins,,,,,,1707108.0,17.0,Divinópolis do Tocantins
+Compra Direta (PAA),GUARAI,1,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+CAF,SILVANOPOLIS,1,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+Crédito Rural,SANTA FÉ DO ARAGUAIA-TO,1,santa fe do araguaia-to,,,,,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia
+"Compra Direta (PAA), Merenda Escolar (PENAE)",Riachinho,1,riachinho,17.0,1718550.0,Riachinho,riachinho,,,,,,1718550.0,17.0,Riachinho
+FOMENTO,PALMEIRAS DO TOCANTINS,1,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+"Crédito Rural, Aposentadoria Rural",Paraiso do Tocantins,1,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+Não,Dianópolis,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+"Compra Direta (PAA), Bolsa Família",RIO SONO TOCANTINS,1,rio sono tocantins,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+"Compra Direta (PAA), Fomento",CHÁCARA BAIXA FUNDA,1,chacara baixa funda,,,,,,,,,,,,
+"Crédito Rural, Aposentadoria Rural",LAJEADO,1,lajeado,17.0,1712009.0,Lajeado,lajeado,,,,,,1712009.0,17.0,Lajeado
+Crédito Rural,CASEARA - TO,1,caseara - to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",ABREULANDIA,1,abreulandia,17.0,1700251.0,Abreulândia,abreulandia,,,,,,1700251.0,17.0,Abreulândia
+ATER NORMAL,DARCINÓPOLIS,1,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+"Crédito Rural, Bolsa Família",Divinopolis,1,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+Aposentadoria Rural,Chapada de Areia,1,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+"Crédito Rural, Compra Direta (PAA), Fomento, Aposentadoria Rural",Talisma,1,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+"Crédito Rural, Fomento, Aposentadoria Rural",PORTO ALEGRE DO TOCANTINS,1,porto alegre do tocantins,17.0,1718006.0,Porto Alegre do Tocantins,porto alegre do tocantins,,,,,,1718006.0,17.0,Porto Alegre do Tocantins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",Araguaçu,1,araguacu,17.0,1702000.0,Araguaçu,araguacu,,,,,,1702000.0,17.0,Araguaçu
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",Araguatins,1,araguatins,17.0,1702208.0,Araguatins,araguatins,,,,,,1702208.0,17.0,Araguatins
+"Fomento, Bolsa Família",LAJEADO,1,lajeado,17.0,1712009.0,Lajeado,lajeado,,,,,,1712009.0,17.0,Lajeado
+"Crédito Rural, Compra Direta (PAA)",Sucupira-TO,1,sucupira-to,,,,,sucupira,1720853.0,17.0,Sucupira,sucupira,1720853.0,17.0,Sucupira
+Crédito Rural,Araguaína,1,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+Não,PARANÃ TO,1,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+"Crédito Rural, PRONAF",Sucupira-TO,1,sucupira-to,,,,,sucupira,1720853.0,17.0,Sucupira,sucupira,1720853.0,17.0,Sucupira
+"Compra Direta (PAA), Fomento",Palmeirópolis,1,palmeiropolis,17.0,1715754.0,Palmeirópolis,palmeiropolis,,,,,,1715754.0,17.0,Palmeirópolis
+Compra Direta (PAA),Alvorada,1,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",PARAÍSO -TO,1,paraiso -to,,,,,paraiso do tocantins,1716109.0,17.0,Paraíso do Tocantins,paraiso do tocantins,1716109.0,17.0,Paraíso do Tocantins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",LUZINOPOLIS,1,luzinopolis,17.0,1712454.0,Luzinópolis,luzinopolis,,,,,,1712454.0,17.0,Luzinópolis
+"Não, ATER",PALMEIRAS DO TOCANTINS,1,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+"Não, Crédito Rural",PARANÃ-TO,1,parana-to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+Aposentadoria Rural,IPUEIRAS,1,ipueiras,17.0,1709807.0,Ipueiras,ipueiras,,,,,,1709807.0,17.0,Ipueiras
+Não,Miranorte-TO,1,miranorte-to,,,,,miranorte,1713304.0,17.0,Miranorte,miranorte,1713304.0,17.0,Miranorte
+"Crédito Rural, Compra Direta (PAA)",Talisma,1,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+Compra Direta (PAA),PORTO NACIONAL,1,porto nacional,17.0,1718204.0,Porto Nacional,porto nacional,,,,,,1718204.0,17.0,Porto Nacional
+"Compra Direta (PAA), Merenda Escolar (PENAE)",DIANÓPOLIS,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Bolsa Família,RIO SONO - TO,1,rio sono - to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+Não,Barrolândia-To,1,barrolandia-to,,,,,barrolandia,1703107.0,17.0,Barrolândia,barrolandia,1703107.0,17.0,Barrolândia
+"Crédito Rural, Bolsa Família",Talisma,1,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",ALVORADA,1,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+Aposentadoria Rural,RIO DOS BOIS,1,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+"Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",PALMAS,1,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+"Crédito Rural, Compra Direta (PAA)",Miracema do Tocantins,1,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+Crédito Rural,ABREULANDIA,1,abreulandia,17.0,1700251.0,Abreulândia,abreulandia,,,,,,1700251.0,17.0,Abreulândia
+Crédito Rural,AGUIARNÓPOLIS,1,aguiarnopolis,17.0,1700301.0,Aguiarnópolis,aguiarnopolis,,,,,,1700301.0,17.0,Aguiarnópolis
+"Bolsa Família, MAIS AMLIMENTO",ARAGOMINAS,1,aragominas,17.0,1701309.0,Aragominas,aragominas,,,,,,1701309.0,17.0,Aragominas
+Crédito Rural,Novo Acordo,1,novo acordo,17.0,1715101.0,Novo Acordo,novo acordo,,,,,,1715101.0,17.0,Novo Acordo
+"Fomento, Bolsa Família",PALMAS,1,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+"Crédito Rural, Compra Direta (PAA), Fomento",AXIXÁ DO TOCANTINS,1,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+"Compra Direta (PAA), Aposentadoria Rural",CASEARA -TO,1,caseara -to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+Crédito Rural,MONTE SANTO,1,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+Aposentadoria Rural,Aurora do Tocantins,1,aurora do tocantins,17.0,1702703.0,Aurora do Tocantins,aurora do tocantins,,,,,,1702703.0,17.0,Aurora do Tocantins
+"Crédito Rural, Fomento, Aposentadoria Rural",Peixe,1,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+"Crédito Rural, Compra Direta (PAA)",RIACHINHO,1,riachinho,17.0,1718550.0,Riachinho,riachinho,,,,,,1718550.0,17.0,Riachinho
+"Fomento, Bolsa Família",ARAGOMINAS,1,aragominas,17.0,1701309.0,Aragominas,aragominas,,,,,,1701309.0,17.0,Aragominas
+Não,ALMAS,1,almas,17.0,1700400.0,Almas,almas,,,,,,1700400.0,17.0,Almas
+"Crédito Rural, Bolsa Família",PONTE ALTA DO BOM JESUS,1,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+"Crédito Rural, Aposentadoria Rural",DUERÉ,1,duere,17.0,1707306.0,Dueré,duere,,,,,,1707306.0,17.0,Dueré
+"Crédito Rural, Aposentadoria Rural",JAU DO TO,1,jau do to,,,,,jau do tocantins,1711506.0,17.0,Jaú do Tocantins,jau do tocantins,1711506.0,17.0,Jaú do Tocantins
+Compra Direta (PAA),CARIRI DO TOCANTIINS -TO,1,cariri do tocantiins -to,,,,,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins
+CREDITO FUNDIARIO,PARAISO DO TOCANTINS,1,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+Merenda Escolar (PENAE),COLMÉIA,1,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+Não,Dueré TO,1,duere to,,,,,duere,1707306.0,17.0,Dueré,duere,1707306.0,17.0,Dueré
+"Crédito Rural, CADASTRO AMBIENTAL RURAL",DOIS IRMÃOS DO TOCANTINS - TO,1,dois irmaos do tocantins - to,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",RIO SONO,1,rio sono,17.0,1718758.0,Rio Sono,rio sono,,,,,,1718758.0,17.0,Rio Sono
+Crédito Rural,COUTO DE MAGALHAES,1,couto de magalhaes,,,,,couto magalhaes,1706001.0,17.0,Couto Magalhães,couto magalhaes,1706001.0,17.0,Couto Magalhães
+"Crédito Rural, Compra Direta (PAA), Bolsa Família, Aposentadoria Rural",CASEARA - TO,1,caseara - to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+Não,Angico,1,angico,17.0,1701051.0,Angico,angico,,,,,,1701051.0,17.0,Angico
+"Compra Direta (PAA), Merenda Escolar (PENAE)",Palmeiras do Tocantins,1,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+Bolsa Família,MONTE DO CARMO-TO.,1,monte do carmo-to.,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+Crédito Rural,ARAGOMINAS -TO,1,aragominas -to,,,,,aragominas,1701309.0,17.0,Aragominas,aragominas,1701309.0,17.0,Aragominas
+"Não, Bolsa Família",Miranorte/To,1,miranorte/to,,,,,miranorte,1713304.0,17.0,Miranorte,miranorte,1713304.0,17.0,Miranorte
+"Bolsa Família, Aposentadoria Rural, Aposento por Incapacidade Permamente",Marianópolis do Tocantins,1,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+Fomento,PALMEIRAS DO TOCANTINS,1,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+Aposentadoria Rural,PEDRO AFONSO,1,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+"Crédito Rural, Compra Direta (PAA), Fomento, Bolsa Família, Aposentadoria Rural",DOIS IRMÃOS DO TOCANTINS,1,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+"Crédito Rural, Aposentadoria Rural",Xambioa,1,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+Não,DOIS IRMAOS,1,dois irmaos,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+"Bolsa Família, Aposentadoria Rural",ARAGOMINAS -TO,1,aragominas -to,,,,,aragominas,1701309.0,17.0,Aragominas,aragominas,1701309.0,17.0,Aragominas
+Não,Gurupi,1,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+Crédito Rural,SILVANOPOLIS,1,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+Não,TABOCÃO,1,tabocao,,,,,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão
+"Crédito Rural, Bolsa Família",Xambioá,1,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+Crédito Rural,BARROLANDIA,1,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+"Crédito Rural, Compra Direta (PAA)",MONTE SANTO,1,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+"Crédito Rural, Compra Direta (PAA)",DIVINÓPOLIS,1,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+Bolsa Família,pium,1,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+Merenda Escolar (PENAE),Alvorada,1,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+Aposentadoria Rural,rio sono  to,1,rio sono  to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+Crédito Rural,PORTO NACIONAL,1,porto nacional,17.0,1718204.0,Porto Nacional,porto nacional,,,,,,1718204.0,17.0,Porto Nacional
+Crédito Rural,Dianopolis,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Aposentadoria Rural,AXIXA DO TO,1,axixa do to,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+"Crédito Rural, Compra Direta (PAA)",MONTE SANTO TO,1,monte santo to,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+"Compra Direta (PAA), Bolsa Família",Xambioa,1,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+Crédito Rural,Aliança do Tocantins,1,alianca do tocantins,17.0,1700350.0,Aliança do Tocantins,alianca do tocantins,,,,,,1700350.0,17.0,Aliança do Tocantins
+Não,FÁTIMA - TO,1,fatima - to,,,,,fatima,1707553.0,17.0,Fátima,fatima,1707553.0,17.0,Fátima
+"Crédito Rural, PENSÃO",MARIANOPOLIS DO TOCANTINS,1,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+Merenda Escolar (PENAE),Santa Terezinha do Tocantins,1,santa terezinha do tocantins,17.0,1720002.0,Santa Terezinha do Tocantins,santa terezinha do tocantins,,,,,,1720002.0,17.0,Santa Terezinha do Tocantins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",Paraíso do Tocantins,1,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+AUXILIO DOENÇA,FILADÉLFIA,1,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+"Crédito Rural, Aposentadoria Rural",Cristalandia - TO,1,cristalandia - to,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+"Compra Direta (PAA), Aposentadoria Rural",bABAÇULÂNDIA,1,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+"Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",PEDRO AFONSO,1,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+Bolsa Família,Dianópolis,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Não,PIRAQUÊ,1,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Fomento, Aposentadoria Rural",SANTA FÉ DO ARAGUAIA,1,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+"Fomento, Bolsa Família",PORTO ALEGRE DO TOCANTINS,1,porto alegre do tocantins,17.0,1718006.0,Porto Alegre do Tocantins,porto alegre do tocantins,,,,,,1718006.0,17.0,Porto Alegre do Tocantins
+"Crédito Rural, Aposentadoria Rural",Marianópolis - TO,1,marianopolis - to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+"Crédito Rural, Aposentadoria Rural",PARANÃ TO,1,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+PENSÃO POR MORTE,PIUM,1,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+Bolsa Família,Filadélfia,1,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+"Crédito Rural, Bolsa Família",ESPERANTINA -TO,1,esperantina -to,,,,,esperantina,1707405.0,17.0,Esperantina,esperantina,1707405.0,17.0,Esperantina
+Bpc filho deficiente,Xambioá,1,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+Não,PALMAS,1,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+Crédito Rural,SILVANÓPOLIS,1,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+Crédito Rural,DIVINOPOLIS-TO,1,divinopolis-to,,,,,,,,,,,,
+"Crédito Rural, Aposentadoria Rural",SANTA MARIA DO TO.,1,santa maria do to.,,,,,santa terezinha do tocantins,1720002.0,17.0,Santa Terezinha do Tocantins,santa terezinha do tocantins,1720002.0,17.0,Santa Terezinha do Tocantins
+"Crédito Rural, Compra Direta (PAA), Fomento, Aposentadoria Rural",SÍTIO NOVO DO TO,1,sitio novo do to,,,,,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins
+"Compra Direta (PAA), Fomento",CARIRI DO TOCANTINS - TO,1,cariri do tocantins - to,,,,,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins
+Não,Miracema dO Tocantins,1,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+"Crédito Rural, Compra Direta (PAA)",Araguana,1,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+"Crédito Rural, Compra Direta (PAA), Aposentadoria Rural",NOVA OLINDA,1,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",DIANÓPOLIS,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",LUZINOPOLIS-TO,1,luzinopolis-to,,,,,luzinopolis,1712454.0,17.0,Luzinópolis,luzinopolis,1712454.0,17.0,Luzinópolis
+Não,Araguana,1,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+"Compra Direta (PAA), CONAB",PALMEIRAS,1,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+Fomento,CHAPADA DA NATIVIDADE,1,chapada da natividade,17.0,1705102.0,Chapada da Natividade,chapada da natividade,,,,,,1705102.0,17.0,Chapada da Natividade
+"Crédito Rural, Bolsa Família",RIO SONO  TO,1,rio sono  to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+Não,Talismã,1,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+"Crédito Rural, Compra Direta (PAA)",MARIANÓPOLIS,1,marianopolis,,,,,marianopolis do tocantins,1712504.0,17.0,Marianópolis do Tocantins,marianopolis do tocantins,1712504.0,17.0,Marianópolis do Tocantins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",Angico,1,angico,17.0,1701051.0,Angico,angico,,,,,,1701051.0,17.0,Angico
+"Crédito Rural, Compra Direta (PAA), Fomento, Aposentadoria Rural",Peixe,1,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+CAF,PORTO ALEGRE DO TOCANTINS,1,porto alegre do tocantins,17.0,1718006.0,Porto Alegre do Tocantins,porto alegre do tocantins,,,,,,1718006.0,17.0,Porto Alegre do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",DIANÓPOLIS,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+"Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",Dois Irmãos,1,dois irmaos,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+Não,FIGUEIROPOLIS,1,figueiropolis,17.0,1707652.0,Figueirópolis,figueiropolis,,,,,,1707652.0,17.0,Figueirópolis
+"Compra Direta (PAA), Bolsa Família",MARIANOPOLIS DO TOCANTINS,1,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+CID:H54.0,Tocantínia,1,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+Não,miracema tocantins,1,miracema tocantins,,,,,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins
+Crédito Rural,PIUM -TO,1,pium -to,,,,,pium,1717503.0,17.0,Pium,pium,1717503.0,17.0,Pium
+Bolsa Família,ARAGOMIAS,1,aragomias,,,,,aragominas,1701309.0,17.0,Aragominas,aragominas,1701309.0,17.0,Aragominas
+"Crédito Rural, Bolsa Família",ARAGOMINAS,1,aragominas,17.0,1701309.0,Aragominas,aragominas,,,,,,1701309.0,17.0,Aragominas
+Aposentadoria Rural,Peixe,1,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+"Crédito Rural, Aposentadoria Rural",FÁTIMA - TO,1,fatima - to,,,,,fatima,1707553.0,17.0,Fátima,fatima,1707553.0,17.0,Fátima
+Não,Talismã-TO,1,talisma-to,,,,,talisma,1720978.0,17.0,Talismã,talisma,1720978.0,17.0,Talismã
+"Compra Direta (PAA), Merenda Escolar (PENAE)",Itaporã do Tocantins,1,itapora do tocantins,17.0,1711100.0,Itaporã do Tocantins,itapora do tocantins,,,,,,1711100.0,17.0,Itaporã do Tocantins
+"Crédito Rural, Aposentadoria Rural",PALMAS,1,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+Aposentadoria Rural,CRIXÁS DO TOCANTINS,1,crixas do tocantins,17.0,1706258.0,Crixás do Tocantins,crixas do tocantins,,,,,,1706258.0,17.0,Crixás do Tocantins
+Merenda Escolar (PENAE),MONTE SANTO,1,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+Crédito Rural,Filadelfia,1,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",RIO DOS BOIS,1,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",PONTE ALTA DO BOM JESUS,1,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+"Bolsa Família, Aposentadoria Rural",Cristalandia TO   Associação Vila da Prata,1,cristalandia to   associacao vila da prata,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+"Compra Direta (PAA), Bolsa Família",RIO SONO,1,rio sono,17.0,1718758.0,Rio Sono,rio sono,,,,,,1718758.0,17.0,Rio Sono
+Crédito Rural,Lagoa da Confusão,1,lagoa da confusao,17.0,1711902.0,Lagoa da Confusão,lagoa da confusao,,,,,,1711902.0,17.0,Lagoa da Confusão
+"Compra Direta (PAA), Merenda Escolar (PENAE)",ABREULÂNDIA,1,abreulandia,17.0,1700251.0,Abreulândia,abreulandia,,,,,,1700251.0,17.0,Abreulândia
+Não,SILVANÓPOLIS,1,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+Não,SÃO MIGUEL DO TOCANTINS,1,sao miguel do tocantins,17.0,1720200.0,São Miguel do Tocantins,sao miguel do tocantins,,,,,,1720200.0,17.0,São Miguel do Tocantins
+"Crédito Rural, Bolsa Família",Cristalândia,1,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+Crédito Rural,Xambioa,1,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+Aposentadoria Rural,Cristalandia To   PA S. Francisco,1,cristalandia to   pa s. francisco,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+Não,SITIO NOVO-TO,1,sitio novo-to,,,,,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins
+Crédito Rural,ALIANÇA DO TOCANTINS,1,alianca do tocantins,17.0,1700350.0,Aliança do Tocantins,alianca do tocantins,,,,,,1700350.0,17.0,Aliança do Tocantins
+Aposentadoria Rural,Filadelfia,1,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+Crédito Rural,DOIS IRMAÕS DO TOCANTINS,1,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+"Crédito Rural, Compra Direta (PAA)",PARANÃ TO,1,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+"Compra Direta (PAA), Merenda Escolar (PENAE)",CENTENÁRIO - TO,1,centenario - to,,,,,centenario,1704105.0,17.0,Centenário,centenario,1704105.0,17.0,Centenário
+Não,ANANÁS - TO,1,ananas - to,,,,,ananas,1701002.0,17.0,Ananás,ananas,1701002.0,17.0,Ananás
+"Crédito Rural, Compra Direta (PAA)",FIGUEIRÓPOLIS -TO,1,figueiropolis -to,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",SÃO MIGUEL DO TOCANTINS,1,sao miguel do tocantins,17.0,1720200.0,São Miguel do Tocantins,sao miguel do tocantins,,,,,,1720200.0,17.0,São Miguel do Tocantins
+"Crédito Rural,",PARANÃ -TO,1,parana -to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+"Crédito Rural, Compra Direta (PAA), Aposentadoria Rural",DIVINÓPOLIS,1,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+"Crédito Rural, Aposentadoria Rural",FILADÉLFIA,1,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+"Crédito Rural, Compra Direta (PAA)",Pugmil,1,pugmil,17.0,1718451.0,Pugmil,pugmil,,,,,,1718451.0,17.0,Pugmil
+Não,Rio da Conceiçaõ,1,rio da conceicao,17.0,1718659.0,Rio da Conceição,rio da conceicao,,,,,,1718659.0,17.0,Rio da Conceição
+Compra Direta (PAA),DARCINOPOLIS,1,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+Crédito Rural,CHAPADA DE AREIA,1,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+"Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",PARANÃ,1,parana,17.0,1716208.0,Paranã,parana,,,,,,1716208.0,17.0,Paranã
+"Crédito Rural, Compra Direta (PAA)",Talismã-TO,1,talisma-to,,,,,talisma,1720978.0,17.0,Talismã,talisma,1720978.0,17.0,Talismã
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",Divinópolis - TO,1,divinopolis - to,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+"Crédito Rural, Compra Direta (PAA), Aposentadoria Rural",Talisma,1,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",DIVINÓPOLIS - TO,1,divinopolis - to,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",SÍTIO NOVO DO TOCANTINS,1,sitio novo do tocantins,17.0,1720804.0,Sítio Novo do Tocantins,sitio novo do tocantins,,,,,,1720804.0,17.0,Sítio Novo do Tocantins
+Não,BOM JESUS DO TOCANTINS,1,bom jesus do tocantins,17.0,1703305.0,Bom Jesus do Tocantins,bom jesus do tocantins,,,,,,1703305.0,17.0,Bom Jesus do Tocantins
+Fomento,DIVINÓPOLIS,1,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE)",ARAGUAÍNA,1,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+Fomento,Araguaina,1,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+"Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",COLMEIA,1,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+"Crédito Rural, Fomento",DIVINÓPOLIS,1,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+"Crédito Rural, Aposentadoria Rural",PEDRO AFONSO,1,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+"Crédito Rural, Fomento",AXIXÁ DO TOCANTINS,1,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+Crédito Rural,CARIRI DO TOCANTINS -TO,1,cariri do tocantins -to,,,,,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins
+"Crédito Rural, Compra Direta (PAA), Aposentadoria Rural",DOIS IRMÃOS DO TOCANTINS,1,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+"Crédito Rural, Aposentadoria Rural",FILADELFIA,1,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+"Crédito Rural, Bolsa Família",ponte alta do bom jesus,1,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+Crédito Rural,SANTA FÉ DO ARAGUAINA,1,santa fe do araguaina,,,,,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia
+Crédito Rural,RIO SONO,1,rio sono,17.0,1718758.0,Rio Sono,rio sono,,,,,,1718758.0,17.0,Rio Sono
+Aposentadoria Rural,ITAGUATINS,1,itaguatins,17.0,1710706.0,Itaguatins,itaguatins,,,,,,1710706.0,17.0,Itaguatins
+Não,AGUIARNOPOLIS,1,aguiarnopolis,17.0,1700301.0,Aguiarnópolis,aguiarnopolis,,,,,,1700301.0,17.0,Aguiarnópolis
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",Caseara,1,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",PALMEIRAS DO TOCANTINS,1,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+Crédito Rural,SANTA FÉ DO ARAGUAIA - TO,1,santa fe do araguaia - to,,,,,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia
+"Bolsa Família, Aposentadoria Rural",PIUM,1,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+Não,CASEARA,1,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+Bolsa Família,DIANÓPOLIS TO,1,dianopolis to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+"Crédito Rural, Aposentadoria Rural",Dois Irmãos,1,dois irmaos,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+Crédito Rural,ITAGUATINS,1,itaguatins,17.0,1710706.0,Itaguatins,itaguatins,,,,,,1710706.0,17.0,Itaguatins
+"Merenda Escolar (PENAE), Bolsa Família, SEGURO DEFESO",PALMEIRAS,1,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+"Crédito Rural, Compra Direta (PAA)",Araguanã,1,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+"Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",Barrolândia -To,1,barrolandia -to,,,,,barrolandia,1703107.0,17.0,Barrolândia,barrolandia,1703107.0,17.0,Barrolândia
+Não,Araguaçu,1,araguacu,17.0,1702000.0,Araguaçu,araguacu,,,,,,1702000.0,17.0,Araguaçu
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",Itaporã do Tocantins,1,itapora do tocantins,17.0,1711100.0,Itaporã do Tocantins,itapora do tocantins,,,,,,1711100.0,17.0,Itaporã do Tocantins
+Aposentadoria Rural,Dianópolis,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+"Compra Direta (PAA), Aposentadoria Rural",CASEARA,1,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+Crédito Rural,Talisma,1,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+"Crédito Rural, Aposentadoria Rural",SILVANÓPOLIS,1,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+"Crédito Rural, Bolsa Família",RIO DOS BOIS,1,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+Bolsa Família,Cristalândia - TO  PA Virgínia,1,cristalandia - to  pa virginia,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+Não,SÍTIO NOVO DO TOCANTINS,1,sitio novo do tocantins,17.0,1720804.0,Sítio Novo do Tocantins,sitio novo do tocantins,,,,,,1720804.0,17.0,Sítio Novo do Tocantins
+"Compra Direta (PAA), Bolsa Família",Xambioá,1,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+Merenda Escolar (PENAE),COLMEIA,1,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+Crédito Rural,ALMAS TO,1,almas to,,,,,almas,1700400.0,17.0,Almas,almas,1700400.0,17.0,Almas
+"Crédito Rural, Fomento, Aposentadoria Rural",Xambioá,1,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+"Crédito Rural, Compra Direta (PAA)",RIO DOS BOIS,1,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+Aposentadoria Rural,Marianópolis - TO,1,marianopolis - to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+Bolsa Família,Cristalandia To  Associação Vila da Prata,1,cristalandia to  associacao vila da prata,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+Bolsa Família,Silvanópolis,1,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+Não,São Salvador do Tocantins,1,sao salvador do tocantins,17.0,1720259.0,São Salvador do Tocantins,sao salvador do tocantins,,,,,,1720259.0,17.0,São Salvador do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE)",Piraquê,1,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",PALMEIRAS DO TOCANTINS,1,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",TUPIRAMA- TO,1,tupirama- to,,,,,tupirama,1721257.0,17.0,Tupirama,tupirama,1721257.0,17.0,Tupirama
+Crédito Rural,DIVINÓPOLIS - TO,1,divinopolis - to,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+Bolsa Família,NOVO JARDIM,1,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+"Compra Direta (PAA), Merenda Escolar (PENAE)",Araguatins,1,araguatins,17.0,1702208.0,Araguatins,araguatins,,,,,,1702208.0,17.0,Araguatins
+"Crédito Rural, Fomento",MIRANORTE,1,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+Não,Miracema Do Tocantins,1,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+"Crédito Rural, Compra Direta (PAA)",Babaçulandia,1,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+"Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",PARANÃ O,1,parana o,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+"Compra Direta (PAA), Aposentadoria Rural",Aliança,1,alianca,,,,,alianca do tocantins,1700350.0,17.0,Aliança do Tocantins,alianca do tocantins,1700350.0,17.0,Aliança do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE)",SANTA MARIA DO TOCANTINS,1,santa maria do tocantins,17.0,1718881.0,Santa Maria do Tocantins,santa maria do tocantins,,,,,,1718881.0,17.0,Santa Maria do Tocantins
+"Crédito Rural, Compra Direta (PAA)",MURICILÂNDIA,1,muricilandia,17.0,1713957.0,Muricilândia,muricilandia,,,,,,1713957.0,17.0,Muricilândia
+"Compra Direta (PAA), Fomento, Bolsa Família",Ananás,1,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+"Crédito Rural, Merenda Escolar (PENAE)",Araguanã,1,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+PENSAO DOENÇA,SILVANOPOLIS,1,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+Crédito Rural,CACHOEIRINHA-TO,1,cachoeirinha-to,,,,,cachoeirinha,1703826.0,17.0,Cachoeirinha,cachoeirinha,1703826.0,17.0,Cachoeirinha
+"Crédito Rural, Aposentadoria Rural",NOVO JARDIM,1,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+"Compra Direta (PAA), Merenda Escolar (PENAE)",PUGMIL -TO,1,pugmil -to,,,,,pugmil,1718451.0,17.0,Pugmil,pugmil,1718451.0,17.0,Pugmil
+Crédito Rural,PARAÍSO DO TOCANTINS,1,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+Aposentadoria Rural,CASEARA - TO,1,caseara - to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+"Crédito Rural, Fomento",AXIXA DO TOCANTINS,1,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+"Crédito Rural, Compra Direta (PAA)",RIO DA CONCEOÇÃO,1,rio da conceocao,,,,,rio da conceicao,1718659.0,17.0,Rio da Conceição,rio da conceicao,1718659.0,17.0,Rio da Conceição
+Merenda Escolar (PENAE),PIUM,1,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+"Crédito Rural, Compra Direta (PAA)",FIGUEIRÓPOLIS - TO.,1,figueiropolis - to.,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+Crédito Rural,AXIXÁ DO TO,1,axixa do to,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+Bolsa Família,Monte do Carmo,1,monte do carmo,17.0,1713601.0,Monte do Carmo,monte do carmo,,,,,,1713601.0,17.0,Monte do Carmo
+Bolsa Família,Monte Santo,1,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+Bolsa Família,Filadelfia,1,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+Bolsa Família,SÃO BENTO DO TOCANTINS,1,sao bento do tocantins,17.0,1720101.0,São Bento do Tocantins,sao bento do tocantins,,,,,,1720101.0,17.0,São Bento do Tocantins
+Fomento,CARIRI TOCANTINS,1,cariri tocantins,,,,,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins
+Compra Direta (PAA),BABAÇULÂNDIA,1,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+Fomento Tocantins,Filadélfia,1,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+Bolsa Família,MURICILÂNDIA,1,muricilandia,17.0,1713957.0,Muricilândia,muricilandia,,,,,,1713957.0,17.0,Muricilândia
+Não,Cristalândia - To,1,cristalandia - to,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+Aposentadoria Rural,CARIRI TOCANTINS,1,cariri tocantins,,,,,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins
+Bolsa Família,Piraquê,1,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+Compra Direta (PAA),Nova Rosalândia,1,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+Bolsa Família,DIANÓPOLIS,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+"Compra Direta (PAA), Fomento",ARAGUAÍNA,1,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+"Compra Direta (PAA), Bolsa Família",Piraquê,1,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+"Crédito Rural, Aposentadoria Rural",CARIRI DO TOCANTINS,1,cariri do tocantins,17.0,1703867.0,Cariri do Tocantins,cariri do tocantins,,,,,,1703867.0,17.0,Cariri do Tocantins
+Aposentadoria Rural,Angico,1,angico,17.0,1701051.0,Angico,angico,,,,,,1701051.0,17.0,Angico
+Crédito Rural,RIO DA CONCEIÇÃO,1,rio da conceicao,17.0,1718659.0,Rio da Conceição,rio da conceicao,,,,,,1718659.0,17.0,Rio da Conceição
+Não,BABAÇULÂNDIA,1,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+"Compra Direta (PAA), Merenda Escolar (PENAE)",São Bento do Tocantins,1,sao bento do tocantins,17.0,1720101.0,São Bento do Tocantins,sao bento do tocantins,,,,,,1720101.0,17.0,São Bento do Tocantins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",RIO DA CONCEIÇÃO,1,rio da conceicao,17.0,1718659.0,Rio da Conceição,rio da conceicao,,,,,,1718659.0,17.0,Rio da Conceição
+"Crédito Rural, Compra Direta (PAA), Aposentadoria Rural",SILVANOPOLIS,1,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+"Crédito Rural, Fomento, Bolsa Família",FILADÉLFIA,1,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+Crédito Rural,AXIXÁ DO TOCANTINS,1,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+Crédito Rural,Wanderlandia,1,wanderlandia,17.0,1722081.0,Wanderlândia,wanderlandia,,,,,,1722081.0,17.0,Wanderlândia
+Não,PRAIA NORTE,1,praia norte,17.0,1718303.0,Praia Norte,praia norte,,,,,,1718303.0,17.0,Praia Norte
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",TABOCÃO,1,tabocao,,,,,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão
+"Compra Direta (PAA), Fomento, Bolsa Família",RIO DOS BOIS,1,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+"Crédito Rural, Aposentadoria Rural",RIACHINHO - TO,1,riachinho - to,,,,,riachinho,1718550.0,17.0,Riachinho,riachinho,1718550.0,17.0,Riachinho
+"Crédito Rural, Bolsa Família, Aposentadoria Rural",SÍTIO NOVO DO TO,1,sitio novo do to,,,,,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins
+Bolsa Família,PARANÃ -TO,1,parana -to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+Aposentadoria Rural,RIO SONO - TO,1,rio sono - to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+"Crédito Rural, Compra Direta (PAA), Bolsa Família",Novo Acordo,1,novo acordo,17.0,1715101.0,Novo Acordo,novo acordo,,,,,,1715101.0,17.0,Novo Acordo
+"Crédito Rural, Fomento",AXIXÁ DO TO,1,axixa do to,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+Merenda Escolar (PENAE),Santa Terezinha do tocantins,1,santa terezinha do tocantins,17.0,1720002.0,Santa Terezinha do Tocantins,santa terezinha do tocantins,,,,,,1720002.0,17.0,Santa Terezinha do Tocantins
+"Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",Dianópolis,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",Dianópolis -To,1,dianopolis -to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+"Compra Direta (PAA), Bolsa Família",SÃO MIGUEL,1,sao miguel,,,,,sao miguel do tocantins,1720200.0,17.0,São Miguel do Tocantins,sao miguel do tocantins,1720200.0,17.0,São Miguel do Tocantins
+"Compra Direta (PAA), Aposentadoria Rural",CHAPADA DA NATIVIDADE-TO,1,chapada da natividade-to,,,,,chapada da natividade,1705102.0,17.0,Chapada da Natividade,chapada da natividade,1705102.0,17.0,Chapada da Natividade
+"Crédito Rural, Compra Direta (PAA), Aposentadoria Rural",GURUPI,1,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",Dianópolis -TO,1,dianopolis -to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família, Aposentadoria Rural",Ipueiras,1,ipueiras,17.0,1709807.0,Ipueiras,ipueiras,,,,,,1709807.0,17.0,Ipueiras
+"Crédito Rural, Fomento",RIO DOS BOIS,1,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+"Crédito Rural, Fomento, Bolsa Família",Porto Alegre do Tocantins,1,porto alegre do tocantins,17.0,1718006.0,Porto Alegre do Tocantins,porto alegre do tocantins,,,,,,1718006.0,17.0,Porto Alegre do Tocantins
+Bolsa Família,PORTO ALEGRE DO TOCANTINS,1,porto alegre do tocantins,17.0,1718006.0,Porto Alegre do Tocantins,porto alegre do tocantins,,,,,,1718006.0,17.0,Porto Alegre do Tocantins
+"Crédito Rural, Merenda Escolar (PENAE)",pium,1,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+"Crédito Rural, Compra Direta (PAA)",Araguaçu,1,araguacu,17.0,1702000.0,Araguaçu,araguacu,,,,,,1702000.0,17.0,Araguaçu
+Bolsa Família,Nova Olinda,1,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+"Compra Direta (PAA), Fomento",SANTA MARIA DO TOCANTINS,1,santa maria do tocantins,17.0,1718881.0,Santa Maria do Tocantins,santa maria do tocantins,,,,,,1718881.0,17.0,Santa Maria do Tocantins
+"Crédito Rural, Fomento, PNCF",NOVO JARDIM,1,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+Aposentadoria Rural,Dois Irmãos do Tocantins,1,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+Não,RIACHINHO-TO,1,riachinho-to,,,,,riachinho,1718550.0,17.0,Riachinho,riachinho,1718550.0,17.0,Riachinho
+Bolsa Família,Sucupira-TO,1,sucupira-to,,,,,sucupira,1720853.0,17.0,Sucupira,sucupira,1720853.0,17.0,Sucupira
+"Crédito Rural, Compra Direta (PAA), Aposentadoria Rural",FIGUEIRÓPOLIS - TO,1,figueiropolis - to,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+"Crédito Rural, Bolsa Família, Aposentadoria Rural",Araguaçu,1,araguacu,17.0,1702000.0,Araguaçu,araguacu,,,,,,1702000.0,17.0,Araguaçu
+Não,SÍTIO NOVO- TO,1,sitio novo- to,,,,,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins
+Compra Direta (PAA),TUPIRAMA - TO,1,tupirama - to,,,,,tupirama,1721257.0,17.0,Tupirama,tupirama,1721257.0,17.0,Tupirama
+Crédito Rural,FIGUEIRÓPOLIS - TO,1,figueiropolis - to,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+"Crédito Rural, Compra Direta (PAA)",Araguatins,1,araguatins,17.0,1702208.0,Araguatins,araguatins,,,,,,1702208.0,17.0,Araguatins
+"Crédito Rural, Aposentadoria Rural",Miranorte,1,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+"Crédito Rural, Bolsa Família",CHÁCARA CRISTO TEM PODER,1,chacara cristo tem poder,,,,,,,,,,,,
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",PARAISO DO TOCANTINS,1,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+"Fomento, Aposentadoria Rural",PARANÃ TO,1,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Fomento, Bolsa Família",Nova Rosalândia,1,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+"Crédito Rural, Compra Direta (PAA)",Peixe,1,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Fomento",SANTA MARIA DO TOCANTINS,1,santa maria do tocantins,17.0,1718881.0,Santa Maria do Tocantins,santa maria do tocantins,,,,,,1718881.0,17.0,Santa Maria do Tocantins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",Dois Irmãos,1,dois irmaos,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+Não,PORTO NACIONAL,1,porto nacional,17.0,1718204.0,Porto Nacional,porto nacional,,,,,,1718204.0,17.0,Porto Nacional
+CREDITO FUNDIÁRIO,MARIANOPOLIS DO TOCANTINS,1,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+CAF,MONTE DO CARMO-TO,1,monte do carmo-to,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+"Compra Direta (PAA), Merenda Escolar (PENAE)",PARAISO DO TOCANTINS,1,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+Não,ALVORADA,1,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento, Bolsa Família",PEDRO AFONSO,1,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+Bolsa Família,CHAPADA DA NATIVIDADE,1,chapada da natividade,17.0,1705102.0,Chapada da Natividade,chapada da natividade,,,,,,1705102.0,17.0,Chapada da Natividade
+"Crédito Rural, Bolsa Família",Dois Irmãos,1,dois irmaos,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+"Crédito Rural, Aposentadoria Rural",pium,1,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+Aposentadoria Rural,DOIS IRMÃOS DO TOCANTINS - TO,1,dois irmaos do tocantins - to,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+Não,Pedro Afonso,1,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+Não,barrolandia tocantins,1,barrolandia tocantins,,,,,barrolandia,1703107.0,17.0,Barrolândia,barrolandia,1703107.0,17.0,Barrolândia
+"Compra Direta (PAA), Merenda Escolar (PENAE), BENEFICIO POR INVALIDEZ",MIRANORTE,1,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+Não,Filadelfia -TO,1,filadelfia -to,,,,,filadelfia,1707702.0,17.0,Filadélfia,filadelfia,1707702.0,17.0,Filadélfia
+Não,LUZINOPOLIS-TO,1,luzinopolis-to,,,,,luzinopolis,1712454.0,17.0,Luzinópolis,luzinopolis,1712454.0,17.0,Luzinópolis
+Crédito Rural,Miracema do tocantins,1,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+Compra Direta (PAA),NOVA OLINDA,1,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+Oportunidade,Darcinópolis,1,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Bolsa Família",DOIS IRMÃOS DO TOCANTINS,1,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+"Crédito Rural, Compra Direta (PAA), Aposentadoria Rural",Araguaína,1,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+OUTROS,CHAPADA DA NATIVIDADE-TO,1,chapada da natividade-to,,,,,chapada da natividade,1705102.0,17.0,Chapada da Natividade,chapada da natividade,1705102.0,17.0,Chapada da Natividade
+"Compra Direta (PAA), Bolsa Família",Araguatins,1,araguatins,17.0,1702208.0,Araguatins,araguatins,,,,,,1702208.0,17.0,Araguatins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Aposentadoria Rural",DARCINOPOLIS,1,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+Não,PORTO NACIONAL - TO,1,porto nacional - to,,,,,porto nacional,1718204.0,17.0,Porto Nacional,porto nacional,1718204.0,17.0,Porto Nacional
+Fomento,AXIXA,1,axixa,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+"Crédito Rural, Bolsa Família",ALMAS,1,almas,17.0,1700400.0,Almas,almas,,,,,,1700400.0,17.0,Almas
+"Aposentadoria Rural, Tarifa Social",Dianópolis,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+"Crédito Rural, Merenda Escolar (PENAE), Aposentadoria Rural",Couto Magalhães,1,couto magalhaes,17.0,1706001.0,Couto Magalhães,couto magalhaes,,,,,,1706001.0,17.0,Couto Magalhães
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE), Fomento, Bolsa Família, Aposentadoria Rural",PEDRO AFONSO TO.,1,pedro afonso to.,,,,,pedro afonso,1716505.0,17.0,Pedro Afonso,pedro afonso,1716505.0,17.0,Pedro Afonso
+Não,Silvanópolis,1,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+Aposentadoria Rural,Barrolândia,1,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+Bolsa Família,PALMAS,1,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+Crédito Rural,Silvanópolis,1,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+"Merenda Escolar (PENAE), Bolsa Família",Araguaína,1,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+"Crédito Rural, Compra Direta (PAA), Bolsa Família",Xambioa,1,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",TALISMÃ,1,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+"Merenda Escolar (PENAE), Bolsa Família",Tocantínia,1,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+Bolsa Família,ESPERANTINA -TO,1,esperantina -to,,,,,esperantina,1707405.0,17.0,Esperantina,esperantina,1707405.0,17.0,Esperantina
+"Compra Direta (PAA), Merenda Escolar (PENAE), Fomento, Bolsa Família",Nova Rosalãndia,1,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+Não,Cristalândia,1,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+Crédito Rural,Palmeiras do Tocantins,1,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+Aposentadoria Rural,Araguaína,1,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+Não,JAU DO TO,1,jau do to,,,,,jau do tocantins,1711506.0,17.0,Jaú do Tocantins,jau do tocantins,1711506.0,17.0,Jaú do Tocantins
+"Crédito Rural, Compra Direta (PAA), Merenda Escolar (PENAE)",LUZINÓPOLIS,1,luzinopolis,17.0,1712454.0,Luzinópolis,luzinopolis,,,,,,1712454.0,17.0,Luzinópolis
+Crédito Rural,Cachoeirinha,1,cachoeirinha,17.0,1703826.0,Cachoeirinha,cachoeirinha,,,,,,1703826.0,17.0,Cachoeirinha
+Bolsa Família,MARIANOPOLIS DO TOCANTINS,1,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+Não,Miracema do tocantins,1,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins

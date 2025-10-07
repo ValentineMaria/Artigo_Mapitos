@@ -1,0 +1,364 @@
+﻿autorizacao_para_uso_de_agua__,municipio_original,Record Count,municipio_norm,COD_UF,COD,NOME,nome_norm,nome_match,COD_fuzzy,COD_UF_fuzzy,NOME_fuzzy,nome_norm_fuzzy,codigo_final,uf_final,municipio_ibge
+Não,Paraiso do Tocantins,9,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+Não,LAGOA DA CONFUSÃO -TO,2,lagoa da confusao -to,,,,,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão
+Não,Araguaína,21,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+Não,MIRANORTE,31,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+Não,CHAPADA DE AREIA,20,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+Não,Tocantínia,17,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+Não,Ananás,18,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+Não,NOVA OLINDA,21,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+Não,FILADÉLFIA,18,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+Não,Piraquê,19,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+Não,MARIANOPOLIS DO TOCANTINS,18,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+Não,PIUM,19,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+Não,PEDRO AFONSO,13,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+Não,DIANÓPOLIS,16,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Não,Miranorte,14,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+Não,DIVINÓPOLIS,16,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+Não,CARMOLANDIA,10,carmolandia,17.0,1703883.0,Carmolândia,carmolandia,,,,,,1703883.0,17.0,Carmolândia
+Não,PARAISO DO TOCANTINS,10,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+Não,Nova Rosalãndia,15,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+Não,GUARAI,12,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+Não,Colmeia TO,1,colmeia to,,,,,colmeia,1716703.0,17.0,Colméia,colmeia,1716703.0,17.0,Colméia
+Não,RIO SO  TO,1,rio so  to,,,,,aparecida do rio negro,1701101.0,17.0,Aparecida do Rio Negro,aparecida do rio negro,1701101.0,17.0,Aparecida do Rio Negro
+"Sim, DUI ( Declaração de uso insignificante )",PARANÃ TO,11,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+Não,Wanderlândia,9,wanderlandia,17.0,1722081.0,Wanderlândia,wanderlandia,,,,,,1722081.0,17.0,Wanderlândia
+Não,PALMEIRAS DO TOCANTINS,14,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+Não,AXIXA DO TOCANTINS,11,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+Não,Miracema do Tocantins,11,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+Não,CASEARA,11,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+Não,Peixe,13,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+Não,NOVA OLINDA - TO,8,nova olinda - to,,,,,nova olinda,1714880.0,17.0,Nova Olinda,nova olinda,1714880.0,17.0,Nova Olinda
+Não,SÍTIO NOVO DO TOCANTINS,9,sitio novo do tocantins,17.0,1720804.0,Sítio Novo do Tocantins,sitio novo do tocantins,,,,,,1720804.0,17.0,Sítio Novo do Tocantins
+Não,Filadelfia,6,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+Não,Couto Magalhães,9,couto magalhaes,17.0,1706001.0,Couto Magalhães,couto magalhaes,,,,,,1706001.0,17.0,Couto Magalhães
+Não,MONTE SANTO,8,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+Não,Dianópolis,11,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Não,RIO SONO,9,rio sono,17.0,1718758.0,Rio Sono,rio sono,,,,,,1718758.0,17.0,Rio Sono
+Não,Cristalandia,10,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+Não,GUARAÍ,6,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+Não,pium,11,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+Não,RIO DOS BOIS,13,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+Não,RIO SONO - TO,5,rio sono - to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+Não,ARAGUAÍNA,6,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+Não,Gurupi-TO,13,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+Não,SILVANOPOLIS,7,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+Não,TUPIRAMA,6,tupirama,17.0,1721257.0,Tupirama,tupirama,,,,,,1721257.0,17.0,Tupirama
+Não,ABREULANDIA,5,abreulandia,17.0,1700251.0,Abreulândia,abreulandia,,,,,,1700251.0,17.0,Abreulândia
+Não,LAGOA DA CONFUSÃO - TO,4,lagoa da confusao - to,,,,,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão
+Não,Aurora do Tocantins,6,aurora do tocantins,17.0,1702703.0,Aurora do Tocantins,aurora do tocantins,,,,,,1702703.0,17.0,Aurora do Tocantins
+Não,RIO DA CONCEIÇÃO,5,rio da conceicao,17.0,1718659.0,Rio da Conceição,rio da conceicao,,,,,,1718659.0,17.0,Rio da Conceição
+"Sim, DUI ( Declaração de uso insignificante )",PALMEIRAS,6,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+Não,Araguatins,8,araguatins,17.0,1702208.0,Araguatins,araguatins,,,,,,1702208.0,17.0,Araguatins
+"Sim, DUI ( Declaração de uso insignificante )",GUARAI,5,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+Não,Dois Irmãos do Tocantins,6,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+Não,ARAGOMINAS,7,aragominas,17.0,1701309.0,Aragominas,aragominas,,,,,,1701309.0,17.0,Aragominas
+"Sim, outorga de uso da água",BOM JESUS DO TOCANTINS,6,bom jesus do tocantins,17.0,1703305.0,Bom Jesus do Tocantins,bom jesus do tocantins,,,,,,1703305.0,17.0,Bom Jesus do Tocantins
+Não,Araguaina,4,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+"Sim, DUI ( Declaração de uso insignificante )",GOIATINS,8,goiatins,17.0,1709005.0,Goiatins,goiatins,,,,,,1709005.0,17.0,Goiatins
+Não,DOIS IRMÃOS DO TOCANTINS,7,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+Não,Cachoeirinha,1,cachoeirinha,17.0,1703826.0,Cachoeirinha,cachoeirinha,,,,,,1703826.0,17.0,Cachoeirinha
+Não,MONTE DO CARMO-TO,4,monte do carmo-to,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+Não,Dois Irmãos,5,dois irmaos,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+Não,LUZINOPOLIS,1,luzinopolis,17.0,1712454.0,Luzinópolis,luzinopolis,,,,,,1712454.0,17.0,Luzinópolis
+Não,GURUPI,4,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+Não,CASEARA-TO,8,caseara-to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+Não,Silvanópolis,3,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+Não,DOIS IRMÃOS DO TOCANTINS - TO,4,dois irmaos do tocantins - to,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+Não,PONTE ALTA DO BOM JESUS,13,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+Não,Barrolândia,9,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+Não,SÃO BENTO DO TOCANTINS,3,sao bento do tocantins,17.0,1720101.0,São Bento do Tocantins,sao bento do tocantins,,,,,,1720101.0,17.0,São Bento do Tocantins
+Não,PALMAS,8,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+Não,Cristalândia,5,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+"Sim, DUI ( Declaração de uso insignificante )",PALMAS,7,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+Não,CASEARA - TO,3,caseara - to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+"Sim, outorga de uso da água",LAJEADO,6,lajeado,17.0,1712009.0,Lajeado,lajeado,,,,,,1712009.0,17.0,Lajeado
+Não,SANTA FÉ DO ARAGUAIA,6,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+Não,JAU DO TO,6,jau do to,,,,,jau do tocantins,1711506.0,17.0,Jaú do Tocantins,jau do tocantins,1711506.0,17.0,Jaú do Tocantins
+Não,DARCINÓPOLIS,5,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+Não,BARROLÂNDIA -TO,1,barrolandia -to,,,,,barrolandia,1703107.0,17.0,Barrolândia,barrolandia,1703107.0,17.0,Barrolândia
+Não,Angico,4,angico,17.0,1701051.0,Angico,angico,,,,,,1701051.0,17.0,Angico
+"Sim, DUI ( Declaração de uso insignificante )",PALMEIRAS DO TOCANTINS,7,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+Não,BABAÇULÂNDIA,4,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+Não,Araguaçu,8,araguacu,17.0,1702000.0,Araguaçu,araguacu,,,,,,1702000.0,17.0,Araguaçu
+Não,SÍTIO NOVO DO TO,7,sitio novo do to,,,,,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins
+Não,PORTO ALEGRE DO TOCANTINS,4,porto alegre do tocantins,17.0,1718006.0,Porto Alegre do Tocantins,porto alegre do tocantins,,,,,,1718006.0,17.0,Porto Alegre do Tocantins
+Não,São Salvador do Tocantins,5,sao salvador do tocantins,17.0,1720259.0,São Salvador do Tocantins,sao salvador do tocantins,,,,,,1720259.0,17.0,São Salvador do Tocantins
+Não,Gurupi,6,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+Não,PARANÃ TO,5,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+Não,Monte Santo,3,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+Não,MONTE DO CARMO-TO.,4,monte do carmo-to.,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+Não,SANTA MARIA DO TOCANTINS,5,santa maria do tocantins,17.0,1718881.0,Santa Maria do Tocantins,santa maria do tocantins,,,,,,1718881.0,17.0,Santa Maria do Tocantins
+Não,Nova Rosalândia,6,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+Não,MURICILÂNDIA,5,muricilandia,17.0,1713957.0,Muricilândia,muricilandia,,,,,,1713957.0,17.0,Muricilândia
+Não,RIACHINHO,3,riachinho,17.0,1718550.0,Riachinho,riachinho,,,,,,1718550.0,17.0,Riachinho
+Não,Palmeirópolis,4,palmeiropolis,17.0,1715754.0,Palmeirópolis,palmeiropolis,,,,,,1715754.0,17.0,Palmeirópolis
+Não,Chapada de Areia,8,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+"Sim, outorga de uso da água",PEDRO AFONSO,3,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+Não,Filadélfia,3,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+Não,PALMEIRAS,4,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+Não,RIACHINHO - TO,2,riachinho - to,,,,,riachinho,1718550.0,17.0,Riachinho,riachinho,1718550.0,17.0,Riachinho
+Não,Miranorte-To,2,miranorte-to,,,,,miranorte,1713304.0,17.0,Miranorte,miranorte,1713304.0,17.0,Miranorte
+Não,CHAPADA DA NATIVIDADE,8,chapada da natividade,17.0,1705102.0,Chapada da Natividade,chapada da natividade,,,,,,1705102.0,17.0,Chapada da Natividade
+Não,ITAGUATINS,3,itaguatins,17.0,1710706.0,Itaguatins,itaguatins,,,,,,1710706.0,17.0,Itaguatins
+Não,AXIXA DO TOCANTIS,2,axixa do tocantis,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+Não,RIO SONO  TO,4,rio sono  to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+Não,Palmeiras do Tocantins,3,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+Não,LUZINOPOLIS-TO,6,luzinopolis-to,,,,,luzinopolis,1712454.0,17.0,Luzinópolis,luzinopolis,1712454.0,17.0,Luzinópolis
+"Sim, DUI ( Declaração de uso insignificante )",Araguaina,3,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+Não,ESPERANTINA -TO,2,esperantina -to,,,,,esperantina,1707405.0,17.0,Esperantina,esperantina,1707405.0,17.0,Esperantina
+"Sim, DUI ( Declaração de uso insignificante )",DIANÓPOLIS,2,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Não,DIANOPOLIS,4,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Não,Itaporã do Tocantins,2,itapora do tocantins,17.0,1711100.0,Itaporã do Tocantins,itapora do tocantins,,,,,,1711100.0,17.0,Itaporã do Tocantins
+Não,BOM JESUS DO TOCANTINS,2,bom jesus do tocantins,17.0,1703305.0,Bom Jesus do Tocantins,bom jesus do tocantins,,,,,,1703305.0,17.0,Bom Jesus do Tocantins
+"Sim, outorga de uso da água",PARAISO DO TOCANTINS,2,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+Não,NOVO JARDIM,7,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+Não,FILADELFIA,3,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+Não,SANTA RITA DO TOCANTINS,3,santa rita do tocantins,17.0,1718899.0,Santa Rita do Tocantins,santa rita do tocantins,,,,,,1718899.0,17.0,Santa Rita do Tocantins
+Não,PRAIA NORTE,2,praia norte,17.0,1718303.0,Praia Norte,praia norte,,,,,,1718303.0,17.0,Praia Norte
+Não,LAGOA DA CONFUSÃO,3,lagoa da confusao,17.0,1711902.0,Lagoa da Confusão,lagoa da confusao,,,,,,1711902.0,17.0,Lagoa da Confusão
+Não,São Bento do Tocantins,2,sao bento do tocantins,17.0,1720101.0,São Bento do Tocantins,sao bento do tocantins,,,,,,1720101.0,17.0,São Bento do Tocantins
+Não,PORTO NACIONAL - TO,2,porto nacional - to,,,,,porto nacional,1718204.0,17.0,Porto Nacional,porto nacional,1718204.0,17.0,Porto Nacional
+Não,SILVANÓPOLIS,4,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+Não,"P.A Tamboril, Angico - TO",2,"p.a tamboril, angico - to",,,,,angico,1701051.0,17.0,Angico,angico,1701051.0,17.0,Angico
+Não,DIVINÓPOLIS - TO,3,divinopolis - to,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+Não,MIRACEMA,3,miracema,,,,,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins
+Não,CARIRI TOCANTINS,2,cariri tocantins,,,,,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins
+"Sim, outorga de uso da água",DIANÓPOLIS,2,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Não,Riachinho,3,riachinho,17.0,1718550.0,Riachinho,riachinho,,,,,,1718550.0,17.0,Riachinho
+Não,FÁTIMA -TO,3,fatima -to,,,,,fatima,1707553.0,17.0,Fátima,fatima,1707553.0,17.0,Fátima
+Não,Santa Terezinha do Tocantins,2,santa terezinha do tocantins,17.0,1720002.0,Santa Terezinha do Tocantins,santa terezinha do tocantins,,,,,,1720002.0,17.0,Santa Terezinha do Tocantins
+Não,DOIS IRMÃOS - TO,3,dois irmaos - to,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+Não,Caseara,2,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+Não,AXIXÁ DO TOCANTINS,6,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+Não,PORTO NACIONAL,2,porto nacional,17.0,1718204.0,Porto Nacional,porto nacional,,,,,,1718204.0,17.0,Porto Nacional
+Não,AXIXÁ DO TO,2,axixa do to,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+Não,TALISMÃ,2,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+Não,Novo Jardim,3,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+Não,IPUEIRAS,3,ipueiras,17.0,1709807.0,Ipueiras,ipueiras,,,,,,1709807.0,17.0,Ipueiras
+Não,Darcinópolis,2,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+Não,Dianópolis -To,2,dianopolis -to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+Não,DIVINOPOLIS,2,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+Não,Monte do Carmo,2,monte do carmo,17.0,1713601.0,Monte do Carmo,monte do carmo,,,,,,1713601.0,17.0,Monte do Carmo
+Não,MARIANÓPOLIS DO TOCANTINS,2,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+Não,MONTE SANTO -TO,2,monte santo -to,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+Não,TUPIRAMA TO,2,tupirama to,,,,,tupirama,1721257.0,17.0,Tupirama,tupirama,1721257.0,17.0,Tupirama
+Não,FÁTIMA - TO,3,fatima - to,,,,,fatima,1707553.0,17.0,Fátima,fatima,1707553.0,17.0,Fátima
+Não,Colmeia,1,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+Não,PEIXE,3,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+Não,Barrolândia-To,1,barrolandia-to,,,,,barrolandia,1703107.0,17.0,Barrolândia,barrolandia,1703107.0,17.0,Barrolândia
+Não,SÃO MIGUEL,1,sao miguel,,,,,sao miguel do tocantins,1720200.0,17.0,São Miguel do Tocantins,sao miguel do tocantins,1720200.0,17.0,São Miguel do Tocantins
+Não,Rio da Conceiçaõ,1,rio da conceicao,17.0,1718659.0,Rio da Conceição,rio da conceicao,,,,,,1718659.0,17.0,Rio da Conceição
+"Sim, outorga de uso da água",PORTO NACIONAL - TO,1,porto nacional - to,,,,,porto nacional,1718204.0,17.0,Porto Nacional,porto nacional,1718204.0,17.0,Porto Nacional
+Não,AXIXA DO TO,1,axixa do to,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+Não,DUEURÉ,1,dueure,,,,,duere,1707306.0,17.0,Dueré,duere,1707306.0,17.0,Dueré
+Não,Dueré TO,1,duere to,,,,,duere,1707306.0,17.0,Dueré,duere,1707306.0,17.0,Dueré
+Não,ANANÁS - TO,1,ananas - to,,,,,ananas,1701002.0,17.0,Ananás,ananas,1701002.0,17.0,Ananás
+Não,DIANOPÓLIS,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Não,Ananas,1,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+Não,Miranorte-TO,1,miranorte-to,,,,,miranorte,1713304.0,17.0,Miranorte,miranorte,1713304.0,17.0,Miranorte
+Não,Marianópolis do Tocantins,9,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+Não,Pedro Afonso,1,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+Não,Miranorte/To,1,miranorte/to,,,,,miranorte,1713304.0,17.0,Miranorte,miranorte,1713304.0,17.0,Miranorte
+Não,COUTO DE MAGALHAES,1,couto de magalhaes,,,,,couto magalhaes,1706001.0,17.0,Couto Magalhães,couto magalhaes,1706001.0,17.0,Couto Magalhães
+Não,DARCINOPOLIS,2,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+Não,CARIRI DO TOCANTINS -TO,1,cariri do tocantins -to,,,,,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins
+Não,CARIRI DO TOCANTIINS -TO,1,cariri do tocantiins -to,,,,,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins
+Não,Wandrlãndia,1,wandrlandia,,,,,wanderlandia,1722081.0,17.0,Wanderlândia,wanderlandia,1722081.0,17.0,Wanderlândia
+Não,Filadelfia -TO,1,filadelfia -to,,,,,filadelfia,1707702.0,17.0,Filadélfia,filadelfia,1707702.0,17.0,Filadélfia
+Não,PIRAQUÊ,1,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+Não,PARAISO -TO,2,paraiso -to,,,,,paraiso do tocantins,1716109.0,17.0,Paraíso do Tocantins,paraiso do tocantins,1716109.0,17.0,Paraíso do Tocantins
+Não,Santa Terezinha do tocantins,1,santa terezinha do tocantins,17.0,1720002.0,Santa Terezinha do Tocantins,santa terezinha do tocantins,,,,,,1720002.0,17.0,Santa Terezinha do Tocantins
+Não,MIRACEMA DO TOCANTINS,1,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+Não,DIVINOPOLIS-TO,1,divinopolis-to,,,,,,,,,,,,
+"Sim, outorga de uso da água",PORTONACIONAL - TO,1,portonacional - to,,,,,porto nacional,1718204.0,17.0,Porto Nacional,porto nacional,1718204.0,17.0,Porto Nacional
+Não,Babaçulandia,2,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+Não,Itaguatins,1,itaguatins,17.0,1710706.0,Itaguatins,itaguatins,,,,,,1710706.0,17.0,Itaguatins
+Não,FÁTIMA-TO,1,fatima-to,,,,,fatima,1707553.0,17.0,Fátima,fatima,1707553.0,17.0,Fátima
+Não,RIACHINHO-TO,1,riachinho-to,,,,,riachinho,1718550.0,17.0,Riachinho,riachinho,1718550.0,17.0,Riachinho
+Não,SILVANOPOLIS TO,1,silvanopolis to,,,,,silvanopolis,1720655.0,17.0,Silvanópolis,silvanopolis,1720655.0,17.0,Silvanópolis
+Não,CARMOLÂNDIA,1,carmolandia,17.0,1703883.0,Carmolândia,carmolandia,,,,,,1703883.0,17.0,Carmolândia
+Não,PARAÍSO DO TOCANTINS,2,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+Não,CHAPADA DA NATIVIDADE-TO,8,chapada da natividade-to,,,,,chapada da natividade,1705102.0,17.0,Chapada da Natividade,chapada da natividade,1705102.0,17.0,Chapada da Natividade
+Não,Dianopolis,1,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+Não,Dianópolis - To,1,dianopolis - to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+Não,SÍTIO NOVO- TO,1,sitio novo- to,,,,,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins
+Não,DIANÓPOLIS-TO,1,dianopolis-to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+Não,PARAÍSO -TO,1,paraiso -to,,,,,paraiso do tocantins,1716109.0,17.0,Paraíso do Tocantins,paraiso do tocantins,1716109.0,17.0,Paraíso do Tocantins
+Não,Pugmil,1,pugmil,17.0,1718451.0,Pugmil,pugmil,,,,,,1718451.0,17.0,Pugmil
+Não,CHÁCARA BAIXA FUNDA,1,chacara baixa funda,,,,,,,,,,,,
+Não,TUPIRAMA-TO,1,tupirama-to,,,,,tupirama,1721257.0,17.0,Tupirama,tupirama,1721257.0,17.0,Tupirama
+Não,BABAÇULANDIA,2,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+Não,ESPERANTINA,2,esperantina,17.0,1707405.0,Esperantina,esperantina,,,,,,1707405.0,17.0,Esperantina
+Não,Nova Olinda,1,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+Não,Babaçulândia,1,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+Não,TUPIRAMA - TO,1,tupirama - to,,,,,tupirama,1721257.0,17.0,Tupirama,tupirama,1721257.0,17.0,Tupirama
+Não,Cristalândia - TO  PA Virgínia,1,cristalandia - to  pa virginia,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+Não,Dueré,1,duere,17.0,1707306.0,Dueré,duere,,,,,,1707306.0,17.0,Dueré
+"Sim, DUI ( Declaração de uso insignificante )",DIVINÓPOLIS,1,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+Não,Ananás P.A Antonio Moreira,1,ananas p.a antonio moreira,,,,,ananas,1701002.0,17.0,Ananás,ananas,1701002.0,17.0,Ananás
+Não,LAJEADO,1,lajeado,17.0,1712009.0,Lajeado,lajeado,,,,,,1712009.0,17.0,Lajeado
+Não,CHÁCARA CRISTO TEM PODER,1,chacara cristo tem poder,,,,,,,,,,,,
+Não,COLMÉIA,2,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+Não,COLMEIA,2,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+Não,Aliança do Tocantins,1,alianca do tocantins,17.0,1700350.0,Aliança do Tocantins,alianca do tocantins,,,,,,1700350.0,17.0,Aliança do Tocantins
+"Sim, DUI ( Declaração de uso insignificante )",AGUIARNOPOLIS,1,aguiarnopolis,17.0,1700301.0,Aguiarnópolis,aguiarnopolis,,,,,,1700301.0,17.0,Aguiarnópolis
+Não,Divinopolis do Tocantins,2,divinopolis do tocantins,17.0,1707108.0,Divinópolis do Tocantins,divinopolis do tocantins,,,,,,1707108.0,17.0,Divinópolis do Tocantins
+Não,MONTE SANTO DO TOCANTINS - TO,1,monte santo do tocantins - to,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+"Sim, DUI ( Declaração de uso insignificante )",GUARAÍ,1,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+Não,PUGMIL,1,pugmil,17.0,1718451.0,Pugmil,pugmil,,,,,,1718451.0,17.0,Pugmil
+Não,BARROLÂNDIA,1,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+Não,Miracema do tocantins,3,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+Não,MONTE VSANTO -TO,1,monte vsanto -to,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+"Sim, outorga de uso da água",Palmeiras do Tocantins,1,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+Não,AGUIARNÓPOLIS,1,aguiarnopolis,17.0,1700301.0,Aguiarnópolis,aguiarnopolis,,,,,,1700301.0,17.0,Aguiarnópolis
+Não,Cristalândia - To,1,cristalandia - to,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+Não,BOM JESUS DO TOCANTINS-TO,1,bom jesus do tocantins-to,,,,,bom jesus do tocantins,1703305.0,17.0,Bom Jesus do Tocantins,bom jesus do tocantins,1703305.0,17.0,Bom Jesus do Tocantins
+Não,Barrolândia-TO,1,barrolandia-to,,,,,barrolandia,1703107.0,17.0,Barrolândia,barrolandia,1703107.0,17.0,Barrolândia
+Não,Wanderlandia,1,wanderlandia,17.0,1722081.0,Wanderlândia,wanderlandia,,,,,,1722081.0,17.0,Wanderlândia
+Não,ARAGOMIAS,1,aragomias,,,,,aragominas,1701309.0,17.0,Aragominas,aragominas,1701309.0,17.0,Aragominas
+"Sim, DUI ( Declaração de uso insignificante )",SANTA FÉ DO ARAGUAIA - TO,1,santa fe do araguaia - to,,,,,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia
+Não,ARAGOMINAS-TO,1,aragominas-to,,,,,aragominas,1701309.0,17.0,Aragominas,aragominas,1701309.0,17.0,Aragominas
+Não,AXIXA,1,axixa,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+Não,SITIO NOVO TO,1,sitio novo to,,,,,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins
+"Sim, DUI ( Declaração de uso insignificante )",DARCINOPOLIS,3,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+Não,MONTE DO CARMO -TO.,1,monte do carmo -to.,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+Não,BARROLANDIA,1,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+"Sim, DUI ( Declaração de uso insignificante )",FIGUEIROPOLIS,2,figueiropolis,17.0,1707652.0,Figueirópolis,figueiropolis,,,,,,1707652.0,17.0,Figueirópolis
+Não,MONTE SANTO TO,1,monte santo to,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+Não,"P.A Tamboril , Angico - TO",1,"p.a tamboril , angico - to",,,,,angico,1701051.0,17.0,Angico,angico,1701051.0,17.0,Angico
+"Sim, DUI ( Declaração de uso insignificante )",Araguaína,2,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+Não,ARAGOMINAS -TO,2,aragominas -to,,,,,aragominas,1701309.0,17.0,Aragominas,aragominas,1701309.0,17.0,Aragominas
+Não,MURICILANDIA,1,muricilandia,17.0,1713957.0,Muricilândia,muricilandia,,,,,,1713957.0,17.0,Muricilândia
+Não,Cristalandia To   PA S. Francisco,1,cristalandia to   pa s. francisco,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+"Sim, DUI ( Declaração de uso insignificante )",Lagoa da Confusão,1,lagoa da confusao,17.0,1711902.0,Lagoa da Confusão,lagoa da confusao,,,,,,1711902.0,17.0,Lagoa da Confusão
+"Sim, DUI ( Declaração de uso insignificante )",PARANÃ,2,parana,17.0,1716208.0,Paranã,parana,,,,,,1716208.0,17.0,Paranã
+"Sim, outorga de uso da água",SANTA MARIA DO TOCANTINS,1,santa maria do tocantins,17.0,1718881.0,Santa Maria do Tocantins,santa maria do tocantins,,,,,,1718881.0,17.0,Santa Maria do Tocantins
+Não,FIGUEIRÓPOLIS - TO.,2,figueiropolis - to.,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+"Sim, outorga de uso da água",DIANÓPOLIS-TO,1,dianopolis-to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+Não,SANTA FÉ DO ARAGUAIA-TO,1,santa fe do araguaia-to,,,,,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia
+"Sim, outorga de uso da água",FIGUEIROPOLIS,1,figueiropolis,17.0,1707652.0,Figueirópolis,figueiropolis,,,,,,1707652.0,17.0,Figueirópolis
+"Sim, DUI ( Declaração de uso insignificante )",Araguaina TO,1,araguaina to,,,,,araguaina,1702109.0,17.0,Araguaína,araguaina,1702109.0,17.0,Araguaína
+Não,Dois Irmaos do Tocantins,1,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+Não,AXIXÁ,1,axixa,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+Não,ITAGUATINS DO TOCANTINS,1,itaguatins do tocantins,,,,,itaguatins,1710706.0,17.0,Itaguatins,itaguatins,1710706.0,17.0,Itaguatins
+Não,rio sono  to,1,rio sono  to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+Não,DIANÓPOLIS TO,1,dianopolis to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+Não,ABREULÂNDIA,1,abreulandia,17.0,1700251.0,Abreulândia,abreulandia,,,,,,1700251.0,17.0,Abreulândia
+Não,APARECIDA DO RIO NEGRO,1,aparecida do rio negro,17.0,1701101.0,Aparecida do Rio Negro,aparecida do rio negro,,,,,,1701101.0,17.0,Aparecida do Rio Negro
+Não,Sucupira-TO,5,sucupira-to,,,,,sucupira,1720853.0,17.0,Sucupira,sucupira,1720853.0,17.0,Sucupira
+Não,DUERÉ,2,duere,17.0,1707306.0,Dueré,duere,,,,,,1707306.0,17.0,Dueré
+Não,RIO SONO TOCANTINS,1,rio sono tocantins,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+Não,Miracema dO Tocantins,1,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+"Sim, DUI ( Declaração de uso insignificante )",PORTO NACIONAL,1,porto nacional,17.0,1718204.0,Porto Nacional,porto nacional,,,,,,1718204.0,17.0,Porto Nacional
+Não,PARANÃ O,1,parana o,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+"Sim, DUI ( Declaração de uso insignificante )",Aliança do Tocantins,1,alianca do tocantins,17.0,1700350.0,Aliança do Tocantins,alianca do tocantins,,,,,,1700350.0,17.0,Aliança do Tocantins
+Não,TUPIRAMA- TO,1,tupirama- to,,,,,tupirama,1721257.0,17.0,Tupirama,tupirama,1721257.0,17.0,Tupirama
+Não,SANTA FE DO ARAGUAIA,1,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+Não,CASEARA -TO,1,caseara -to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+"Sim, DUI ( Declaração de uso insignificante )",SANTA RITA DO TOCANTINS,1,santa rita do tocantins,17.0,1718899.0,Santa Rita do Tocantins,santa rita do tocantins,,,,,,1718899.0,17.0,Santa Rita do Tocantins
+Não,Cristalandia - TO,1,cristalandia - to,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+Não,FIGUEIRÓPOLIS - TO,2,figueiropolis - to,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+Não,ALMAS,6,almas,17.0,1700400.0,Almas,almas,,,,,,1700400.0,17.0,Almas
+Não,SANTA MARIA DO TO.,1,santa maria do to.,,,,,santa terezinha do tocantins,1720002.0,17.0,Santa Terezinha do Tocantins,santa terezinha do tocantins,1720002.0,17.0,Santa Terezinha do Tocantins
+Não,Ipueiras,2,ipueiras,17.0,1709807.0,Ipueiras,ipueiras,,,,,,1709807.0,17.0,Ipueiras
+Não,Cristalandia -TO  Associação Vila da Prata,1,cristalandia -to  associacao vila da prata,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+Não,Paraíso do Tocantins,1,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+Não,pium to,1,pium to,,,,,pium,1717503.0,17.0,Pium,pium,1717503.0,17.0,Pium
+Não,Cristalandia To  Associação Vila da Prata,1,cristalandia to  associacao vila da prata,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+Não,GOIATINS,1,goiatins,17.0,1709005.0,Goiatins,goiatins,,,,,,1709005.0,17.0,Goiatins
+Não,CARIRI DO TOCANTINS - TO,1,cariri do tocantins - to,,,,,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins
+Não,PALMEIRA DO TOCANTINS,1,palmeira do tocantins,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+Não,CARIRI DO TOCANTINS,1,cariri do tocantins,17.0,1703867.0,Cariri do Tocantins,cariri do tocantins,,,,,,1703867.0,17.0,Cariri do Tocantins
+Não,FIGUEIROPOLIS,1,figueiropolis,17.0,1707652.0,Figueirópolis,figueiropolis,,,,,,1707652.0,17.0,Figueirópolis
+Não,Porto Alegre do Tocantins,1,porto alegre do tocantins,17.0,1718006.0,Porto Alegre do Tocantins,porto alegre do tocantins,,,,,,1718006.0,17.0,Porto Alegre do Tocantins
+Não,CENTENÁRIO - TO,1,centenario - to,,,,,centenario,1704105.0,17.0,Centenário,centenario,1704105.0,17.0,Centenário
+"Sim, outorga de uso da água",CHAPADA DA NATIVIDADE,1,chapada da natividade,17.0,1705102.0,Chapada da Natividade,chapada da natividade,,,,,,1705102.0,17.0,Chapada da Natividade
+"Sim, outorga de uso da água",DOIS IRMAÕS DO TOCANTINS,1,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+Não,Divinópolis - TO,1,divinopolis - to,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+Não,PUGMIL -TO,3,pugmil -to,,,,,pugmil,1718451.0,17.0,Pugmil,pugmil,1718451.0,17.0,Pugmil
+Não,RIO DA CONCEOÇÃO,1,rio da conceocao,,,,,rio da conceicao,1718659.0,17.0,Rio da Conceição,rio da conceicao,1718659.0,17.0,Rio da Conceição
+Não,Dianópolis -TO,1,dianopolis -to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+Não,Chapada De Areia,1,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+Não,Dianópolis  -  TO,1,dianopolis  -  to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+Não,Sucupira,1,sucupira,17.0,1720853.0,Sucupira,sucupira,,,,,,1720853.0,17.0,Sucupira
+"Sim, DUI ( Declaração de uso insignificante )",COLMÉIA,1,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+"Sim, DUI ( Declaração de uso insignificante )",COLMEIA,1,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+Não,SÍTIO NVOVO DO TO,1,sitio nvovo do to,,,,,santa terezinha do tocantins,1720002.0,17.0,Santa Terezinha do Tocantins,santa terezinha do tocantins,1720002.0,17.0,Santa Terezinha do Tocantins
+Não,Dianópolis - TO,1,dianopolis - to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+Não,PIUM -TO,1,pium -to,,,,,pium,1717503.0,17.0,Pium,pium,1717503.0,17.0,Pium
+Não,bABAÇULÂNDIA,1,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+"Sim, outorga de uso da água",Palmeirópolis,1,palmeiropolis,17.0,1715754.0,Palmeirópolis,palmeiropolis,,,,,,1715754.0,17.0,Palmeirópolis
+Não,DOIS IRMAOS,1,dois irmaos,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+Não,Figueiropolis-TO,1,figueiropolis-to,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+"Sim, DUI ( Declaração de uso insignificante )",FIGUEIRÓPOLIS  - TO.,1,figueiropolis  - to.,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+"Sim, outorga de uso da água",CHAPADA DE AREIA,1,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+Não,SÍTIO DEUS É BOM,1,sitio deus e bom,,,,,,,,,,,,
+"Sim, DUI ( Declaração de uso insignificante )",FIGUEIRÓPOLIS -TO,1,figueiropolis -to,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+Não,MARIANÓPOLIS,1,marianopolis,,,,,marianopolis do tocantins,1712504.0,17.0,Marianópolis do Tocantins,marianopolis do tocantins,1712504.0,17.0,Marianópolis do Tocantins
+"Sim, outorga de uso da água",Chapada de Areia,1,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+"Sim, outorga de uso da água",PEDRO AFONSO TO.,1,pedro afonso to.,,,,,pedro afonso,1716505.0,17.0,Pedro Afonso,pedro afonso,1716505.0,17.0,Pedro Afonso
+"Sim, DUI ( Declaração de uso insignificante )",Pugmil,1,pugmil,17.0,1718451.0,Pugmil,pugmil,,,,,,1718451.0,17.0,Pugmil
+"Sim, DUI ( Declaração de uso insignificante )",SANTA FÉ DO ARAGUAINA,1,santa fe do araguaina,,,,,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia
+"Sim, DUI ( Declaração de uso insignificante )",Gurupi-TO,1,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+"Sim, outorga de uso da água",Aliança,1,alianca,,,,,alianca do tocantins,1700350.0,17.0,Aliança do Tocantins,alianca do tocantins,1700350.0,17.0,Aliança do Tocantins
+"Sim, DUI ( Declaração de uso insignificante )",SANTA FÉ DO ARAGUAIA,1,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+Não,Cristalandia TO   Associação Vila da Prata,1,cristalandia to   associacao vila da prata,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+Não,LUZINÓPOLIS,1,luzinopolis,17.0,1712454.0,Luzinópolis,luzinopolis,,,,,,1712454.0,17.0,Luzinópolis
+Não,LUZINOPOLIS -TO,1,luzinopolis -to,,,,,luzinopolis,1712454.0,17.0,Luzinópolis,luzinopolis,1712454.0,17.0,Luzinópolis
+"Sim, DUI ( Declaração de uso insignificante )",LAJEADO,1,lajeado,17.0,1712009.0,Lajeado,lajeado,,,,,,1712009.0,17.0,Lajeado
+Não,SÃO MIGUEL DO TOCANTINS,9,sao miguel do tocantins,17.0,1720200.0,São Miguel do Tocantins,sao miguel do tocantins,,,,,,1720200.0,17.0,São Miguel do Tocantins
+Não,Araguanã,15,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+Não,Xambioa,10,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+"Sim, outorga de uso da água",PARANÃ-TO,1,parana-to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+Não,Axixá To,1,axixa to,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+Não,CRIXAS DO TOCANTINS,1,crixas do tocantins,17.0,1706258.0,Crixás do Tocantins,crixas do tocantins,,,,,,1706258.0,17.0,Crixás do Tocantins
+"Sim, DUI ( Declaração de uso insignificante )",RIO DOS BOIS,3,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+Não,ALIANÇA DO TOCANTINS,3,alianca do tocantins,17.0,1700350.0,Aliança do Tocantins,alianca do tocantins,,,,,,1700350.0,17.0,Aliança do Tocantins
+Não,Araguana,2,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+Não,CRIXÁS DO TOCANTINS,1,crixas do tocantins,17.0,1706258.0,Crixás do Tocantins,crixas do tocantins,,,,,,1706258.0,17.0,Crixás do Tocantins
+Não,XAMBIOÁ,2,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+Não,miracema tocantins,1,miracema tocantins,,,,,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins
+Não,Esperantina,2,esperantina,17.0,1707405.0,Esperantina,esperantina,,,,,,1707405.0,17.0,Esperantina
+Não,ALVORADA,2,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+Não,Miracema Do Tocantins,1,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+"Sim, DUI ( Declaração de uso insignificante )",Talisma,1,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+Não,Barrolândia -To,1,barrolandia -to,,,,,barrolandia,1703107.0,17.0,Barrolândia,barrolandia,1703107.0,17.0,Barrolândia
+Não,araguantins-esperantina,1,araguantins-esperantina,,,,,esperantina,1707405.0,17.0,Esperantina,esperantina,1707405.0,17.0,Esperantina
+Não,araguaína,2,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+Não,esperantina,1,esperantina,17.0,1707405.0,Esperantina,esperantina,,,,,,1707405.0,17.0,Esperantina
+Não,araguatins-esperantina,1,araguatins-esperantina,,,,,araguatins,1702208.0,17.0,Araguatins,araguatins,1702208.0,17.0,Araguatins
+Não,barrolandia,1,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+Não,Talisma,8,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+"Sim, outorga de uso da água",Xambioa,1,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+"Sim, DUI ( Declaração de uso insignificante )",Alvorada,1,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+Não,Talismã-TO,7,talisma-to,,,,,talisma,1720978.0,17.0,Talismã,talisma,1720978.0,17.0,Talismã
+Não,Alvorada,7,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+"Sim, DUI ( Declaração de uso insignificante )",CRIXAS DO TOCANTINS,1,crixas do tocantins,17.0,1706258.0,Crixás do Tocantins,crixas do tocantins,,,,,,1706258.0,17.0,Crixás do Tocantins
+"Sim, DUI ( Declaração de uso insignificante )",Talismã,1,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+Não,Marianópolis - TO,2,marianopolis - to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+Não,Marianopolis - TO,1,marianopolis - to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+"Sim, DUI ( Declaração de uso insignificante )",ALIANÇA,2,alianca,,,,,alianca do tocantins,1700350.0,17.0,Aliança do Tocantins,alianca do tocantins,1700350.0,17.0,Aliança do Tocantins
+Não,barrolandia tocantins,1,barrolandia tocantins,,,,,barrolandia,1703107.0,17.0,Barrolândia,barrolandia,1703107.0,17.0,Barrolândia
+Não,CACHOEIRINHA-TO,1,cachoeirinha-to,,,,,cachoeirinha,1703826.0,17.0,Cachoeirinha,cachoeirinha,1703826.0,17.0,Cachoeirinha
+Não,Almas,1,almas,17.0,1700400.0,Almas,almas,,,,,,1700400.0,17.0,Almas
+Não,AXIXÁ DO TOCANTINS TO,1,axixa do tocantins to,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+Não,TABOCÃO,7,tabocao,,,,,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão
+Não,SITIO NOVO -TO,1,sitio novo -to,,,,,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins
+Não,Novo Acordo,5,novo acordo,17.0,1715101.0,Novo Acordo,novo acordo,,,,,,1715101.0,17.0,Novo Acordo
+Não,SITIO NOVO-TO,1,sitio novo-to,,,,,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins
+"Sim, outorga de uso da água",Alvorada TO,1,alvorada to,,,,,alvorada,1700707.0,17.0,Alvorada,alvorada,1700707.0,17.0,Alvorada
+Não,ALMAES TO,1,almaes to,,,,,,,,,,,,
+Não,PARANÃ-TO,11,parana-to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+Não,PARANÃ -TO,5,parana -to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+Não,ponte alta do bom jesus,2,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+Não,XAMBIOÁ TO,1,xambioa to,,,,,xambioa,1722107.0,17.0,Xambioá,xambioa,1722107.0,17.0,Xambioá
+Não,ALMAS TO,11,almas to,,,,,almas,1700400.0,17.0,Almas,almas,1700400.0,17.0,Almas
+Não,Xambioá,16,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+Não,IPUEIRAS -TO,1,ipueiras -to,,,,,ipueiras,1709807.0,17.0,Ipueiras,ipueiras,1709807.0,17.0,Ipueiras
+Não,PARANÃ,1,parana,17.0,1716208.0,Paranã,parana,,,,,,1716208.0,17.0,Paranã
+Não,Abreulândia - TO,1,abreulandia - to,,,,,abreulandia,1700251.0,17.0,Abreulândia,abreulandia,1700251.0,17.0,Abreulândia
+"Sim, DUI ( Declaração de uso insignificante )",Miracema do Tocantins,1,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+"Sim, DUI ( Declaração de uso insignificante )",Divinopolis do Tocantins,2,divinopolis do tocantins,17.0,1707108.0,Divinópolis do Tocantins,divinopolis do tocantins,,,,,,1707108.0,17.0,Divinópolis do Tocantins
+Não,Miracema do tocantins-TO,1,miracema do tocantins-to,,,,,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins
+Não,Divinopolis,1,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
