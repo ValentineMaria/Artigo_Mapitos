@@ -1,0 +1,92 @@
+﻿municipio_ibge,pratica_aceiros,pratica_adubação,pratica_adubação verde,pratica_apiário,pratica_calagem,pratica_consórcio,pratica_curva de nível,pratica_descarte correto de embalagens,pratica_floresta,pratica_ilp - integração lavoura pecuária,pratica_ilpf - integração lavoura pecuária,pratica_não usa,pratica_outros,pratica_plantio direto,pratica_reaproveitamento de residuos,pratica_recuperação de pastagens,pratica_rotação de cultura,n_praticas_total
+Abreulândia,True,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,4
+Aliança do Tocantins,True,True,False,False,True,True,False,False,False,True,False,True,False,False,False,True,False,7
+Almas,True,True,True,False,True,True,True,True,False,False,False,False,False,True,True,True,True,11
+Alvorada,True,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True,False,6
+Ananás,True,True,False,False,True,True,False,True,False,False,False,False,False,True,False,True,True,8
+Angico,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,5
+Aparecida do Rio Negro,True,True,False,False,True,True,False,False,False,False,False,False,False,False,True,False,True,6
+Aragominas,True,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,3
+Araguanã,True,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,5
+Araguatins,True,True,True,False,True,True,True,True,True,True,True,True,False,True,True,True,True,15
+Araguaçu,True,True,False,False,True,True,True,False,False,False,False,True,False,True,True,True,True,10
+Araguaína,True,True,True,True,True,True,False,True,False,False,False,False,False,True,True,True,True,11
+Aurora do Tocantins,True,True,False,False,True,True,False,False,False,False,False,False,False,False,True,False,False,5
+Axixá do Tocantins,True,True,False,False,True,False,False,True,False,False,False,False,False,False,False,True,True,6
+Babaçulândia,True,False,True,False,False,True,False,False,False,False,False,False,False,True,True,True,True,7
+Bandeirantes do Tocantins,True,True,False,False,False,True,False,True,False,False,False,True,False,False,False,True,True,7
+Barrolândia,True,True,False,False,True,True,False,True,False,False,False,True,False,True,False,True,False,8
+Bom Jesus do Tocantins,True,True,True,False,False,False,False,False,False,False,False,False,False,True,True,False,True,6
+Cachoeirinha,True,True,False,False,True,True,False,True,False,False,False,False,False,False,True,True,True,8
+Cariri do Tocantins,True,True,False,False,True,True,True,False,False,False,False,False,False,False,False,True,True,7
+Carmolândia,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,2
+Caseara,True,True,True,False,True,False,False,False,False,False,False,True,False,False,True,False,True,7
+Centenário,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,3
+Chapada da Natividade,True,True,True,False,True,False,False,False,False,False,False,False,True,False,False,True,True,7
+Chapada de Areia,True,True,True,False,True,True,False,False,False,False,False,False,False,True,False,True,True,8
+Colméia,True,True,True,False,True,False,True,False,False,False,False,False,False,False,True,False,True,7
+Couto Magalhães,True,True,True,False,True,True,True,True,False,True,False,False,False,True,True,True,True,12
+Cristalândia,True,True,True,False,True,False,False,False,False,False,False,True,False,True,True,False,True,8
+Crixás do Tocantins,False,True,False,False,True,True,False,False,False,False,False,True,False,False,False,False,False,4
+Dianópolis,True,True,True,False,True,True,True,False,True,True,True,True,False,True,True,True,True,14
+Divinópolis do Tocantins,True,True,False,False,True,True,True,True,False,False,False,True,False,True,True,True,True,11
+Dueré,True,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,4
+Esperantina,True,False,True,False,False,True,False,False,True,True,True,False,False,True,True,True,True,10
+Figueirópolis,True,True,False,False,True,False,False,False,False,False,False,False,False,True,False,True,True,6
+Filadélfia,True,True,False,False,False,True,False,True,False,False,False,True,False,False,True,True,False,7
+Fortaleza do Tabocão,True,True,True,False,True,False,False,True,False,False,False,False,False,False,True,True,False,7
+Fátima,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,4
+Goiatins,True,True,False,False,True,False,False,True,False,False,False,False,False,True,False,True,True,7
+Guaraí,True,True,True,False,True,True,True,False,False,False,False,True,False,False,False,True,False,8
+Gurupi,True,True,True,False,True,False,False,False,False,False,False,True,False,False,True,False,True,7
+Ipueiras,True,True,True,False,True,True,False,True,False,False,False,False,False,False,False,True,True,8
+Itaguatins,True,True,False,False,True,True,False,True,False,False,False,False,False,False,False,True,True,7
+Itaporã do Tocantins,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,2
+Jaú do Tocantins,True,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,4
+Lagoa da Confusão,True,True,True,False,True,True,False,False,False,True,False,False,False,True,False,True,True,9
+Lajeado,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False,5
+Luzinópolis,True,True,False,False,True,True,False,True,False,False,False,True,False,False,False,True,True,8
+Marianópolis do Tocantins,True,True,True,False,True,False,False,False,False,False,False,True,False,False,True,True,False,7
+Miracema do Tocantins,True,True,True,False,True,False,False,True,False,False,False,True,False,True,False,True,True,9
+Miranorte,True,True,True,False,True,False,False,False,False,False,False,True,False,True,False,False,True,7
+Monte Santo do Tocantins,True,True,True,False,True,False,False,False,False,False,False,False,False,True,True,True,True,8
+Monte do Carmo,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,4
+Muricilândia,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,3
+Nova Olinda,True,True,True,False,True,True,True,False,False,True,False,False,False,False,True,True,True,10
+Nova Rosalândia,False,True,True,False,True,True,False,False,False,False,False,False,False,True,True,False,True,7
+Novo Acordo,True,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,True,5
+Novo Jardim,True,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True,5
+Palmas,True,True,True,False,False,False,False,False,False,False,False,False,False,True,False,True,True,6
+Palmeiras do Tocantins,True,True,False,False,True,True,True,True,False,True,False,False,False,True,True,True,True,11
+Palmeirópolis,True,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,4
+Paranã,True,True,True,False,True,True,True,True,True,False,True,False,False,True,True,True,True,13
+Paraíso do Tocantins,True,True,True,False,True,True,False,False,False,False,False,True,False,False,True,True,True,9
+Pedro Afonso,True,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,4
+Peixe,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,True,True,6
+Piraquê,True,True,False,False,True,False,False,True,False,False,False,False,False,True,False,True,True,7
+Pium,True,True,False,False,True,True,False,False,False,False,False,False,False,True,False,True,True,7
+Ponte Alta do Bom Jesus,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,True,True,5
+Porto Alegre do Tocantins,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,2
+Praia Norte,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,3
+Pugmil,True,True,True,False,True,True,False,False,False,True,False,False,False,True,True,True,True,10
+Riachinho,True,True,False,False,True,True,True,True,False,False,False,False,False,True,True,True,True,10
+Rio Sono,True,True,False,False,True,False,False,False,False,False,False,False,False,True,False,True,False,5
+Rio da Conceição,False,True,True,False,True,False,False,False,False,False,False,False,False,True,False,False,True,5
+Rio dos Bois,True,True,True,False,True,False,False,True,False,False,False,False,False,False,True,True,False,7
+Santa Fé do Araguaia,True,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True,5
+Santa Maria do Tocantins,True,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,4
+Santa Rita do Tocantins,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,3
+Santa Terezinha do Tocantins,True,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,4
+Silvanópolis,True,True,False,False,True,False,False,True,False,False,False,False,False,True,False,True,True,7
+Sucupira,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,3
+São Bento do Tocantins,False,True,True,False,True,False,False,True,False,False,False,False,False,True,True,True,False,7
+São Miguel do Tocantins,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+São Salvador do Tocantins,True,True,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,4
+Sítio Novo do Tocantins,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,3
+Talismã,True,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True,4
+Tocantínia,True,True,False,False,True,True,False,True,False,False,False,False,False,False,True,True,True,8
+Tupirama,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Wanderlândia,True,True,False,False,True,False,False,True,False,False,False,False,False,False,False,True,True,6
+Xambioá,True,True,True,False,False,True,False,True,False,True,False,False,False,True,False,True,True,9
+darcinópolis,True,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,4
+dois Irmãos do Tocantins,True,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,4

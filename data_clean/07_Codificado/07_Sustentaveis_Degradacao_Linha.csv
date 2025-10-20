@@ -1,0 +1,950 @@
+﻿municipio_ibge,uso_de_praticas_sustentaveis_,qual_o_nivel_de_degradacao_que_predomina_nas_pastagens_,total_respostas,regional,degradacao_ord,pratica_aceiros,pratica_adubação,pratica_adubação verde,pratica_apiário,pratica_calagem,pratica_consórcio,pratica_curva de nível,pratica_descarte correto de embalagens,pratica_floresta,pratica_ilp - integração lavoura pecuária,pratica_ilpf - integração lavoura pecuária,pratica_não usa,pratica_outros,pratica_plantio direto,pratica_reaproveitamento de residuos,pratica_recuperação de pastagens,pratica_rotação de cultura,n_praticas_linha
+Abreulândia,aceiros,pouco degradado,1,Paraiso,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Abreulândia,adubação,pouco degradado,1,Paraiso,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Abreulândia,calagem,nao possui degradacao,1,Paraiso,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Abreulândia,não usa,pouco degradado,2,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Aliança do Tocantins,aceiros,degradacao media,3,Gurupi,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aliança do Tocantins,aceiros,nao possui degradacao,1,Gurupi,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aliança do Tocantins,aceiros,pouco degradado,1,Gurupi,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aliança do Tocantins,adubação,degradacao media,2,Gurupi,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aliança do Tocantins,adubação,muito degradado,1,Gurupi,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aliança do Tocantins,calagem,degradacao media,4,Gurupi,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aliança do Tocantins,calagem,nao possui degradacao,1,Gurupi,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aliança do Tocantins,calagem,pouco degradado,1,Gurupi,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aliança do Tocantins,consórcio,nao possui degradacao,1,Gurupi,0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Aliança do Tocantins,consórcio,pouco degradado,1,Gurupi,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Aliança do Tocantins,ilp - integração lavoura pecuária,pouco degradado,1,Gurupi,1,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,1
+Aliança do Tocantins,não usa,pouco degradado,1,Gurupi,1,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Aliança do Tocantins,recuperação de pastagens,pouco degradado,1,Gurupi,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Almas,aceiros,nao possui degradacao,7,Taguatinga do Tocantins,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Almas,aceiros,pouco degradado,1,Taguatinga do Tocantins,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Almas,adubação,nao possui degradacao,3,Taguatinga do Tocantins,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Almas,adubação,pouco degradado,2,Taguatinga do Tocantins,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Almas,adubação verde,nao possui degradacao,3,Taguatinga do Tocantins,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Almas,adubação verde,pouco degradado,1,Taguatinga do Tocantins,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Almas,calagem,nao possui degradacao,5,Taguatinga do Tocantins,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Almas,consórcio,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Almas,curva de nível,nao possui degradacao,2,Taguatinga do Tocantins,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Almas,descarte correto de embalagens,nao possui degradacao,3,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Almas,descarte correto de embalagens,pouco degradado,1,Taguatinga do Tocantins,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Almas,plantio direto,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Almas,reaproveitamento de residuos,nao possui degradacao,4,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Almas,reaproveitamento de residuos,pouco degradado,1,Taguatinga do Tocantins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Almas,recuperação de pastagens,nao possui degradacao,3,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Almas,rotação de cultura,nao possui degradacao,2,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Alvorada,aceiros,nao possui degradacao,4,Gurupi,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Alvorada,aceiros,pouco degradado,2,Gurupi,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Alvorada,adubação,pouco degradado,1,Gurupi,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Alvorada,calagem,pouco degradado,1,Gurupi,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Alvorada,descarte correto de embalagens,pouco degradado,1,Gurupi,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Alvorada,não usa,nao possui degradacao,1,Gurupi,0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Alvorada,recuperação de pastagens,nao possui degradacao,1,Gurupi,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Ananás,aceiros,nao possui degradacao,4,Araguatins,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ananás,aceiros,pouco degradado,7,Araguatins,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ananás,adubação,nao possui degradacao,2,Araguatins,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ananás,calagem,nao possui degradacao,1,Araguatins,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ananás,consórcio,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Ananás,consórcio,pouco degradado,7,Araguatins,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Ananás,descarte correto de embalagens,nao possui degradacao,3,Araguatins,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Ananás,plantio direto,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Ananás,recuperação de pastagens,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Ananás,rotação de cultura,nao possui degradacao,4,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Angico,aceiros,degradacao media,3,Araguatins,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Angico,aceiros,nao possui degradacao,1,Araguatins,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Angico,adubação,degradacao media,2,Araguatins,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Angico,consórcio,degradacao media,2,Araguatins,2,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Angico,consórcio,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Angico,recuperação de pastagens,degradacao media,1,Araguatins,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Angico,rotação de cultura,degradacao media,2,Araguatins,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Angico,rotação de cultura,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Aparecida do Rio Negro,aceiros,nao possui degradacao,1,Porto Nacional,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aparecida do Rio Negro,adubação,pouco degradado,1,Porto Nacional,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aparecida do Rio Negro,calagem,nao possui degradacao,1,Porto Nacional,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aparecida do Rio Negro,calagem,pouco degradado,1,Porto Nacional,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aparecida do Rio Negro,consórcio,pouco degradado,1,Porto Nacional,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Aparecida do Rio Negro,reaproveitamento de residuos,pouco degradado,1,Porto Nacional,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Aparecida do Rio Negro,rotação de cultura,pouco degradado,1,Porto Nacional,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Aragominas,aceiros,degradacao media,1,Araguína,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aragominas,aceiros,nao possui degradacao,1,Araguína,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aragominas,aceiros,pouco degradado,5,Araguína,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aragominas,adubação,degradacao media,1,Araguína,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aragominas,plantio direto,pouco degradado,1,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Araguanã,aceiros,degradacao media,1,Araguína,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguanã,aceiros,nao possui degradacao,5,Araguína,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguanã,aceiros,pouco degradado,8,Araguína,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguanã,adubação,nao possui degradacao,1,Araguína,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguanã,adubação,pouco degradado,2,Araguína,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguanã,adubação verde,nao possui degradacao,2,Araguína,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguanã,adubação verde,pouco degradado,3,Araguína,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguanã,plantio direto,nao possui degradacao,1,Araguína,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Araguanã,plantio direto,pouco degradado,2,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Araguanã,rotação de cultura,nao possui degradacao,2,Araguína,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Araguanã,rotação de cultura,pouco degradado,6,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Araguatins,aceiros,nao possui degradacao,4,Araguatins,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguatins,adubação,nao possui degradacao,3,Araguatins,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguatins,adubação verde,nao possui degradacao,3,Araguatins,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguatins,calagem,muito degradado,1,Araguatins,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguatins,calagem,nao possui degradacao,2,Araguatins,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguatins,consórcio,nao possui degradacao,3,Araguatins,0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Araguatins,curva de nível,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Araguatins,descarte correto de embalagens,nao possui degradacao,4,Araguatins,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Araguatins,floresta,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,1
+Araguatins,ilp - integração lavoura pecuária,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,1
+Araguatins,ilpf - integração lavoura pecuária,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,1
+Araguatins,não usa,muito degradado,1,Araguatins,3,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Araguatins,plantio direto,nao possui degradacao,3,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Araguatins,reaproveitamento de residuos,nao possui degradacao,4,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Araguatins,recuperação de pastagens,muito degradado,1,Araguatins,3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Araguatins,recuperação de pastagens,nao possui degradacao,3,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Araguatins,rotação de cultura,muito degradado,1,Araguatins,3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Araguatins,rotação de cultura,nao possui degradacao,3,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Araguaçu,aceiros,degradacao media,1,Gurupi,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaçu,aceiros,nao possui degradacao,1,Gurupi,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaçu,adubação,degradacao media,1,Gurupi,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaçu,calagem,degradacao media,1,Gurupi,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaçu,calagem,pouco degradado,1,Gurupi,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaçu,consórcio,pouco degradado,1,Gurupi,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaçu,curva de nível,degradacao media,1,Gurupi,2,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Araguaçu,não usa,pouco degradado,1,Gurupi,1,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Araguaçu,plantio direto,degradacao media,1,Gurupi,2,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Araguaçu,reaproveitamento de residuos,degradacao media,1,Gurupi,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Araguaçu,reaproveitamento de residuos,pouco degradado,1,Gurupi,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Araguaçu,recuperação de pastagens,degradacao media,2,Gurupi,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Araguaçu,recuperação de pastagens,nao possui degradacao,1,Gurupi,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Araguaçu,recuperação de pastagens,pouco degradado,1,Gurupi,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Araguaçu,rotação de cultura,pouco degradado,1,Gurupi,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Araguaína,aceiros,degradacao media,1,Araguína,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaína,aceiros,nao possui degradacao,6,Araguína,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaína,aceiros,pouco degradado,20,Araguína,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaína,adubação,degradacao media,2,Araguína,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaína,adubação,nao possui degradacao,5,Araguína,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaína,adubação,pouco degradado,11,Araguína,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaína,adubação verde,pouco degradado,1,Araguína,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaína,apiário,pouco degradado,1,Araguína,1,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaína,calagem,degradacao media,1,Araguína,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaína,calagem,nao possui degradacao,2,Araguína,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaína,calagem,pouco degradado,6,Araguína,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaína,consórcio,nao possui degradacao,3,Araguína,0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaína,consórcio,pouco degradado,2,Araguína,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Araguaína,descarte correto de embalagens,nao possui degradacao,2,Araguína,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Araguaína,plantio direto,nao possui degradacao,1,Araguína,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Araguaína,reaproveitamento de residuos,pouco degradado,2,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Araguaína,recuperação de pastagens,degradacao media,1,Araguína,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Araguaína,recuperação de pastagens,pouco degradado,7,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Araguaína,rotação de cultura,nao possui degradacao,1,Araguína,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Araguaína,rotação de cultura,pouco degradado,5,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Aurora do Tocantins,aceiros,nao possui degradacao,1,Taguatinga do Tocantins,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aurora do Tocantins,aceiros,pouco degradado,4,Taguatinga do Tocantins,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aurora do Tocantins,adubação,nao possui degradacao,1,Taguatinga do Tocantins,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aurora do Tocantins,adubação,pouco degradado,2,Taguatinga do Tocantins,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aurora do Tocantins,calagem,pouco degradado,1,Taguatinga do Tocantins,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Aurora do Tocantins,consórcio,pouco degradado,1,Taguatinga do Tocantins,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Aurora do Tocantins,reaproveitamento de residuos,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Aurora do Tocantins,reaproveitamento de residuos,pouco degradado,1,Taguatinga do Tocantins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Axixá do Tocantins,aceiros,degradacao media,1,Araguatins,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Axixá do Tocantins,aceiros,nao possui degradacao,4,Araguatins,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Axixá do Tocantins,aceiros,pouco degradado,8,Araguatins,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Axixá do Tocantins,adubação,nao possui degradacao,2,Araguatins,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Axixá do Tocantins,adubação,pouco degradado,4,Araguatins,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Axixá do Tocantins,calagem,nao possui degradacao,5,Araguatins,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Axixá do Tocantins,calagem,pouco degradado,3,Araguatins,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Axixá do Tocantins,descarte correto de embalagens,nao possui degradacao,2,Araguatins,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Axixá do Tocantins,descarte correto de embalagens,pouco degradado,1,Araguatins,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Axixá do Tocantins,recuperação de pastagens,nao possui degradacao,2,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Axixá do Tocantins,recuperação de pastagens,pouco degradado,4,Araguatins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Axixá do Tocantins,rotação de cultura,nao possui degradacao,3,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Axixá do Tocantins,rotação de cultura,pouco degradado,4,Araguatins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Babaçulândia,aceiros,degradacao media,1,Araguína,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Babaçulândia,aceiros,pouco degradado,4,Araguína,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Babaçulândia,adubação verde,degradacao media,1,Araguína,2,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Babaçulândia,adubação verde,pouco degradado,1,Araguína,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Babaçulândia,consórcio,degradacao media,1,Araguína,2,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Babaçulândia,consórcio,pouco degradado,1,Araguína,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Babaçulândia,plantio direto,degradacao media,1,Araguína,2,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Babaçulândia,plantio direto,pouco degradado,4,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Babaçulândia,reaproveitamento de residuos,degradacao media,1,Araguína,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Babaçulândia,reaproveitamento de residuos,pouco degradado,1,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Babaçulândia,recuperação de pastagens,degradacao media,1,Araguína,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Babaçulândia,recuperação de pastagens,pouco degradado,4,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Babaçulândia,rotação de cultura,degradacao media,1,Araguína,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Babaçulândia,rotação de cultura,pouco degradado,4,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Bandeirantes do Tocantins,aceiros,degradacao media,3,Colinas,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Bandeirantes do Tocantins,aceiros,pouco degradado,1,Colinas,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Bandeirantes do Tocantins,adubação,degradacao media,2,Colinas,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Bandeirantes do Tocantins,consórcio,degradacao media,1,Colinas,2,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Bandeirantes do Tocantins,descarte correto de embalagens,degradacao media,3,Colinas,2,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Bandeirantes do Tocantins,descarte correto de embalagens,pouco degradado,2,Colinas,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Bandeirantes do Tocantins,não usa,pouco degradado,1,Colinas,1,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Bandeirantes do Tocantins,recuperação de pastagens,degradacao media,1,Colinas,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Bandeirantes do Tocantins,rotação de cultura,degradacao media,1,Colinas,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Bandeirantes do Tocantins,rotação de cultura,pouco degradado,1,Colinas,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Barrolândia,aceiros,degradacao media,1,Paraiso,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Barrolândia,aceiros,nao possui degradacao,2,Paraiso,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Barrolândia,aceiros,pouco degradado,8,Paraiso,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Barrolândia,adubação,nao possui degradacao,1,Paraiso,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Barrolândia,adubação,pouco degradado,3,Paraiso,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Barrolândia,calagem,pouco degradado,1,Paraiso,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Barrolândia,consórcio,pouco degradado,1,Paraiso,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Barrolândia,descarte correto de embalagens,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Barrolândia,descarte correto de embalagens,pouco degradado,4,Paraiso,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Barrolândia,não usa,degradacao media,1,Paraiso,2,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Barrolândia,plantio direto,pouco degradado,3,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Barrolândia,recuperação de pastagens,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Barrolândia,recuperação de pastagens,pouco degradado,9,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Bom Jesus do Tocantins,aceiros,nao possui degradacao,2,Miracema,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Bom Jesus do Tocantins,aceiros,pouco degradado,1,Miracema,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Bom Jesus do Tocantins,adubação,nao possui degradacao,3,Miracema,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Bom Jesus do Tocantins,adubação,pouco degradado,1,Miracema,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Bom Jesus do Tocantins,adubação verde,nao possui degradacao,1,Miracema,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Bom Jesus do Tocantins,adubação verde,pouco degradado,1,Miracema,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Bom Jesus do Tocantins,plantio direto,nao possui degradacao,1,Miracema,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Bom Jesus do Tocantins,plantio direto,pouco degradado,1,Miracema,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Bom Jesus do Tocantins,reaproveitamento de residuos,nao possui degradacao,1,Miracema,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Bom Jesus do Tocantins,rotação de cultura,nao possui degradacao,1,Miracema,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Cachoeirinha,aceiros,pouco degradado,1,Araguatins,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Cachoeirinha,adubação,pouco degradado,1,Araguatins,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Cachoeirinha,calagem,pouco degradado,1,Araguatins,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Cachoeirinha,consórcio,pouco degradado,1,Araguatins,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Cachoeirinha,descarte correto de embalagens,pouco degradado,1,Araguatins,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Cachoeirinha,reaproveitamento de residuos,pouco degradado,1,Araguatins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Cachoeirinha,recuperação de pastagens,pouco degradado,2,Araguatins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Cachoeirinha,rotação de cultura,pouco degradado,1,Araguatins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Cariri do Tocantins,aceiros,degradacao media,2,Gurupi,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Cariri do Tocantins,aceiros,pouco degradado,2,Gurupi,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Cariri do Tocantins,adubação,degradacao media,2,Gurupi,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Cariri do Tocantins,adubação,pouco degradado,1,Gurupi,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Cariri do Tocantins,calagem,degradacao media,2,Gurupi,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Cariri do Tocantins,calagem,pouco degradado,3,Gurupi,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Cariri do Tocantins,consórcio,pouco degradado,1,Gurupi,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Cariri do Tocantins,curva de nível,pouco degradado,1,Gurupi,1,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Cariri do Tocantins,recuperação de pastagens,pouco degradado,3,Gurupi,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Cariri do Tocantins,rotação de cultura,degradacao media,1,Gurupi,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Cariri do Tocantins,rotação de cultura,pouco degradado,2,Gurupi,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Carmolândia,aceiros,nao possui degradacao,2,Araguína,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Carmolândia,aceiros,pouco degradado,1,Araguína,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Carmolândia,plantio direto,nao possui degradacao,1,Araguína,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Caseara,aceiros,nao possui degradacao,4,Paraiso,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Caseara,aceiros,pouco degradado,1,Paraiso,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Caseara,adubação,nao possui degradacao,5,Paraiso,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Caseara,adubação,pouco degradado,1,Paraiso,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Caseara,adubação verde,nao possui degradacao,1,Paraiso,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Caseara,adubação verde,pouco degradado,1,Paraiso,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Caseara,calagem,nao possui degradacao,1,Paraiso,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Caseara,não usa,nao possui degradacao,5,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Caseara,reaproveitamento de residuos,nao possui degradacao,3,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Caseara,rotação de cultura,nao possui degradacao,3,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Centenário,aceiros,nao possui degradacao,1,Miracema,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Centenário,reaproveitamento de residuos,nao possui degradacao,1,Miracema,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Centenário,rotação de cultura,nao possui degradacao,1,Miracema,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Chapada da Natividade,aceiros,degradacao media,4,Porto Nacional,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Chapada da Natividade,aceiros,pouco degradado,8,Porto Nacional,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Chapada da Natividade,adubação,degradacao media,3,Porto Nacional,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Chapada da Natividade,adubação,pouco degradado,4,Porto Nacional,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Chapada da Natividade,adubação verde,degradacao media,1,Porto Nacional,2,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Chapada da Natividade,adubação verde,pouco degradado,4,Porto Nacional,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Chapada da Natividade,calagem,pouco degradado,3,Porto Nacional,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Chapada da Natividade,outros,pouco degradado,1,Porto Nacional,1,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,1
+Chapada da Natividade,recuperação de pastagens,degradacao media,4,Porto Nacional,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Chapada da Natividade,recuperação de pastagens,pouco degradado,4,Porto Nacional,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Chapada da Natividade,rotação de cultura,degradacao media,4,Porto Nacional,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Chapada da Natividade,rotação de cultura,pouco degradado,4,Porto Nacional,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Chapada de Areia,aceiros,degradacao media,5,Paraiso,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Chapada de Areia,aceiros,pouco degradado,5,Paraiso,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Chapada de Areia,adubação,degradacao media,1,Paraiso,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Chapada de Areia,adubação,nao possui degradacao,2,Paraiso,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Chapada de Areia,adubação,pouco degradado,2,Paraiso,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Chapada de Areia,adubação verde,nao possui degradacao,3,Paraiso,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Chapada de Areia,adubação verde,pouco degradado,4,Paraiso,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Chapada de Areia,calagem,nao possui degradacao,1,Paraiso,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Chapada de Areia,calagem,pouco degradado,1,Paraiso,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Chapada de Areia,consórcio,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Chapada de Areia,plantio direto,degradacao media,1,Paraiso,2,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Chapada de Areia,plantio direto,muito degradado,1,Paraiso,3,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Chapada de Areia,plantio direto,nao possui degradacao,6,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Chapada de Areia,plantio direto,pouco degradado,2,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Chapada de Areia,recuperação de pastagens,pouco degradado,1,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Chapada de Areia,rotação de cultura,degradacao media,1,Paraiso,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Chapada de Areia,rotação de cultura,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Colméia,aceiros,degradacao media,1,Colinas,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Colméia,aceiros,nao possui degradacao,2,Colinas,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Colméia,aceiros,pouco degradado,3,Colinas,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Colméia,adubação,nao possui degradacao,2,Colinas,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Colméia,adubação,pouco degradado,4,Colinas,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Colméia,adubação verde,pouco degradado,4,Colinas,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Colméia,calagem,nao possui degradacao,2,Colinas,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Colméia,calagem,pouco degradado,2,Colinas,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Colméia,curva de nível,pouco degradado,2,Colinas,1,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Colméia,reaproveitamento de residuos,nao possui degradacao,2,Colinas,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Colméia,rotação de cultura,pouco degradado,2,Colinas,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Couto Magalhães,aceiros,pouco degradado,5,Colinas,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Couto Magalhães,adubação,nao possui degradacao,1,Colinas,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Couto Magalhães,adubação,pouco degradado,5,Colinas,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Couto Magalhães,adubação verde,degradacao media,1,Colinas,2,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Couto Magalhães,adubação verde,nao possui degradacao,1,Colinas,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Couto Magalhães,adubação verde,pouco degradado,5,Colinas,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Couto Magalhães,calagem,nao possui degradacao,1,Colinas,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Couto Magalhães,calagem,pouco degradado,5,Colinas,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Couto Magalhães,consórcio,pouco degradado,1,Colinas,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Couto Magalhães,curva de nível,degradacao media,1,Colinas,2,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Couto Magalhães,curva de nível,nao possui degradacao,1,Colinas,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Couto Magalhães,descarte correto de embalagens,pouco degradado,1,Colinas,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Couto Magalhães,ilp - integração lavoura pecuária,nao possui degradacao,1,Colinas,0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,1
+Couto Magalhães,plantio direto,nao possui degradacao,1,Colinas,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Couto Magalhães,plantio direto,pouco degradado,3,Colinas,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Couto Magalhães,reaproveitamento de residuos,degradacao media,1,Colinas,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Couto Magalhães,reaproveitamento de residuos,pouco degradado,5,Colinas,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Couto Magalhães,recuperação de pastagens,nao possui degradacao,1,Colinas,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Couto Magalhães,recuperação de pastagens,pouco degradado,4,Colinas,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Couto Magalhães,rotação de cultura,degradacao media,1,Colinas,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Couto Magalhães,rotação de cultura,nao possui degradacao,1,Colinas,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Couto Magalhães,rotação de cultura,pouco degradado,5,Colinas,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Cristalândia,aceiros,degradacao media,2,Paraiso,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Cristalândia,aceiros,nao possui degradacao,8,Paraiso,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Cristalândia,aceiros,pouco degradado,7,Paraiso,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Cristalândia,adubação,nao possui degradacao,3,Paraiso,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Cristalândia,adubação verde,nao possui degradacao,1,Paraiso,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Cristalândia,calagem,degradacao media,1,Paraiso,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Cristalândia,calagem,nao possui degradacao,2,Paraiso,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Cristalândia,calagem,pouco degradado,1,Paraiso,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Cristalândia,não usa,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Cristalândia,não usa,pouco degradado,1,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Cristalândia,plantio direto,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Cristalândia,plantio direto,pouco degradado,1,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Cristalândia,reaproveitamento de residuos,degradacao media,1,Paraiso,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Cristalândia,reaproveitamento de residuos,nao possui degradacao,2,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Cristalândia,reaproveitamento de residuos,pouco degradado,2,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Cristalândia,rotação de cultura,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Crixás do Tocantins,adubação,degradacao media,1,Gurupi,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Crixás do Tocantins,calagem,degradacao media,1,Gurupi,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Crixás do Tocantins,consórcio,degradacao media,1,Gurupi,2,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Crixás do Tocantins,não usa,degradacao media,1,Gurupi,2,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Dianópolis,aceiros,degradacao media,2,Taguatinga do Tocantins,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dianópolis,aceiros,nao possui degradacao,15,Taguatinga do Tocantins,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dianópolis,aceiros,pouco degradado,1,Taguatinga do Tocantins,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dianópolis,adubação,degradacao media,2,Taguatinga do Tocantins,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dianópolis,adubação,nao possui degradacao,11,Taguatinga do Tocantins,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dianópolis,adubação,pouco degradado,4,Taguatinga do Tocantins,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dianópolis,adubação verde,degradacao media,2,Taguatinga do Tocantins,2,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dianópolis,adubação verde,nao possui degradacao,4,Taguatinga do Tocantins,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dianópolis,adubação verde,pouco degradado,3,Taguatinga do Tocantins,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dianópolis,calagem,degradacao media,2,Taguatinga do Tocantins,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dianópolis,calagem,nao possui degradacao,13,Taguatinga do Tocantins,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dianópolis,calagem,pouco degradado,3,Taguatinga do Tocantins,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dianópolis,consórcio,degradacao media,1,Taguatinga do Tocantins,2,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Dianópolis,consórcio,nao possui degradacao,5,Taguatinga do Tocantins,0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Dianópolis,consórcio,pouco degradado,3,Taguatinga do Tocantins,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Dianópolis,curva de nível,nao possui degradacao,2,Taguatinga do Tocantins,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Dianópolis,curva de nível,pouco degradado,1,Taguatinga do Tocantins,1,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Dianópolis,floresta,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,1
+Dianópolis,ilp - integração lavoura pecuária,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,1
+Dianópolis,ilp - integração lavoura pecuária,pouco degradado,1,Taguatinga do Tocantins,1,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,1
+Dianópolis,ilpf - integração lavoura pecuária,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,1
+Dianópolis,não usa,nao possui degradacao,2,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Dianópolis,plantio direto,degradacao media,1,Taguatinga do Tocantins,2,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Dianópolis,plantio direto,nao possui degradacao,4,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Dianópolis,plantio direto,pouco degradado,3,Taguatinga do Tocantins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Dianópolis,reaproveitamento de residuos,degradacao media,2,Taguatinga do Tocantins,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Dianópolis,reaproveitamento de residuos,nao possui degradacao,3,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Dianópolis,reaproveitamento de residuos,pouco degradado,1,Taguatinga do Tocantins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Dianópolis,recuperação de pastagens,degradacao media,1,Taguatinga do Tocantins,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Dianópolis,recuperação de pastagens,nao possui degradacao,3,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Dianópolis,recuperação de pastagens,pouco degradado,1,Taguatinga do Tocantins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Dianópolis,rotação de cultura,degradacao media,2,Taguatinga do Tocantins,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Dianópolis,rotação de cultura,nao possui degradacao,5,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Dianópolis,rotação de cultura,pouco degradado,2,Taguatinga do Tocantins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Divinópolis do Tocantins,aceiros,nao possui degradacao,10,Paraiso,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Divinópolis do Tocantins,aceiros,pouco degradado,8,Paraiso,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Divinópolis do Tocantins,adubação,degradacao media,1,Paraiso,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Divinópolis do Tocantins,adubação,nao possui degradacao,7,Paraiso,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Divinópolis do Tocantins,adubação,pouco degradado,4,Paraiso,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Divinópolis do Tocantins,calagem,nao possui degradacao,8,Paraiso,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Divinópolis do Tocantins,calagem,pouco degradado,4,Paraiso,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Divinópolis do Tocantins,consórcio,nao possui degradacao,2,Paraiso,0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Divinópolis do Tocantins,curva de nível,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Divinópolis do Tocantins,descarte correto de embalagens,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Divinópolis do Tocantins,descarte correto de embalagens,pouco degradado,1,Paraiso,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Divinópolis do Tocantins,não usa,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Divinópolis do Tocantins,plantio direto,nao possui degradacao,4,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Divinópolis do Tocantins,plantio direto,pouco degradado,1,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Divinópolis do Tocantins,reaproveitamento de residuos,nao possui degradacao,2,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Divinópolis do Tocantins,reaproveitamento de residuos,pouco degradado,2,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Divinópolis do Tocantins,recuperação de pastagens,nao possui degradacao,3,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Divinópolis do Tocantins,recuperação de pastagens,pouco degradado,4,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Divinópolis do Tocantins,rotação de cultura,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Divinópolis do Tocantins,rotação de cultura,pouco degradado,2,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Dueré,aceiros,degradacao media,1,Gurupi,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dueré,aceiros,muito degradado,1,Gurupi,3,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dueré,aceiros,pouco degradado,1,Gurupi,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dueré,adubação,degradacao media,1,Gurupi,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dueré,adubação,muito degradado,1,Gurupi,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dueré,adubação,nao possui degradacao,1,Gurupi,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dueré,adubação,pouco degradado,1,Gurupi,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dueré,calagem,pouco degradado,1,Gurupi,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Dueré,não usa,degradacao media,1,Gurupi,2,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Esperantina,aceiros,nao possui degradacao,1,Araguatins,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Esperantina,adubação verde,nao possui degradacao,1,Araguatins,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Esperantina,consórcio,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Esperantina,floresta,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,1
+Esperantina,ilp - integração lavoura pecuária,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,1
+Esperantina,ilpf - integração lavoura pecuária,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,1
+Esperantina,plantio direto,nao possui degradacao,2,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Esperantina,reaproveitamento de residuos,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Esperantina,recuperação de pastagens,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Esperantina,rotação de cultura,nao possui degradacao,2,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Figueirópolis,aceiros,nao possui degradacao,3,Gurupi,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Figueirópolis,aceiros,pouco degradado,2,Gurupi,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Figueirópolis,adubação,nao possui degradacao,4,Gurupi,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Figueirópolis,adubação,pouco degradado,5,Gurupi,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Figueirópolis,calagem,pouco degradado,4,Gurupi,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Figueirópolis,plantio direto,pouco degradado,1,Gurupi,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Figueirópolis,recuperação de pastagens,pouco degradado,3,Gurupi,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Figueirópolis,rotação de cultura,nao possui degradacao,1,Gurupi,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Filadélfia,aceiros,degradacao media,3,Araguína,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Filadélfia,aceiros,muito degradado,1,Araguína,3,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Filadélfia,aceiros,nao possui degradacao,4,Araguína,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Filadélfia,aceiros,pouco degradado,11,Araguína,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Filadélfia,adubação,degradacao media,1,Araguína,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Filadélfia,adubação,muito degradado,1,Araguína,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Filadélfia,adubação,pouco degradado,1,Araguína,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Filadélfia,consórcio,nao possui degradacao,1,Araguína,0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Filadélfia,descarte correto de embalagens,nao possui degradacao,2,Araguína,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Filadélfia,descarte correto de embalagens,pouco degradado,1,Araguína,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Filadélfia,não usa,degradacao media,1,Araguína,2,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Filadélfia,não usa,muito degradado,1,Araguína,3,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Filadélfia,reaproveitamento de residuos,pouco degradado,1,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Filadélfia,recuperação de pastagens,nao possui degradacao,3,Araguína,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Filadélfia,recuperação de pastagens,pouco degradado,1,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Fortaleza do Tabocão,aceiros,pouco degradado,6,Miracema,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Fortaleza do Tabocão,adubação,pouco degradado,6,Miracema,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Fortaleza do Tabocão,adubação verde,pouco degradado,2,Miracema,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Fortaleza do Tabocão,calagem,pouco degradado,4,Miracema,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Fortaleza do Tabocão,descarte correto de embalagens,pouco degradado,3,Miracema,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Fortaleza do Tabocão,reaproveitamento de residuos,pouco degradado,5,Miracema,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Fortaleza do Tabocão,recuperação de pastagens,pouco degradado,2,Miracema,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Fátima,aceiros,degradacao media,1,Porto Nacional,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Fátima,aceiros,pouco degradado,1,Porto Nacional,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Fátima,adubação,degradacao media,3,Porto Nacional,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Fátima,adubação,pouco degradado,2,Porto Nacional,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Fátima,calagem,degradacao media,3,Porto Nacional,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Fátima,calagem,pouco degradado,3,Porto Nacional,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Fátima,recuperação de pastagens,degradacao media,1,Porto Nacional,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Goiatins,aceiros,pouco degradado,8,Araguína,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Goiatins,adubação,pouco degradado,1,Araguína,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Goiatins,calagem,pouco degradado,7,Araguína,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Goiatins,descarte correto de embalagens,pouco degradado,3,Araguína,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Goiatins,plantio direto,pouco degradado,1,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Goiatins,recuperação de pastagens,pouco degradado,4,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Goiatins,rotação de cultura,pouco degradado,2,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Guaraí,aceiros,nao possui degradacao,9,Colinas,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Guaraí,aceiros,pouco degradado,8,Colinas,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Guaraí,adubação,nao possui degradacao,11,Colinas,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Guaraí,adubação,pouco degradado,8,Colinas,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Guaraí,adubação verde,nao possui degradacao,1,Colinas,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Guaraí,adubação verde,pouco degradado,3,Colinas,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Guaraí,calagem,nao possui degradacao,11,Colinas,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Guaraí,calagem,pouco degradado,8,Colinas,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Guaraí,consórcio,pouco degradado,2,Colinas,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Guaraí,curva de nível,nao possui degradacao,1,Colinas,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Guaraí,curva de nível,pouco degradado,1,Colinas,1,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Guaraí,não usa,nao possui degradacao,2,Colinas,0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Guaraí,recuperação de pastagens,pouco degradado,1,Colinas,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Gurupi,aceiros,degradacao media,1,Gurupi,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Gurupi,aceiros,nao possui degradacao,4,Gurupi,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Gurupi,aceiros,pouco degradado,10,Gurupi,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Gurupi,adubação,nao possui degradacao,1,Gurupi,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Gurupi,adubação,pouco degradado,3,Gurupi,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Gurupi,adubação verde,pouco degradado,1,Gurupi,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Gurupi,calagem,nao possui degradacao,2,Gurupi,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Gurupi,calagem,pouco degradado,8,Gurupi,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Gurupi,não usa,degradacao media,2,Gurupi,2,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Gurupi,reaproveitamento de residuos,pouco degradado,1,Gurupi,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Gurupi,rotação de cultura,pouco degradado,1,Gurupi,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Ipueiras,aceiros,degradacao media,1,Porto Nacional,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ipueiras,aceiros,nao possui degradacao,1,Porto Nacional,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ipueiras,aceiros,pouco degradado,4,Porto Nacional,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ipueiras,adubação,degradacao media,1,Porto Nacional,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ipueiras,adubação,nao possui degradacao,1,Porto Nacional,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ipueiras,adubação,pouco degradado,2,Porto Nacional,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ipueiras,adubação verde,degradacao media,1,Porto Nacional,2,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ipueiras,calagem,degradacao media,1,Porto Nacional,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ipueiras,calagem,nao possui degradacao,1,Porto Nacional,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ipueiras,calagem,pouco degradado,3,Porto Nacional,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ipueiras,consórcio,degradacao media,1,Porto Nacional,2,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Ipueiras,descarte correto de embalagens,degradacao media,1,Porto Nacional,2,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Ipueiras,recuperação de pastagens,pouco degradado,1,Porto Nacional,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Ipueiras,rotação de cultura,degradacao media,1,Porto Nacional,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Itaguatins,aceiros,nao possui degradacao,1,Araguatins,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Itaguatins,aceiros,pouco degradado,2,Araguatins,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Itaguatins,adubação,nao possui degradacao,1,Araguatins,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Itaguatins,adubação,pouco degradado,1,Araguatins,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Itaguatins,calagem,pouco degradado,1,Araguatins,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Itaguatins,consórcio,pouco degradado,1,Araguatins,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Itaguatins,descarte correto de embalagens,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Itaguatins,recuperação de pastagens,pouco degradado,1,Araguatins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Itaguatins,rotação de cultura,nao possui degradacao,2,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Itaguatins,rotação de cultura,pouco degradado,1,Araguatins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Itaporã do Tocantins,descarte correto de embalagens,nao possui degradacao,2,Colinas,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Itaporã do Tocantins,plantio direto,nao possui degradacao,1,Colinas,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Jaú do Tocantins,aceiros,degradacao media,3,Gurupi,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Jaú do Tocantins,aceiros,pouco degradado,2,Gurupi,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Jaú do Tocantins,adubação,degradacao media,1,Gurupi,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Jaú do Tocantins,adubação,pouco degradado,2,Gurupi,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Jaú do Tocantins,calagem,degradacao media,2,Gurupi,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Jaú do Tocantins,descarte correto de embalagens,pouco degradado,1,Gurupi,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Lagoa da Confusão,aceiros,degradacao media,1,Paraiso,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Lagoa da Confusão,aceiros,nao possui degradacao,2,Paraiso,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Lagoa da Confusão,aceiros,pouco degradado,1,Paraiso,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Lagoa da Confusão,adubação,degradacao media,1,Paraiso,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Lagoa da Confusão,adubação,nao possui degradacao,1,Paraiso,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Lagoa da Confusão,adubação verde,nao possui degradacao,1,Paraiso,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Lagoa da Confusão,calagem,nao possui degradacao,1,Paraiso,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Lagoa da Confusão,consórcio,degradacao media,1,Paraiso,2,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Lagoa da Confusão,consórcio,pouco degradado,1,Paraiso,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Lagoa da Confusão,ilp - integração lavoura pecuária,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,1
+Lagoa da Confusão,plantio direto,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Lagoa da Confusão,recuperação de pastagens,degradacao media,1,Paraiso,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Lagoa da Confusão,recuperação de pastagens,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Lagoa da Confusão,rotação de cultura,nao possui degradacao,2,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Lagoa da Confusão,rotação de cultura,pouco degradado,1,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Lajeado,aceiros,nao possui degradacao,1,Porto Nacional,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Lajeado,adubação,nao possui degradacao,1,Porto Nacional,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Lajeado,adubação verde,nao possui degradacao,1,Porto Nacional,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Lajeado,calagem,nao possui degradacao,1,Porto Nacional,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Lajeado,recuperação de pastagens,nao possui degradacao,1,Porto Nacional,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Luzinópolis,aceiros,degradacao media,2,Araguatins,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Luzinópolis,aceiros,nao possui degradacao,2,Araguatins,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Luzinópolis,adubação,nao possui degradacao,2,Araguatins,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Luzinópolis,calagem,nao possui degradacao,2,Araguatins,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Luzinópolis,consórcio,nao possui degradacao,2,Araguatins,0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Luzinópolis,descarte correto de embalagens,nao possui degradacao,2,Araguatins,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Luzinópolis,não usa,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Luzinópolis,recuperação de pastagens,degradacao media,3,Araguatins,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Luzinópolis,recuperação de pastagens,nao possui degradacao,2,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Luzinópolis,rotação de cultura,nao possui degradacao,2,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Marianópolis do Tocantins,aceiros,degradacao media,1,Paraiso,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Marianópolis do Tocantins,aceiros,nao possui degradacao,7,Paraiso,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Marianópolis do Tocantins,aceiros,pouco degradado,1,Paraiso,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Marianópolis do Tocantins,adubação,degradacao media,6,Paraiso,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Marianópolis do Tocantins,adubação,nao possui degradacao,5,Paraiso,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Marianópolis do Tocantins,adubação verde,degradacao media,1,Paraiso,2,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Marianópolis do Tocantins,calagem,degradacao media,1,Paraiso,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Marianópolis do Tocantins,calagem,nao possui degradacao,4,Paraiso,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Marianópolis do Tocantins,não usa,degradacao media,11,Paraiso,2,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Marianópolis do Tocantins,não usa,muito degradado,2,Paraiso,3,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Marianópolis do Tocantins,reaproveitamento de residuos,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Marianópolis do Tocantins,recuperação de pastagens,degradacao media,1,Paraiso,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Marianópolis do Tocantins,recuperação de pastagens,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Miracema do Tocantins,aceiros,degradacao media,2,Miracema,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Miracema do Tocantins,aceiros,nao possui degradacao,3,Miracema,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Miracema do Tocantins,aceiros,pouco degradado,5,Miracema,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Miracema do Tocantins,adubação,nao possui degradacao,2,Miracema,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Miracema do Tocantins,adubação,pouco degradado,4,Miracema,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Miracema do Tocantins,adubação verde,pouco degradado,1,Miracema,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Miracema do Tocantins,calagem,nao possui degradacao,1,Miracema,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Miracema do Tocantins,calagem,pouco degradado,3,Miracema,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Miracema do Tocantins,descarte correto de embalagens,degradacao media,1,Miracema,2,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Miracema do Tocantins,descarte correto de embalagens,pouco degradado,5,Miracema,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Miracema do Tocantins,não usa,pouco degradado,1,Miracema,1,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Miracema do Tocantins,plantio direto,degradacao media,1,Miracema,2,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Miracema do Tocantins,recuperação de pastagens,degradacao media,1,Miracema,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Miracema do Tocantins,recuperação de pastagens,nao possui degradacao,1,Miracema,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Miracema do Tocantins,recuperação de pastagens,pouco degradado,5,Miracema,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Miracema do Tocantins,rotação de cultura,pouco degradado,1,Miracema,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Miranorte,aceiros,nao possui degradacao,37,Miracema,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Miranorte,aceiros,pouco degradado,4,Miracema,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Miranorte,adubação,nao possui degradacao,33,Miracema,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Miranorte,adubação,pouco degradado,5,Miracema,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Miranorte,adubação verde,nao possui degradacao,1,Miracema,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Miranorte,calagem,nao possui degradacao,17,Miracema,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Miranorte,calagem,pouco degradado,4,Miracema,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Miranorte,não usa,pouco degradado,1,Miracema,1,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Miranorte,plantio direto,nao possui degradacao,1,Miracema,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Miranorte,rotação de cultura,nao possui degradacao,3,Miracema,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Miranorte,rotação de cultura,pouco degradado,2,Miracema,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Monte Santo do Tocantins,aceiros,degradacao media,1,Paraiso,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Monte Santo do Tocantins,aceiros,nao possui degradacao,3,Paraiso,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Monte Santo do Tocantins,aceiros,pouco degradado,2,Paraiso,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Monte Santo do Tocantins,adubação,nao possui degradacao,1,Paraiso,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Monte Santo do Tocantins,adubação,pouco degradado,3,Paraiso,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Monte Santo do Tocantins,adubação verde,degradacao media,1,Paraiso,2,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Monte Santo do Tocantins,adubação verde,nao possui degradacao,3,Paraiso,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Monte Santo do Tocantins,calagem,nao possui degradacao,1,Paraiso,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Monte Santo do Tocantins,calagem,pouco degradado,2,Paraiso,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Monte Santo do Tocantins,plantio direto,degradacao media,1,Paraiso,2,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Monte Santo do Tocantins,plantio direto,nao possui degradacao,3,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Monte Santo do Tocantins,reaproveitamento de residuos,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Monte Santo do Tocantins,reaproveitamento de residuos,pouco degradado,1,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Monte Santo do Tocantins,recuperação de pastagens,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Monte Santo do Tocantins,rotação de cultura,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Monte Santo do Tocantins,rotação de cultura,pouco degradado,3,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Monte do Carmo,aceiros,degradacao media,2,Porto Nacional,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Monte do Carmo,aceiros,pouco degradado,5,Porto Nacional,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Monte do Carmo,adubação,degradacao media,1,Porto Nacional,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Monte do Carmo,calagem,degradacao media,1,Porto Nacional,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Monte do Carmo,recuperação de pastagens,degradacao media,1,Porto Nacional,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Muricilândia,aceiros,degradacao media,2,Araguína,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Muricilândia,aceiros,pouco degradado,4,Araguína,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Muricilândia,adubação,degradacao media,1,Araguína,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Muricilândia,adubação,pouco degradado,2,Araguína,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Muricilândia,calagem,degradacao media,1,Araguína,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Muricilândia,calagem,pouco degradado,2,Araguína,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Nova Olinda,aceiros,degradacao media,4,Araguína,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Nova Olinda,aceiros,nao possui degradacao,5,Araguína,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Nova Olinda,aceiros,pouco degradado,4,Araguína,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Nova Olinda,adubação,degradacao media,3,Araguína,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Nova Olinda,adubação,nao possui degradacao,3,Araguína,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Nova Olinda,adubação,pouco degradado,2,Araguína,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Nova Olinda,adubação verde,nao possui degradacao,2,Araguína,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Nova Olinda,calagem,degradacao media,3,Araguína,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Nova Olinda,calagem,nao possui degradacao,4,Araguína,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Nova Olinda,calagem,pouco degradado,2,Araguína,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Nova Olinda,consórcio,degradacao media,3,Araguína,2,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Nova Olinda,consórcio,nao possui degradacao,3,Araguína,0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Nova Olinda,curva de nível,degradacao media,1,Araguína,2,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Nova Olinda,curva de nível,nao possui degradacao,3,Araguína,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Nova Olinda,ilp - integração lavoura pecuária,nao possui degradacao,1,Araguína,0,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,1
+Nova Olinda,reaproveitamento de residuos,degradacao media,2,Araguína,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Nova Olinda,reaproveitamento de residuos,nao possui degradacao,4,Araguína,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Nova Olinda,reaproveitamento de residuos,pouco degradado,1,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Nova Olinda,recuperação de pastagens,degradacao media,3,Araguína,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Nova Olinda,rotação de cultura,degradacao media,1,Araguína,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Nova Olinda,rotação de cultura,nao possui degradacao,5,Araguína,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Nova Olinda,rotação de cultura,pouco degradado,1,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Nova Rosalândia,adubação,degradacao media,14,Paraiso,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Nova Rosalândia,adubação verde,degradacao media,6,Paraiso,2,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Nova Rosalândia,calagem,degradacao media,8,Paraiso,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Nova Rosalândia,consórcio,degradacao media,1,Paraiso,2,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Nova Rosalândia,plantio direto,degradacao media,13,Paraiso,2,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Nova Rosalândia,reaproveitamento de residuos,degradacao media,7,Paraiso,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Nova Rosalândia,rotação de cultura,degradacao media,3,Paraiso,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Novo Acordo,aceiros,muito degradado,1,Porto Nacional,3,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Novo Acordo,aceiros,pouco degradado,3,Porto Nacional,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Novo Acordo,adubação,pouco degradado,1,Porto Nacional,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Novo Acordo,consórcio,pouco degradado,3,Porto Nacional,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Novo Acordo,descarte correto de embalagens,pouco degradado,1,Porto Nacional,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Novo Acordo,rotação de cultura,pouco degradado,3,Porto Nacional,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Novo Jardim,aceiros,nao possui degradacao,5,Taguatinga do Tocantins,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Novo Jardim,aceiros,pouco degradado,1,Taguatinga do Tocantins,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Novo Jardim,adubação,nao possui degradacao,6,Taguatinga do Tocantins,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Novo Jardim,adubação,pouco degradado,1,Taguatinga do Tocantins,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Novo Jardim,calagem,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Novo Jardim,não usa,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Novo Jardim,rotação de cultura,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Palmas,aceiros,nao possui degradacao,2,Porto Nacional,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Palmas,aceiros,pouco degradado,1,Porto Nacional,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Palmas,adubação,nao possui degradacao,1,Porto Nacional,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Palmas,adubação verde,nao possui degradacao,3,Porto Nacional,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Palmas,plantio direto,nao possui degradacao,1,Porto Nacional,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Palmas,recuperação de pastagens,nao possui degradacao,1,Porto Nacional,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Palmas,rotação de cultura,nao possui degradacao,1,Porto Nacional,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Palmeiras do Tocantins,aceiros,degradacao media,1,Araguatins,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Palmeiras do Tocantins,aceiros,nao possui degradacao,5,Araguatins,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Palmeiras do Tocantins,aceiros,pouco degradado,7,Araguatins,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Palmeiras do Tocantins,adubação,degradacao media,1,Araguatins,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Palmeiras do Tocantins,adubação,nao possui degradacao,2,Araguatins,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Palmeiras do Tocantins,adubação,pouco degradado,8,Araguatins,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Palmeiras do Tocantins,calagem,nao possui degradacao,1,Araguatins,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Palmeiras do Tocantins,calagem,pouco degradado,4,Araguatins,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Palmeiras do Tocantins,consórcio,pouco degradado,2,Araguatins,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Palmeiras do Tocantins,curva de nível,pouco degradado,2,Araguatins,1,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Palmeiras do Tocantins,descarte correto de embalagens,degradacao media,1,Araguatins,2,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Palmeiras do Tocantins,descarte correto de embalagens,nao possui degradacao,4,Araguatins,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Palmeiras do Tocantins,descarte correto de embalagens,pouco degradado,7,Araguatins,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Palmeiras do Tocantins,ilp - integração lavoura pecuária,pouco degradado,2,Araguatins,1,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,1
+Palmeiras do Tocantins,plantio direto,degradacao media,1,Araguatins,2,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Palmeiras do Tocantins,reaproveitamento de residuos,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Palmeiras do Tocantins,recuperação de pastagens,nao possui degradacao,3,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Palmeiras do Tocantins,recuperação de pastagens,pouco degradado,2,Araguatins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Palmeiras do Tocantins,rotação de cultura,nao possui degradacao,2,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Palmeiras do Tocantins,rotação de cultura,pouco degradado,2,Araguatins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Palmeirópolis,aceiros,pouco degradado,1,Gurupi,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Palmeirópolis,adubação,pouco degradado,1,Gurupi,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Palmeirópolis,calagem,pouco degradado,1,Gurupi,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Palmeirópolis,não usa,pouco degradado,1,Gurupi,1,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Paranã,aceiros,degradacao media,3,Taguatinga do Tocantins,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Paranã,aceiros,nao possui degradacao,4,Taguatinga do Tocantins,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Paranã,aceiros,pouco degradado,13,Taguatinga do Tocantins,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Paranã,adubação,pouco degradado,4,Taguatinga do Tocantins,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Paranã,adubação verde,nao possui degradacao,3,Taguatinga do Tocantins,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Paranã,adubação verde,pouco degradado,2,Taguatinga do Tocantins,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Paranã,calagem,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Paranã,consórcio,degradacao media,3,Taguatinga do Tocantins,2,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Paranã,consórcio,nao possui degradacao,2,Taguatinga do Tocantins,0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Paranã,consórcio,pouco degradado,13,Taguatinga do Tocantins,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Paranã,curva de nível,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Paranã,descarte correto de embalagens,pouco degradado,5,Taguatinga do Tocantins,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Paranã,floresta,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,1
+Paranã,ilpf - integração lavoura pecuária,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,1
+Paranã,plantio direto,degradacao media,3,Taguatinga do Tocantins,2,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Paranã,plantio direto,pouco degradado,12,Taguatinga do Tocantins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Paranã,reaproveitamento de residuos,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Paranã,reaproveitamento de residuos,pouco degradado,2,Taguatinga do Tocantins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Paranã,recuperação de pastagens,degradacao media,2,Taguatinga do Tocantins,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Paranã,recuperação de pastagens,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Paranã,recuperação de pastagens,pouco degradado,11,Taguatinga do Tocantins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Paranã,rotação de cultura,degradacao media,3,Taguatinga do Tocantins,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Paranã,rotação de cultura,nao possui degradacao,15,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Paranã,rotação de cultura,pouco degradado,13,Taguatinga do Tocantins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Paraíso do Tocantins,aceiros,degradacao media,1,Paraiso,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Paraíso do Tocantins,aceiros,nao possui degradacao,1,Paraiso,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Paraíso do Tocantins,aceiros,pouco degradado,9,Paraiso,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Paraíso do Tocantins,adubação,pouco degradado,6,Paraiso,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Paraíso do Tocantins,adubação verde,pouco degradado,2,Paraiso,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Paraíso do Tocantins,calagem,pouco degradado,5,Paraiso,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Paraíso do Tocantins,consórcio,pouco degradado,1,Paraiso,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Paraíso do Tocantins,não usa,pouco degradado,3,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Paraíso do Tocantins,reaproveitamento de residuos,pouco degradado,1,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Paraíso do Tocantins,recuperação de pastagens,pouco degradado,1,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Paraíso do Tocantins,rotação de cultura,pouco degradado,2,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Pedro Afonso,aceiros,degradacao media,2,Miracema,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pedro Afonso,aceiros,nao possui degradacao,5,Miracema,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pedro Afonso,aceiros,pouco degradado,3,Miracema,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pedro Afonso,adubação,nao possui degradacao,1,Miracema,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pedro Afonso,adubação verde,nao possui degradacao,1,Miracema,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pedro Afonso,plantio direto,nao possui degradacao,1,Miracema,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Peixe,aceiros,degradacao media,3,Gurupi,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Peixe,aceiros,pouco degradado,7,Gurupi,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Peixe,adubação,degradacao media,2,Gurupi,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Peixe,adubação,pouco degradado,9,Gurupi,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Peixe,adubação verde,pouco degradado,1,Gurupi,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Peixe,calagem,pouco degradado,5,Gurupi,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Peixe,recuperação de pastagens,pouco degradado,4,Gurupi,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Peixe,rotação de cultura,pouco degradado,3,Gurupi,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Piraquê,aceiros,degradacao media,1,Araguína,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Piraquê,aceiros,nao possui degradacao,4,Araguína,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Piraquê,aceiros,pouco degradado,12,Araguína,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Piraquê,adubação,nao possui degradacao,1,Araguína,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Piraquê,adubação,pouco degradado,5,Araguína,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Piraquê,calagem,degradacao media,1,Araguína,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Piraquê,calagem,pouco degradado,3,Araguína,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Piraquê,descarte correto de embalagens,nao possui degradacao,1,Araguína,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Piraquê,plantio direto,degradacao media,1,Araguína,2,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Piraquê,recuperação de pastagens,degradacao media,1,Araguína,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Piraquê,recuperação de pastagens,nao possui degradacao,3,Araguína,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Piraquê,recuperação de pastagens,pouco degradado,6,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Piraquê,rotação de cultura,degradacao media,1,Araguína,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Piraquê,rotação de cultura,nao possui degradacao,2,Araguína,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Piraquê,rotação de cultura,pouco degradado,2,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Pium,aceiros,degradacao media,3,Paraiso,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pium,aceiros,nao possui degradacao,11,Paraiso,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pium,aceiros,pouco degradado,11,Paraiso,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pium,adubação,degradacao media,3,Paraiso,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pium,adubação,nao possui degradacao,8,Paraiso,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pium,adubação,pouco degradado,10,Paraiso,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pium,calagem,degradacao media,1,Paraiso,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pium,calagem,nao possui degradacao,3,Paraiso,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pium,calagem,pouco degradado,4,Paraiso,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pium,consórcio,pouco degradado,1,Paraiso,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Pium,plantio direto,pouco degradado,1,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Pium,recuperação de pastagens,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Pium,recuperação de pastagens,pouco degradado,1,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Pium,rotação de cultura,degradacao media,1,Paraiso,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Pium,rotação de cultura,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Pium,rotação de cultura,pouco degradado,3,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Ponte Alta do Bom Jesus,aceiros,degradacao media,2,Taguatinga do Tocantins,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ponte Alta do Bom Jesus,aceiros,nao possui degradacao,2,Taguatinga do Tocantins,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ponte Alta do Bom Jesus,aceiros,pouco degradado,7,Taguatinga do Tocantins,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ponte Alta do Bom Jesus,calagem,degradacao media,1,Taguatinga do Tocantins,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ponte Alta do Bom Jesus,calagem,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ponte Alta do Bom Jesus,calagem,pouco degradado,2,Taguatinga do Tocantins,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Ponte Alta do Bom Jesus,descarte correto de embalagens,degradacao media,1,Taguatinga do Tocantins,2,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Ponte Alta do Bom Jesus,recuperação de pastagens,pouco degradado,2,Taguatinga do Tocantins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Ponte Alta do Bom Jesus,rotação de cultura,degradacao media,1,Taguatinga do Tocantins,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Porto Alegre do Tocantins,aceiros,degradacao media,4,Taguatinga do Tocantins,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Porto Alegre do Tocantins,calagem,degradacao media,3,Taguatinga do Tocantins,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Praia Norte,aceiros,degradacao media,1,Araguatins,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Praia Norte,consórcio,degradacao media,1,Araguatins,2,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Praia Norte,rotação de cultura,degradacao media,1,Araguatins,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Pugmil,aceiros,nao possui degradacao,1,Paraiso,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pugmil,aceiros,pouco degradado,2,Paraiso,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pugmil,adubação,nao possui degradacao,1,Paraiso,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pugmil,adubação,pouco degradado,2,Paraiso,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pugmil,adubação verde,nao possui degradacao,1,Paraiso,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pugmil,calagem,nao possui degradacao,1,Paraiso,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pugmil,calagem,pouco degradado,2,Paraiso,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Pugmil,consórcio,pouco degradado,2,Paraiso,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Pugmil,ilp - integração lavoura pecuária,pouco degradado,1,Paraiso,1,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,1
+Pugmil,plantio direto,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Pugmil,plantio direto,pouco degradado,1,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Pugmil,reaproveitamento de residuos,pouco degradado,1,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Pugmil,recuperação de pastagens,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Pugmil,recuperação de pastagens,pouco degradado,1,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Pugmil,rotação de cultura,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Pugmil,rotação de cultura,pouco degradado,2,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Riachinho,aceiros,nao possui degradacao,4,Araguatins,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Riachinho,aceiros,pouco degradado,2,Araguatins,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Riachinho,adubação,nao possui degradacao,4,Araguatins,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Riachinho,adubação,pouco degradado,1,Araguatins,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Riachinho,calagem,nao possui degradacao,1,Araguatins,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Riachinho,calagem,pouco degradado,1,Araguatins,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Riachinho,consórcio,pouco degradado,1,Araguatins,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Riachinho,curva de nível,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Riachinho,descarte correto de embalagens,nao possui degradacao,3,Araguatins,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Riachinho,plantio direto,nao possui degradacao,2,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Riachinho,plantio direto,pouco degradado,1,Araguatins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Riachinho,reaproveitamento de residuos,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Riachinho,recuperação de pastagens,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Riachinho,recuperação de pastagens,pouco degradado,1,Araguatins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Riachinho,rotação de cultura,nao possui degradacao,4,Araguatins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Riachinho,rotação de cultura,pouco degradado,1,Araguatins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Rio Sono,aceiros,nao possui degradacao,8,Miracema,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio Sono,aceiros,pouco degradado,4,Miracema,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio Sono,adubação,nao possui degradacao,3,Miracema,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio Sono,adubação,pouco degradado,2,Miracema,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio Sono,calagem,nao possui degradacao,4,Miracema,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio Sono,calagem,pouco degradado,1,Miracema,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio Sono,plantio direto,nao possui degradacao,4,Miracema,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Rio Sono,plantio direto,pouco degradado,1,Miracema,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Rio Sono,recuperação de pastagens,nao possui degradacao,2,Miracema,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Rio da Conceição,adubação,muito degradado,1,Taguatinga do Tocantins,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio da Conceição,adubação,nao possui degradacao,1,Taguatinga do Tocantins,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio da Conceição,adubação,pouco degradado,1,Taguatinga do Tocantins,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio da Conceição,adubação verde,muito degradado,1,Taguatinga do Tocantins,3,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio da Conceição,adubação verde,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio da Conceição,adubação verde,pouco degradado,1,Taguatinga do Tocantins,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio da Conceição,calagem,muito degradado,1,Taguatinga do Tocantins,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio da Conceição,calagem,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio da Conceição,calagem,pouco degradado,1,Taguatinga do Tocantins,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio da Conceição,plantio direto,pouco degradado,1,Taguatinga do Tocantins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Rio da Conceição,rotação de cultura,muito degradado,1,Taguatinga do Tocantins,3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Rio da Conceição,rotação de cultura,nao possui degradacao,1,Taguatinga do Tocantins,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Rio dos Bois,aceiros,nao possui degradacao,3,Miracema,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio dos Bois,aceiros,pouco degradado,6,Miracema,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio dos Bois,adubação,nao possui degradacao,2,Miracema,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio dos Bois,adubação,pouco degradado,6,Miracema,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio dos Bois,adubação verde,nao possui degradacao,1,Miracema,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio dos Bois,calagem,nao possui degradacao,2,Miracema,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio dos Bois,calagem,pouco degradado,6,Miracema,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Rio dos Bois,descarte correto de embalagens,pouco degradado,2,Miracema,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Rio dos Bois,reaproveitamento de residuos,pouco degradado,5,Miracema,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Rio dos Bois,recuperação de pastagens,pouco degradado,2,Miracema,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Santa Fé do Araguaia,aceiros,degradacao media,3,Araguína,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Fé do Araguaia,aceiros,muito degradado,1,Araguína,3,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Fé do Araguaia,aceiros,pouco degradado,7,Araguína,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Fé do Araguaia,adubação,degradacao media,1,Araguína,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Fé do Araguaia,adubação,pouco degradado,7,Araguína,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Fé do Araguaia,calagem,degradacao media,1,Araguína,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Fé do Araguaia,calagem,pouco degradado,6,Araguína,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Fé do Araguaia,reaproveitamento de residuos,muito degradado,1,Araguína,3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Santa Fé do Araguaia,rotação de cultura,muito degradado,1,Araguína,3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Santa Maria do Tocantins,aceiros,pouco degradado,2,Miracema,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Maria do Tocantins,adubação,pouco degradado,2,Miracema,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Maria do Tocantins,adubação verde,pouco degradado,1,Miracema,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Maria do Tocantins,plantio direto,pouco degradado,1,Miracema,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Santa Rita do Tocantins,aceiros,muito degradado,1,Gurupi,3,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Rita do Tocantins,aceiros,pouco degradado,2,Gurupi,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Rita do Tocantins,adubação,pouco degradado,1,Gurupi,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Rita do Tocantins,calagem,degradacao media,1,Gurupi,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Rita do Tocantins,calagem,muito degradado,1,Gurupi,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Rita do Tocantins,calagem,pouco degradado,2,Gurupi,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Terezinha do Tocantins,aceiros,degradacao media,1,Araguatins,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Terezinha do Tocantins,aceiros,nao possui degradacao,2,Araguatins,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Terezinha do Tocantins,aceiros,pouco degradado,1,Araguatins,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Terezinha do Tocantins,adubação,nao possui degradacao,2,Araguatins,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Terezinha do Tocantins,adubação,pouco degradado,1,Araguatins,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Terezinha do Tocantins,consórcio,nao possui degradacao,2,Araguatins,0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Santa Terezinha do Tocantins,descarte correto de embalagens,degradacao media,1,Araguatins,2,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Santa Terezinha do Tocantins,descarte correto de embalagens,nao possui degradacao,1,Araguatins,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Silvanópolis,aceiros,degradacao media,5,Porto Nacional,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Silvanópolis,aceiros,muito degradado,1,Porto Nacional,3,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Silvanópolis,aceiros,pouco degradado,5,Porto Nacional,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Silvanópolis,adubação,degradacao media,4,Porto Nacional,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Silvanópolis,adubação,muito degradado,1,Porto Nacional,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Silvanópolis,adubação,pouco degradado,2,Porto Nacional,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Silvanópolis,calagem,degradacao media,5,Porto Nacional,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Silvanópolis,calagem,muito degradado,1,Porto Nacional,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Silvanópolis,calagem,pouco degradado,5,Porto Nacional,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Silvanópolis,descarte correto de embalagens,pouco degradado,1,Porto Nacional,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Silvanópolis,plantio direto,pouco degradado,1,Porto Nacional,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Silvanópolis,recuperação de pastagens,degradacao media,3,Porto Nacional,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Silvanópolis,recuperação de pastagens,pouco degradado,4,Porto Nacional,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Silvanópolis,rotação de cultura,degradacao media,1,Porto Nacional,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Sucupira,aceiros,muito degradado,1,Gurupi,3,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Sucupira,aceiros,nao possui degradacao,2,Gurupi,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Sucupira,aceiros,pouco degradado,3,Gurupi,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Sucupira,adubação,nao possui degradacao,1,Gurupi,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Sucupira,adubação,pouco degradado,2,Gurupi,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Sucupira,calagem,nao possui degradacao,1,Gurupi,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+São Bento do Tocantins,adubação,pouco degradado,1,Araguatins,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+São Bento do Tocantins,adubação verde,pouco degradado,1,Araguatins,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+São Bento do Tocantins,calagem,pouco degradado,1,Araguatins,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+São Bento do Tocantins,descarte correto de embalagens,pouco degradado,1,Araguatins,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+São Bento do Tocantins,plantio direto,pouco degradado,1,Araguatins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+São Bento do Tocantins,reaproveitamento de residuos,pouco degradado,1,Araguatins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+São Bento do Tocantins,recuperação de pastagens,pouco degradado,1,Araguatins,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+São Miguel do Tocantins,aceiros,degradacao media,1,Araguatins,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+São Salvador do Tocantins,aceiros,degradacao media,2,Gurupi,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+São Salvador do Tocantins,aceiros,nao possui degradacao,2,Gurupi,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+São Salvador do Tocantins,adubação,degradacao media,1,Gurupi,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+São Salvador do Tocantins,adubação,nao possui degradacao,1,Gurupi,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+São Salvador do Tocantins,calagem,degradacao media,1,Gurupi,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+São Salvador do Tocantins,calagem,nao possui degradacao,1,Gurupi,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+São Salvador do Tocantins,curva de nível,degradacao media,2,Gurupi,2,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+São Salvador do Tocantins,curva de nível,nao possui degradacao,2,Gurupi,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,1
+Sítio Novo do Tocantins,aceiros,degradacao media,5,Araguatins,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Sítio Novo do Tocantins,descarte correto de embalagens,degradacao media,4,Araguatins,2,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Sítio Novo do Tocantins,recuperação de pastagens,degradacao media,1,Araguatins,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Talismã,aceiros,degradacao media,1,Gurupi,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Talismã,aceiros,nao possui degradacao,9,Gurupi,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Talismã,aceiros,pouco degradado,2,Gurupi,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Talismã,calagem,degradacao media,1,Gurupi,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Talismã,não usa,nao possui degradacao,5,Gurupi,0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1
+Talismã,rotação de cultura,degradacao media,1,Gurupi,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Tocantínia,aceiros,nao possui degradacao,1,Miracema,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Tocantínia,aceiros,pouco degradado,3,Miracema,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Tocantínia,adubação,degradacao media,1,Miracema,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Tocantínia,adubação,pouco degradado,2,Miracema,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Tocantínia,calagem,nao possui degradacao,1,Miracema,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Tocantínia,consórcio,degradacao media,1,Miracema,2,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Tocantínia,consórcio,pouco degradado,1,Miracema,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Tocantínia,descarte correto de embalagens,pouco degradado,1,Miracema,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Tocantínia,reaproveitamento de residuos,nao possui degradacao,1,Miracema,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+Tocantínia,recuperação de pastagens,pouco degradado,1,Miracema,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Tocantínia,rotação de cultura,degradacao media,1,Miracema,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Tocantínia,rotação de cultura,pouco degradado,1,Miracema,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Tupirama,aceiros,pouco degradado,1,Miracema,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Wanderlândia,aceiros,nao possui degradacao,1,Araguína,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Wanderlândia,aceiros,pouco degradado,2,Araguína,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Wanderlândia,adubação,pouco degradado,2,Araguína,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Wanderlândia,calagem,nao possui degradacao,1,Araguína,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Wanderlândia,calagem,pouco degradado,1,Araguína,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+Wanderlândia,descarte correto de embalagens,nao possui degradacao,1,Araguína,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Wanderlândia,recuperação de pastagens,nao possui degradacao,1,Araguína,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Wanderlândia,recuperação de pastagens,pouco degradado,1,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Wanderlândia,rotação de cultura,pouco degradado,1,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Xambioá,aceiros,degradacao media,4,Araguína,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Xambioá,aceiros,nao possui degradacao,1,Araguína,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Xambioá,aceiros,pouco degradado,8,Araguína,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Xambioá,adubação,degradacao media,9,Araguína,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Xambioá,adubação,pouco degradado,2,Araguína,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Xambioá,adubação verde,degradacao media,2,Araguína,2,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+Xambioá,consórcio,nao possui degradacao,1,Araguína,0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Xambioá,consórcio,pouco degradado,1,Araguína,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+Xambioá,descarte correto de embalagens,degradacao media,1,Araguína,2,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Xambioá,descarte correto de embalagens,nao possui degradacao,1,Araguína,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Xambioá,descarte correto de embalagens,pouco degradado,1,Araguína,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1
+Xambioá,ilp - integração lavoura pecuária,degradacao media,2,Araguína,2,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,1
+Xambioá,plantio direto,degradacao media,8,Araguína,2,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Xambioá,plantio direto,pouco degradado,1,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+Xambioá,recuperação de pastagens,degradacao media,3,Araguína,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Xambioá,recuperação de pastagens,nao possui degradacao,1,Araguína,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Xambioá,recuperação de pastagens,pouco degradado,3,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,1
+Xambioá,rotação de cultura,degradacao media,4,Araguína,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+Xambioá,rotação de cultura,pouco degradado,4,Araguína,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1
+darcinópolis,aceiros,degradacao media,1,Araguatins,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+darcinópolis,aceiros,pouco degradado,1,Araguatins,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+darcinópolis,adubação,degradacao media,1,Araguatins,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+darcinópolis,adubação,pouco degradado,1,Araguatins,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+darcinópolis,consórcio,pouco degradado,1,Araguatins,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,1
+darcinópolis,plantio direto,degradacao media,1,Araguatins,2,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1
+dois Irmãos do Tocantins,aceiros,degradacao media,2,Paraiso,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+dois Irmãos do Tocantins,aceiros,nao possui degradacao,2,Paraiso,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+dois Irmãos do Tocantins,aceiros,pouco degradado,14,Paraiso,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+dois Irmãos do Tocantins,adubação,degradacao media,2,Paraiso,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+dois Irmãos do Tocantins,adubação,nao possui degradacao,1,Paraiso,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+dois Irmãos do Tocantins,adubação,pouco degradado,13,Paraiso,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1
+dois Irmãos do Tocantins,calagem,degradacao media,1,Paraiso,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+dois Irmãos do Tocantins,calagem,nao possui degradacao,2,Paraiso,0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+dois Irmãos do Tocantins,calagem,pouco degradado,8,Paraiso,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,1
+dois Irmãos do Tocantins,reaproveitamento de residuos,nao possui degradacao,1,Paraiso,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
+dois Irmãos do Tocantins,reaproveitamento de residuos,pouco degradado,3,Paraiso,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1
