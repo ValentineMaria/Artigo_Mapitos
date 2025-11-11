@@ -1,0 +1,17 @@
+Variável,Coeficiente,Erro Padrão,Z,P>|z|,0.025,0.975
+pratica_aceiros,2.3096,0.796,2.900,0.004,0.749,3.870
+pratica_adubação,2.2082,0.799,2.762,0.006,0.641,3.775
+pratica_adubação verde,1.7680,0.825,2.144,0.032,0.151,3.384
+pratica_calagem,2.0822,0.803,2.595,0.009,0.509,3.655
+pratica_consórcio,2.1243,0.822,2.583,0.010,0.513,3.736
+pratica_curva de nível,1.4627,0.904,1.618,0.106,-0.309,3.234
+pratica_descarte correto de embalagens,1.8507,0.829,2.234,0.025,0.227,3.475
+pratica_ilp - integração lavoura pecuária,1.1940,0.974,1.226,0.220,-0.715,3.103
+pratica_não usa,2.4008,0.870,2.761,0.006,0.696,4.105
+pratica_plantio direto,1.9268,0.822,2.344,0.019,0.315,3.538
+pratica_reaproveitamento de residuos,1.7954,0.827,2.172,0.030,0.175,3.415
+pratica_recuperação de pastagens,2.0806,0.809,2.571,0.010,0.494,3.667
+pratica_rotação de cultura,2.0753,0.809,2.565,0.010,0.490,3.661
+0/1,1.4357,0.784,1.832,0.067,-0.101,2.972
+1/2,0.5712,0.045,12.801,0.000,0.484,0.659
+2/3,0.8978,0.078,11.528,0.000,0.745,1.050

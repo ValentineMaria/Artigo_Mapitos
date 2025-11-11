@@ -1,0 +1,20 @@
+Variável,Coeficiente,Erro Padrão,Z,P>|z|,0.025,0.975
+pratica_aceiros,-0.0918,0.399,-0.230,0.818,-0.873,0.690
+pratica_adubacao,-0.1932,0.405,-0.477,0.633,-0.987,0.601
+pratica_adubacao_verde,-0.6339,0.454,-1.396,0.163,-1.524,0.256
+pratica_apiario,-0.0787,1.600,-0.049,0.961,-3.214,3.057
+pratica_calagem,-0.3194,0.412,-0.776,0.438,-1.126,0.487
+pratica_consorcio,-0.2773,0.449,-0.618,0.537,-1.157,0.602
+pratica_curva_de_nivel,-0.9399,0.586,-1.604,0.109,-2.088,0.208
+pratica_descarte_correto_de_embalagens,-0.5515,0.461,-1.197,0.231,-1.454,0.351
+pratica_floresta,-12.8960,194.537,-0.066,0.947,-394.181,368.389
+pratica_ilp___integracao_lavoura_pecuaria,-1.2082,0.689,-1.753,0.080,-2.559,0.143
+pratica_ilpf___integracao_lavoura_pecuaria,-12.8960,194.537,-0.066,0.947,-394.181,368.389
+pratica_outros,-0.0787,1.600,-0.049,0.961,-3.215,3.058
+pratica_plantio_direto,-0.4750,0.449,-1.058,0.290,-1.355,0.405
+pratica_reaproveitamento_de_residuos,-0.6063,0.457,-1.326,0.185,-1.502,0.290
+pratica_recuperacao_de_pastagens,-0.3206,0.425,-0.755,0.450,-1.153,0.512
+pratica_rotacao_de_cultura,-0.3267,0.424,-0.770,0.441,-1.158,0.505
+0/1,-0.9672,0.377,-2.565,0.010,-1.706,-0.228
+1/2,0.5730,0.045,12.850,0.000,0.486,0.660
+2/3,0.8976,0.078,11.525,0.000,0.745,1.050
