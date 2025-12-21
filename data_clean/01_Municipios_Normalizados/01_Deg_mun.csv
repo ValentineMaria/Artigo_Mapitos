@@ -1,0 +1,1326 @@
+﻿Unnamed: 0,municipio_original,regional,qual_o_nivel_de_degradacao_que_predomina_nas_pastagens,municipio_norm,COD_UF,COD,NOME,nome_norm,nome_match,COD_fuzzy,COD_UF_fuzzy,NOME_fuzzy,nome_norm_fuzzy,codigo_final,uf_final,municipio_ibge
+0,Miracema do Tocantins,Miracema,Pouco degradado,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+1,Nova Rosalãndia,Paraiso,Degradação Média,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+2,DIANÓPOLIS,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+3,DIANÓPOLIS,Taguatinga,Pouco degradado,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+4,Nova Olinda,Araguaina,Não possui degradação,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+5,Dois Irmãos,Miracema,,dois irmaos,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+6,Miracema do Tocantins,Miracema,,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+7,Paraíso do Tocantins,Paraiso,,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+8,São Bento do Tocantins,Araguatins,,sao bento do tocantins,17.0,1720101.0,São Bento do Tocantins,sao bento do tocantins,,,,,,1720101.0,17.0,São Bento do Tocantins
+9,Araguaçu,Gurupi,,araguacu,17.0,1702000.0,Araguaçu,araguacu,,,,,,1702000.0,17.0,Araguaçu
+10,Darcinópolis,Araguatins,,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+11,Couto Magalhães,Colinas,,couto magalhaes,17.0,1706001.0,Couto Magalhães,couto magalhaes,,,,,,1706001.0,17.0,Couto Magalhães
+12,Palmas,Porto,,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+13,FILADÉLFIA,Araguaina,,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+14,Xambioá,Araguaina,,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+15,Chapada de Areia,Paraiso,,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+16,Dianópolis,Taguatinga,,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+17,DOIS IRMÃOS DO TOCANTINS,Paraiso,,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+18,TALISMÃ,Gurupi,,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+19,Marianopolis - TO,Paraiso,,marianopolis - to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+20,Tocantínia,Miracema,,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+21,Miracema do Tocantins,Miracema,Pouco degradado,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+22,Couto Magalhães,Colinas,,couto magalhaes,17.0,1706001.0,Couto Magalhães,couto magalhaes,,,,,,1706001.0,17.0,Couto Magalhães
+23,Carmolândia,Araguaina,,carmolandia,17.0,1703883.0,Carmolândia,carmolandia,,,,,,1703883.0,17.0,Carmolândia
+24,RIO SONO TOCANTINS,Miracema,,rio sono tocantins,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+25,Carmolândia,Araguaina,,carmolandia,17.0,1703883.0,Carmolândia,carmolandia,,,,,,1703883.0,17.0,Carmolândia
+26,CASEARA - TO,Paraiso,Não possui degradação,caseara - to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+27,Paraíso do Tocantins,Paraiso,,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+28,Dianópolis,Taguatinga,,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+29,Marianópolis - TO,Paraiso,,marianopolis - to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+30,Carmolândia,Araguaina,,carmolandia,17.0,1703883.0,Carmolândia,carmolandia,,,,,,1703883.0,17.0,Carmolândia
+31,Palmas,Porto,,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+32,Couto Magalhães,Colinas,,couto magalhaes,17.0,1706001.0,Couto Magalhães,couto magalhaes,,,,,,1706001.0,17.0,Couto Magalhães
+33,Carmolândia,Araguaina,,carmolandia,17.0,1703883.0,Carmolândia,carmolandia,,,,,,1703883.0,17.0,Carmolândia
+34,Carmolândia,Araguaina,,carmolandia,17.0,1703883.0,Carmolândia,carmolandia,,,,,,1703883.0,17.0,Carmolândia
+35,Porto Nacional,Porto,,porto nacional,17.0,1718204.0,Porto Nacional,porto nacional,,,,,,1718204.0,17.0,Porto Nacional
+36,BABAÇULANDIA,Araguaina,,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+37,Pugmil,Paraiso,,pugmil,17.0,1718451.0,Pugmil,pugmil,,,,,,1718451.0,17.0,Pugmil
+38,Caseara,Paraiso,,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+39,Caseara,Paraiso,,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+40,Aragominas,Araguaina,,aragominas,17.0,1701309.0,Aragominas,aragominas,,,,,,1701309.0,17.0,Aragominas
+41,MONTE DO CARMO-TO.,Porto,,monte do carmo-to.,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+42,Aurora do Tocantins,Taguatinga,Pouco degradado,aurora do tocantins,17.0,1702703.0,Aurora do Tocantins,aurora do tocantins,,,,,,1702703.0,17.0,Aurora do Tocantins
+43,Araguatins,Araguatins,,araguatins,17.0,1702208.0,Araguatins,araguatins,,,,,,1702208.0,17.0,Araguatins
+44,LUZINOPOLIS-TO,Araguatins,,luzinopolis-to,,,,,luzinopolis,1712454.0,17.0,Luzinópolis,luzinopolis,1712454.0,17.0,Luzinópolis
+45,ALMAS TO,Taguatinga,,almas to,,,,,almas,1700400.0,17.0,Almas,almas,1700400.0,17.0,Almas
+46,ALMAS TO,Taguatinga,,almas to,,,,,almas,1700400.0,17.0,Almas,almas,1700400.0,17.0,Almas
+47,Peixe,Gurupi,,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+48,Ananás,Araguatins,,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+49,Palmeirópolis,Gurupi,,palmeiropolis,17.0,1715754.0,Palmeirópolis,palmeiropolis,,,,,,1715754.0,17.0,Palmeirópolis
+50,Tocantínia,Miracema,,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+51,Palmas,Porto,,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+52,Ananás P.A Antonio Moreira,Araguatins,,ananas p.a antonio moreira,,,,,ananas,1701002.0,17.0,Ananás,ananas,1701002.0,17.0,Ananás
+53,Palmas,Porto,,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+54,SÍTIO NOVO DO TOCANTINS,Araguatins,,sitio novo do tocantins,17.0,1720804.0,Sítio Novo do Tocantins,sitio novo do tocantins,,,,,,1720804.0,17.0,Sítio Novo do Tocantins
+55,Angico,Araguatins,,angico,17.0,1701051.0,Angico,angico,,,,,,1701051.0,17.0,Angico
+56,Novo Acordo,Porto,,novo acordo,17.0,1715101.0,Novo Acordo,novo acordo,,,,,,1715101.0,17.0,Novo Acordo
+57,Wanderlândia,Araguaina,,wanderlandia,17.0,1722081.0,Wanderlândia,wanderlandia,,,,,,1722081.0,17.0,Wanderlândia
+58,Almas,Taguatinga,,almas,17.0,1700400.0,Almas,almas,,,,,,1700400.0,17.0,Almas
+59,FIGUEIRÓPOLIS - TO.,Gurupi,,figueiropolis - to.,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+60,BABAÇULANDIA,Araguaina,,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+61,MARIANÓPOLIS DO TOCANTINS,Paraiso,,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+62,SÍTIO NOVO DO TOCANTINS,Araguatins,,sitio novo do tocantins,17.0,1720804.0,Sítio Novo do Tocantins,sitio novo do tocantins,,,,,,1720804.0,17.0,Sítio Novo do Tocantins
+63,Babaçulândia,Araguaina,,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+64,Pium,Paraiso,,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+65,Chapada de Areia,Paraiso,,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+66,Chapada de Areia,Paraiso,,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+67,Angico,Araguatins,,angico,17.0,1701051.0,Angico,angico,,,,,,1701051.0,17.0,Angico
+68,Paraíso do Tocantins,Paraiso,,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+69,Carmolândia,Araguaina,,carmolandia,17.0,1703883.0,Carmolândia,carmolandia,,,,,,1703883.0,17.0,Carmolândia
+70,Almas,Taguatinga,,almas,17.0,1700400.0,Almas,almas,,,,,,1700400.0,17.0,Almas
+71,ESPERANTINA -TO,Araguatins,,esperantina -to,,,,,esperantina,1707405.0,17.0,Esperantina,esperantina,1707405.0,17.0,Esperantina
+72,Piraquê,Araguaina,Não possui degradação,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+73,Palmeiras do Tocantins,Araguatins,,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+74,Wanderlândia,Araguaina,,wanderlandia,17.0,1722081.0,Wanderlândia,wanderlandia,,,,,,1722081.0,17.0,Wanderlândia
+75,Palmas,Porto,,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+76,Miracema do Tocantins,Miracema,,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+77,Palmeiras do Tocantins,Araguatins,,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+78,Xambioá,Araguaina,,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+79,Peixe,Gurupi,,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+80,RIO DA CONCEOÇÃO,Taguatinga,,rio da conceocao,,,,,rio da conceicao,1718659.0,17.0,Rio da Conceição,rio da conceicao,1718659.0,17.0,Rio da Conceição
+81,Araguaína,Araguaina,,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+82,FILADÉLFIA,Araguaina,,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+83,Filadélfia,Araguaina,,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+84,Chapada de Areia,Paraiso,,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+85,RIO DA CONCEIÇÃO,Taguatinga,Pouco degradado,rio da conceicao,17.0,1718659.0,Rio da Conceição,rio da conceicao,,,,,,1718659.0,17.0,Rio da Conceição
+86,SÃO MIGUEL DO TOCANTINS,Araguatins,,sao miguel do tocantins,17.0,1720200.0,São Miguel do Tocantins,sao miguel do tocantins,,,,,,1720200.0,17.0,São Miguel do Tocantins
+87,PALMEIRAS,Araguatins,,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+88,Xambioá,Araguaina,,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+89,Filadélfia,Araguaina,,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+90,Dianópolis,Taguatinga,,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+91,Aguiarnópolis,Araguatins,,aguiarnopolis,17.0,1700301.0,Aguiarnópolis,aguiarnopolis,,,,,,1700301.0,17.0,Aguiarnópolis
+92,Tocantínia,Miracema,,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+93,Chapada de Areia,Paraiso,,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+94,Rio dos Bois,Miracema,,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+95,Araguaína,Araguaina,,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+96,Palmeiras do Tocantins,Araguatins,,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+97,PALMEIRAS,Araguatins,,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+98,TABOCÃO,Miracema,,tabocao,,,,,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão
+99,Palmeiras do Tocantins,Araguatins,,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+100,Araguaína,Araguaina,,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+101,Gurupi-TO,Gurupi,,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+102,GUARAÍ,Colinas,,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+103,Guaraí,Colinas,,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+104,DIANÓPOLIS,Taguatinga,,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+105,Pium,Paraiso,,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+106,DOIS IRMAOS,Paraiso,,dois irmaos,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+107,ARAGOMINAS -TO,Araguaina,,aragominas -to,,,,,aragominas,1701309.0,17.0,Aragominas,aragominas,1701309.0,17.0,Aragominas
+108,FILADÉLFIA,Araguaina,,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+109,Pedro Afonso,Miracema,,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+110,Wandrlãndia,Araguaina,,wandrlandia,,,,,wanderlandia,1722081.0,17.0,Wanderlândia,wanderlandia,1722081.0,17.0,Wanderlândia
+111,Xambioá,Araguaina,,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+112,FILADÉLFIA,Araguaina,,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+113,Ananás,Araguatins,,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+114,LUZINOPOLIS-TO,Araguatins,,luzinopolis-to,,,,,luzinopolis,1712454.0,17.0,Luzinópolis,luzinopolis,1712454.0,17.0,Luzinópolis
+115,Almas,Taguatinga,,almas,17.0,1700400.0,Almas,almas,,,,,,1700400.0,17.0,Almas
+116,LUZINÓPOLIS,Araguatins,,luzinopolis,17.0,1712454.0,Luzinópolis,luzinopolis,,,,,,1712454.0,17.0,Luzinópolis
+117,PARANÃ-TO,Taguatinga,,parana-to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+118,FILADÉLFIA,Araguaina,,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+119,Cristalândia,Paraiso,,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+120,Pium,Paraiso,,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+121,Palmas,Porto,,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+122,Esperantina,Araguatins,,esperantina,17.0,1707405.0,Esperantina,esperantina,,,,,,1707405.0,17.0,Esperantina
+123,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+124,Gurupi-TO,Gurupi,,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+125,Ananás,Araguatins,,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+126,Miranorte,Miracema,,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+127,MONTE DO CARMO -TO.,Porto,,monte do carmo -to.,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+128,Almas,Taguatinga,,almas,17.0,1700400.0,Almas,almas,,,,,,1700400.0,17.0,Almas
+129,Gurupi,Gurupi,,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+130,MONTE DO CARMO-TO,Porto,,monte do carmo-to,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+131,Araguaína,Araguaina,,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+132,"P.A Tamboril, Angico - TO",Araguatins,,"p.a tamboril, angico - to",,,,,angico,1701051.0,17.0,Angico,angico,1701051.0,17.0,Angico
+133,Pium,Paraiso,,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+134,Nova Olinda,Araguaina,,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+135,BABAÇULÂNDIA,Araguaina,,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+136,CARMOLÂNDIA,Araguaina,Não possui degradação,carmolandia,17.0,1703883.0,Carmolândia,carmolandia,,,,,,1703883.0,17.0,Carmolândia
+137,DIANÓPOLIS,Taguatinga,,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+138,Santa Maria do Tocantins,Miracema,,santa maria do tocantins,17.0,1718881.0,Santa Maria do Tocantins,santa maria do tocantins,,,,,,1718881.0,17.0,Santa Maria do Tocantins
+139,Paraíso do Tocantins,Paraiso,,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+140,PARANÃ TO,Taguatinga,,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+141,Paraíso do Tocantins,Paraiso,,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+142,Piraquê,Araguaina,Não possui degradação,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+143,NOVA OLINDA - TO,Araguaina,,nova olinda - to,,,,,nova olinda,1714880.0,17.0,Nova Olinda,nova olinda,1714880.0,17.0,Nova Olinda
+144,NOVA OLINDA - TO,Araguaina,,nova olinda - to,,,,,nova olinda,1714880.0,17.0,Nova Olinda,nova olinda,1714880.0,17.0,Nova Olinda
+145,PORTO NACIONAL - TO,Porto,,porto nacional - to,,,,,porto nacional,1718204.0,17.0,Porto Nacional,porto nacional,1718204.0,17.0,Porto Nacional
+146,Araguatins,Araguatins,,araguatins,17.0,1702208.0,Araguatins,araguatins,,,,,,1702208.0,17.0,Araguatins
+147,Filadelfia -TO,Araguaina,,filadelfia -to,,,,,filadelfia,1707702.0,17.0,Filadélfia,filadelfia,1707702.0,17.0,Filadélfia
+148,Araguaçu,Gurupi,,araguacu,17.0,1702000.0,Araguaçu,araguacu,,,,,,1702000.0,17.0,Araguaçu
+149,Marianópolis do Tocantins,Paraiso,,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+150,Xambioá,Araguaina,,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+151,PALMEIRAS,Araguatins,,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+152,Itaguatins,Araguatins,,itaguatins,17.0,1710706.0,Itaguatins,itaguatins,,,,,,1710706.0,17.0,Itaguatins
+153,Miracema do Tocantins,Miracema,Pouco degradado,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+154,Tocantínia,Miracema,Pouco degradado,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+155,Aliança,Gurupi,Pouco degradado,alianca,,,,,alianca do tocantins,1700350.0,17.0,Aliança do Tocantins,alianca do tocantins,1700350.0,17.0,Aliança do Tocantins
+156,Palmas,Porto,Pouco degradado,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+157,Axixá do Tocantins,Araguatins,Degradação Média,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+158,Axixá do Tocantins,Araguatins,Pouco degradado,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+159,Aragominas,Araguaina,Não possui degradação,aragominas,17.0,1701309.0,Aragominas,aragominas,,,,,,1701309.0,17.0,Aragominas
+160,Araguanã,Araguaina,Degradação Média,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+161,Paraíso do Tocantins,Paraiso,Pouco degradado,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+162,Marianópolis do Tocantins,Paraiso,,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+163,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+164,JAU DO TO,Gurupi,Pouco degradado,jau do to,,,,,jau do tocantins,1711506.0,17.0,Jaú do Tocantins,jau do tocantins,1711506.0,17.0,Jaú do Tocantins
+165,AXIXÁ DO TO,Araguatins,Pouco degradado,axixa do to,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+166,Araguanã,Araguaina,Pouco degradado,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+167,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+168,Axixá do Tocantins,Araguatins,Não possui degradação,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+169,SÍTIO NOVO DO TOCANTINS,Araguatins,Degradação Média,sitio novo do tocantins,17.0,1720804.0,Sítio Novo do Tocantins,sitio novo do tocantins,,,,,,1720804.0,17.0,Sítio Novo do Tocantins
+170,Caseara,Paraiso,Não possui degradação,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+171,Axixá do Tocantins,Araguatins,Não possui degradação,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+172,JAU DO TO,Gurupi,Pouco degradado,jau do to,,,,,jau do tocantins,1711506.0,17.0,Jaú do Tocantins,jau do tocantins,1711506.0,17.0,Jaú do Tocantins
+173,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+174,Araguanã,Araguaina,Pouco degradado,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+175,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+176,AXIXA DO TOCANTIS,Araguatins,Pouco degradado,axixa do tocantis,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+177,Guaraí,Colinas,Pouco degradado,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+178,FILADÉLFIA,Araguaina,Degradação Média,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+179,Guaraí,Colinas,Não possui degradação,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+180,Xambioá,Araguaina,Pouco degradado,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+181,Palmeiras do Tocantins,Araguatins,Não possui degradação,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+182,Xambioá,Araguaina,Degradação Média,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+183,Aliança do Tocantins,Gurupi,Degradação Média,alianca do tocantins,17.0,1700350.0,Aliança do Tocantins,alianca do tocantins,,,,,,1700350.0,17.0,Aliança do Tocantins
+184,Xambioá,Araguaina,Degradação Média,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+185,Xambioá,Araguaina,Pouco degradado,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+186,Xambioá,Araguaina,Degradação Média,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+187,Itaguatins,Araguatins,Pouco degradado,itaguatins,17.0,1710706.0,Itaguatins,itaguatins,,,,,,1710706.0,17.0,Itaguatins
+188,AXIXÁ DO TOCANTINS,Araguatins,Pouco degradado,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+189,JAU DO TO,Gurupi,Degradação Média,jau do to,,,,,jau do tocantins,1711506.0,17.0,Jaú do Tocantins,jau do tocantins,1711506.0,17.0,Jaú do Tocantins
+190,Guaraí,Colinas,Não possui degradação,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+191,Palmeirópolis,Gurupi,Pouco degradado,palmeiropolis,17.0,1715754.0,Palmeirópolis,palmeiropolis,,,,,,1715754.0,17.0,Palmeirópolis
+192,Aragominas,Araguaina,Degradação Média,aragominas,17.0,1701309.0,Aragominas,aragominas,,,,,,1701309.0,17.0,Aragominas
+193,Lajeado,Porto,Não possui degradação,lajeado,17.0,1712009.0,Lajeado,lajeado,,,,,,1712009.0,17.0,Lajeado
+194,Axixá do Tocantins,Araguatins,Pouco degradado,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+195,JAU DO TO,Gurupi,Degradação Média,jau do to,,,,,jau do tocantins,1711506.0,17.0,Jaú do Tocantins,jau do tocantins,1711506.0,17.0,Jaú do Tocantins
+196,Tocantínia,Miracema,Pouco degradado,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+197,Wanderlândia,Araguaina,Pouco degradado,wanderlandia,17.0,1722081.0,Wanderlândia,wanderlandia,,,,,,1722081.0,17.0,Wanderlândia
+198,Filadélfia,Araguaina,Pouco degradado,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+199,Sucupira-TO,Gurupi,Pouco degradado,sucupira-to,,,,,sucupira,1720853.0,17.0,Sucupira,sucupira,1720853.0,17.0,Sucupira
+200,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+201,Piraquê,Araguaina,Pouco degradado,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+202,Araguaína,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+203,Piraquê,Araguaina,Pouco degradado,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+204,DIVINOPOLIS,Paraiso,Degradação Média,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+205,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+206,Tocantínia,Miracema,Pouco degradado,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+207,Araguanã,Araguaina,Não possui degradação,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+208,Miracema do Tocantins,Miracema,Pouco degradado,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+209,Gurupi-TO,Gurupi,Pouco degradado,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+210,Pium,Paraiso,Pouco degradado,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+211,Gurupi,Gurupi,Pouco degradado,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+212,FILADÉLFIA,Araguaina,Não possui degradação,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+213,Araguaína,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+214,FILADÉLFIA,Araguaina,Pouco degradado,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+215,Aragominas,Araguaina,,aragominas,17.0,1701309.0,Aragominas,aragominas,,,,,,1701309.0,17.0,Aragominas
+216,Ananás,Araguatins,Não possui degradação,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+217,Palmeirópolis,Gurupi,Pouco degradado,palmeiropolis,17.0,1715754.0,Palmeirópolis,palmeiropolis,,,,,,1715754.0,17.0,Palmeirópolis
+218,XAMBIOÁ TO,Araguaina,Degradação Média,xambioa to,,,,,xambioa,1722107.0,17.0,Xambioá,xambioa,1722107.0,17.0,Xambioá
+219,Almas,Taguatinga,Não possui degradação,almas,17.0,1700400.0,Almas,almas,,,,,,1700400.0,17.0,Almas
+220,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+221,Carmolândia,Araguaina,Não possui degradação,carmolandia,17.0,1703883.0,Carmolândia,carmolandia,,,,,,1703883.0,17.0,Carmolândia
+222,DIANÓPOLIS-TO,Taguatinga,Degradação Média,dianopolis-to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+223,Dueré,Gurupi,Degradação Média,duere,17.0,1707306.0,Dueré,duere,,,,,,1707306.0,17.0,Dueré
+224,Paraíso do Tocantins,Paraiso,Pouco degradado,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+225,Alvorada TO,Gurupi,Pouco degradado,alvorada to,,,,,alvorada,1700707.0,17.0,Alvorada,alvorada,1700707.0,17.0,Alvorada
+226,Almas,Taguatinga,Não possui degradação,almas,17.0,1700400.0,Almas,almas,,,,,,1700400.0,17.0,Almas
+227,AXIXÁ DO TO,Araguatins,Pouco degradado,axixa do to,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+228,Axixá To,Araguatins,Pouco degradado,axixa to,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+229,Axixá do Tocantins,Araguatins,Pouco degradado,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+230,PARAÍSO -TO,Paraiso,,paraiso -to,,,,,paraiso do tocantins,1716109.0,17.0,Paraíso do Tocantins,paraiso do tocantins,1716109.0,17.0,Paraíso do Tocantins
+231,Pium,Paraiso,Não possui degradação,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+232,Sucupira-TO,Gurupi,Não possui degradação,sucupira-to,,,,,sucupira,1720853.0,17.0,Sucupira,sucupira,1720853.0,17.0,Sucupira
+233,FILADÉLFIA,Araguaina,Degradação Média,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+234,Gurupi-TO,Gurupi,Não possui degradação,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+235,SANTA FÉ DO ARAGUAIA,Araguaina,Degradação Média,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+236,RIACHINHO - TO,Araguatins,Não possui degradação,riachinho - to,,,,,riachinho,1718550.0,17.0,Riachinho,riachinho,1718550.0,17.0,Riachinho
+237,Miracema do Tocantins,Porto,Degradação Média,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+238,LUZINOPOLIS -TO,Araguatins,Degradação Média,luzinopolis -to,,,,,luzinopolis,1712454.0,17.0,Luzinópolis,luzinopolis,1712454.0,17.0,Luzinópolis
+239,AXIXÁ DO TOCANTINS,Araguatins,Não possui degradação,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+240,MIRACEMA,Miracema,Pouco degradado,miracema,,,,,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins
+241,TABOCÃO,Miracema,Pouco degradado,tabocao,,,,,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão
+242,Miranorte,Miracema,Pouco degradado,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+243,SÍTIO NOVO DO TOCANTINS,Araguatins,Degradação Média,sitio novo do tocantins,17.0,1720804.0,Sítio Novo do Tocantins,sitio novo do tocantins,,,,,,1720804.0,17.0,Sítio Novo do Tocantins
+244,Carmolândia,Araguaina,Pouco degradado,carmolandia,17.0,1703883.0,Carmolândia,carmolandia,,,,,,1703883.0,17.0,Carmolândia
+245,ARAGOMIAS,Araguaina,Pouco degradado,aragomias,,,,,aragominas,1701309.0,17.0,Aragominas,aragominas,1701309.0,17.0,Aragominas
+246,Araguanã,Araguaina,Pouco degradado,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+247,Aurora do Tocantins,Taguatinga,Pouco degradado,aurora do tocantins,17.0,1702703.0,Aurora do Tocantins,aurora do tocantins,,,,,,1702703.0,17.0,Aurora do Tocantins
+248,Paraíso do Tocantins,Paraiso,Pouco degradado,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+249,MARIANÓPOLIS,Paraiso,Não possui degradação,marianopolis,,,,,marianopolis do tocantins,1712504.0,17.0,Marianópolis do Tocantins,marianopolis do tocantins,1712504.0,17.0,Marianópolis do Tocantins
+250,LUZINOPOLIS-TO,Araguatins,Degradação Média,luzinopolis-to,,,,,luzinopolis,1712454.0,17.0,Luzinópolis,luzinopolis,1712454.0,17.0,Luzinópolis
+251,Axixá do Tocantins,Araguatins,Pouco degradado,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+252,AXIXÁ DO TOCANTINS TO,Araguatins,Pouco degradado,axixa do tocantins to,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+253,Itaporã do Tocantins,Colinas,Não possui degradação,itapora do tocantins,17.0,1711100.0,Itaporã do Tocantins,itapora do tocantins,,,,,,1711100.0,17.0,Itaporã do Tocantins
+254,Chapada de Areia,Paraiso,Não possui degradação,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+255,DIVINÓPOLIS - TO,Paraiso,Não possui degradação,divinopolis - to,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+256,Araguanã,Araguaina,Pouco degradado,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+257,AXIXÁ DO TOCANTINS,Araguatins,Não possui degradação,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+258,DIVINÓPOLIS,Paraiso,,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+259,Xambioá,Araguaina,Pouco degradado,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+260,Xambioá,Araguaina,Pouco degradado,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+261,Axixá do Tocantins,Araguatins,Não possui degradação,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+262,Xambioá,Araguaina,Degradação Média,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+263,Xambioá,Araguaina,Degradação Média,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+264,DOIS IRMAÕS DO TOCANTINS,Paraiso,Pouco degradado,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+265,Chapada de Areia,Paraiso,Pouco degradado,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+266,Goiatins,Araguaina,Pouco degradado,goiatins,17.0,1709005.0,Goiatins,goiatins,,,,,,1709005.0,17.0,Goiatins
+267,Xambioá,Araguaina,Degradação Média,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+268,Araguanã,Araguaina,Pouco degradado,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+269,Araguanã,Araguaina,Pouco degradado,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+270,CHAPADA DA NATIVIDADE-TO,Porto,Pouco degradado,chapada da natividade-to,,,,,chapada da natividade,1705102.0,17.0,Chapada da Natividade,chapada da natividade,1705102.0,17.0,Chapada da Natividade
+271,Divinópolis do Tocantins,Paraiso,Não possui degradação,divinopolis do tocantins,17.0,1707108.0,Divinópolis do Tocantins,divinopolis do tocantins,,,,,,1707108.0,17.0,Divinópolis do Tocantins
+272,Chapada da Natividade,Porto,Pouco degradado,chapada da natividade,17.0,1705102.0,Chapada da Natividade,chapada da natividade,,,,,,1705102.0,17.0,Chapada da Natividade
+273,Araguaína,Araguaina,Não possui degradação,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+274,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+275,Talismã,Gurupi,Não possui degradação,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+276,Chapada de Areia,Paraiso,Degradação Média,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+277,Chapada da Natividade,Porto,Degradação Média,chapada da natividade,17.0,1705102.0,Chapada da Natividade,chapada da natividade,,,,,,1705102.0,17.0,Chapada da Natividade
+278,LAGOA DA CONFUSÃO,Paraiso,Não possui degradação,lagoa da confusao,17.0,1711902.0,Lagoa da Confusão,lagoa da confusao,,,,,,1711902.0,17.0,Lagoa da Confusão
+279,Rio Sono,Miracema,Não possui degradação,rio sono,17.0,1718758.0,Rio Sono,rio sono,,,,,,1718758.0,17.0,Rio Sono
+280,Dianópolis,Taguatinga,Pouco degradado,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+281,DIVINÓPOLIS,Paraiso,Pouco degradado,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+282,Palmeiras do Tocantins,Araguatins,Pouco degradado,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+283,DIVINÓPOLIS,Paraiso,Pouco degradado,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+284,Ponte Alta do Bom Jesus,Taguatinga,Degradação Média,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+285,PARANÃ-TO,Taguatinga,Não possui degradação,parana-to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+286,CHAPADA DA NATIVIDADE-TO,Porto,Pouco degradado,chapada da natividade-to,,,,,chapada da natividade,1705102.0,17.0,Chapada da Natividade,chapada da natividade,1705102.0,17.0,Chapada da Natividade
+287,CHAPADA DA NATIVIDADE-TO,Porto,Pouco degradado,chapada da natividade-to,,,,,chapada da natividade,1705102.0,17.0,Chapada da Natividade,chapada da natividade,1705102.0,17.0,Chapada da Natividade
+288,DIVINÓPOLIS - TO,Paraiso,Pouco degradado,divinopolis - to,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+289,ABREULANDIA,Paraiso,Não possui degradação,abreulandia,17.0,1700251.0,Abreulândia,abreulandia,,,,,,1700251.0,17.0,Abreulândia
+290,PARANÃ TO,Taguatinga,Não possui degradação,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+291,Ponte Alta do Bom Jesus,Taguatinga,Não possui degradação,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+292,Pedro Afonso,Miracema,Não possui degradação,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+293,Alvorada,Gurupi,Não possui degradação,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+294,ALMAS TO,Taguatinga,Pouco degradado,almas to,,,,,almas,1700400.0,17.0,Almas,almas,1700400.0,17.0,Almas
+295,DIVINOPOLIS,Paraiso,Não possui degradação,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+296,SÃO BENTO DO TOCANTINS,Araguatins,,sao bento do tocantins,17.0,1720101.0,São Bento do Tocantins,sao bento do tocantins,,,,,,1720101.0,17.0,São Bento do Tocantins
+297,Divinopolis,Paraiso,Não possui degradação,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+298,Bom Jesus do Tocantins,Miracema,Pouco degradado,bom jesus do tocantins,17.0,1703305.0,Bom Jesus do Tocantins,bom jesus do tocantins,,,,,,1703305.0,17.0,Bom Jesus do Tocantins
+299,CHAPADA DA NATIVIDADE-TO,Porto,Pouco degradado,chapada da natividade-to,,,,,chapada da natividade,1705102.0,17.0,Chapada da Natividade,chapada da natividade,1705102.0,17.0,Chapada da Natividade
+300,Novo Jardim,Taguatinga,Pouco degradado,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+301,PARANÃ-TO,Taguatinga,Não possui degradação,parana-to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+302,Miranorte-To,Miracema,Não possui degradação,miranorte-to,,,,,miranorte,1713304.0,17.0,Miranorte,miranorte,1713304.0,17.0,Miranorte
+303,PARANÃ TO,Taguatinga,Degradação Média,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+304,Ponte Alta do Bom Jesus,Taguatinga,Pouco degradado,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+305,Goiatins,Araguaina,Pouco degradado,goiatins,17.0,1709005.0,Goiatins,goiatins,,,,,,1709005.0,17.0,Goiatins
+306,Pedro Afonso,Miracema,Não possui degradação,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+307,SÍTIO NVOVO DO TO,Araguatins,Degradação Média,sitio nvovo do to,,,,,santa terezinha do tocantins,1720002.0,17.0,Santa Terezinha do Tocantins,santa terezinha do tocantins,1720002.0,17.0,Santa Terezinha do Tocantins
+308,Alvorada,Gurupi,Não possui degradação,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+309,GUARAÍ,Colinas,Não possui degradação,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+310,Peixe,Gurupi,Pouco degradado,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+311,SÍTIO NOVO DO TO,Araguatins,Pouco degradado,sitio novo do to,,,,,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins
+312,BARROLÂNDIA,Paraiso,Pouco degradado,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+313,PARANÃ-TO,Taguatinga,Não possui degradação,parana-to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+314,Alvorada,Gurupi,Não possui degradação,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+315,Santa Rita do Tocantins,Gurupi,Pouco degradado,santa rita do tocantins,17.0,1718899.0,Santa Rita do Tocantins,santa rita do tocantins,,,,,,1718899.0,17.0,Santa Rita do Tocantins
+316,Ponte Alta do Bom Jesus,Taguatinga,Pouco degradado,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+317,Guaraí,Colinas,Não possui degradação,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+318,PALMEIRAS,Araguatins,Não possui degradação,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+319,GUARAÍ,Colinas,Não possui degradação,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+320,Palmeiras do Tocantins,Araguatins,Não possui degradação,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+321,Paraíso do Tocantins,Paraiso,Pouco degradado,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+322,Novo Jardim,Taguatinga,Não possui degradação,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+323,PARANÃ-TO,Taguatinga,Não possui degradação,parana-to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+324,RIO SONO TO,Miracema,Não possui degradação,rio sono to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+325,Ponte Alta do Bom Jesus,Taguatinga,Pouco degradado,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+326,CARIRI DO TOCANTINS -TO,Gurupi,Pouco degradado,cariri do tocantins -to,,,,,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins
+327,RIO SO TO,Miracema,Não possui degradação,rio so to,,,,,aparecida do rio negro,1701101.0,17.0,Aparecida do Rio Negro,aparecida do rio negro,1701101.0,17.0,Aparecida do Rio Negro
+328,ALIANÇA,Gurupi,Pouco degradado,alianca,,,,,alianca do tocantins,1700350.0,17.0,Aliança do Tocantins,alianca do tocantins,1700350.0,17.0,Aliança do Tocantins
+329,Ponte Alta do Bom Jesus,Taguatinga,Pouco degradado,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+330,Guaraí,Colinas,Não possui degradação,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+331,Dois Irmãos,Paraiso,Pouco degradado,dois irmaos,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+332,Pedro Afonso,Miracema,Não possui degradação,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+333,Guaraí,Colinas,Não possui degradação,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+334,Barrolândia,Paraiso,Pouco degradado,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+335,Tocantínia,Miracema,Pouco degradado,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+336,Pedro Afonso,Miracema,Pouco degradado,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+337,MIRACEMA,Miracema,Pouco degradado,miracema,,,,,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins
+338,Novo Jardim,Taguatinga,Não possui degradação,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+339,Goiatins,Araguaina,Pouco degradado,goiatins,17.0,1709005.0,Goiatins,goiatins,,,,,,1709005.0,17.0,Goiatins
+340,Alvorada,Gurupi,Não possui degradação,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+341,COLMÉIA,Colinas,Pouco degradado,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+342,Talismã,Gurupi,,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+343,Filadélfia,Araguaina,Pouco degradado,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+344,CHAPADA DA NATIVIDADE-TO,Porto,Pouco degradado,chapada da natividade-to,,,,,chapada da natividade,1705102.0,17.0,Chapada da Natividade,chapada da natividade,1705102.0,17.0,Chapada da Natividade
+345,Chapada da Natividade,Porto,Degradação Média,chapada da natividade,17.0,1705102.0,Chapada da Natividade,chapada da natividade,,,,,,1705102.0,17.0,Chapada da Natividade
+346,Araguanã,Araguaina,Não possui degradação,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+347,Talismã-TO,Gurupi,Não possui degradação,talisma-to,,,,,talisma,1720978.0,17.0,Talismã,talisma,1720978.0,17.0,Talismã
+348,Pium,Paraiso,Não possui degradação,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+349,Silvanópolis,Porto,Pouco degradado,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+350,Divinópolis do Tocantins,Paraiso,Pouco degradado,divinopolis do tocantins,17.0,1707108.0,Divinópolis do Tocantins,divinopolis do tocantins,,,,,,1707108.0,17.0,Divinópolis do Tocantins
+351,Chapada da Natividade,Porto,Degradação Média,chapada da natividade,17.0,1705102.0,Chapada da Natividade,chapada da natividade,,,,,,1705102.0,17.0,Chapada da Natividade
+352,DIVINÓPOLIS,Paraiso,Pouco degradado,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+353,Pium,Paraiso,Não possui degradação,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+354,Dianópolis,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+355,Axixá do Tocantins,Araguatins,Pouco degradado,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+356,Talismã,Gurupi,Não possui degradação,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+357,MONTE SANTO DO TOCANTINS - TO,Paraiso,Pouco degradado,monte santo do tocantins - to,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+358,Guaraí,Colinas,Não possui degradação,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+359,Sucupira,Gurupi,Não possui degradação,sucupira,17.0,1720853.0,Sucupira,sucupira,,,,,,1720853.0,17.0,Sucupira
+360,Porto Alegre do Tocantins,Taguatinga,Degradação Média,porto alegre do tocantins,17.0,1718006.0,Porto Alegre do Tocantins,porto alegre do tocantins,,,,,,1718006.0,17.0,Porto Alegre do Tocantins
+361,Ponte Alta do Bom Jesus,Taguatinga,Pouco degradado,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+362,Divinópolis do Tocantins,Paraiso,Não possui degradação,divinopolis do tocantins,17.0,1707108.0,Divinópolis do Tocantins,divinopolis do tocantins,,,,,,1707108.0,17.0,Divinópolis do Tocantins
+363,Guaraí,Colinas,Não possui degradação,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+364,Chapada de Areia,Paraiso,Degradação Média,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+365,PARANÃ,Taguatinga,Não possui degradação,parana,17.0,1716208.0,Paranã,parana,,,,,,1716208.0,17.0,Paranã
+366,Dianópolis,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+367,RIO SONO TO,Miracema,Não possui degradação,rio sono to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+368,Talismã-TO,Gurupi,Não possui degradação,talisma-to,,,,,talisma,1720978.0,17.0,Talismã,talisma,1720978.0,17.0,Talismã
+369,Peixe,Gurupi,Degradação Média,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+370,Divinópolis do Tocantins,Paraiso,,divinopolis do tocantins,17.0,1707108.0,Divinópolis do Tocantins,divinopolis do tocantins,,,,,,1707108.0,17.0,Divinópolis do Tocantins
+371,Paraíso do Tocantins,Paraiso,Degradação Média,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+372,PARANÃ TO,Taguatinga,Pouco degradado,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+373,CHAPADA DA NATIVIDADE-TO,Porto,Pouco degradado,chapada da natividade-to,,,,,chapada da natividade,1705102.0,17.0,Chapada da Natividade,chapada da natividade,1705102.0,17.0,Chapada da Natividade
+374,PARANÃ-TO,Taguatinga,Não possui degradação,parana-to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+375,Cristalândia,Paraiso,Não possui degradação,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+376,PARANÃ TO,Taguatinga,Pouco degradado,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+377,Talismã-TO,Gurupi,Não possui degradação,talisma-to,,,,,talisma,1720978.0,17.0,Talismã,talisma,1720978.0,17.0,Talismã
+378,Guaraí,Colinas,Não possui degradação,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+379,SANTA FÉ DO ARAGUAIA,Araguaina,Degradação Média,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+380,PALMEIRAS,Araguatins,Não possui degradação,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+381,Ponte Alta do Bom Jesus,Taguatinga,Pouco degradado,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+382,Ponte Alta do Bom Jesus,Taguatinga,Pouco degradado,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+383,DIVINÓPOLIS,Paraiso,Não possui degradação,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+384,Goiatins,Araguaina,Pouco degradado,goiatins,17.0,1709005.0,Goiatins,goiatins,,,,,,1709005.0,17.0,Goiatins
+385,COUTO DE MAGALHAES,Colinas,Não possui degradação,couto de magalhaes,,,,,couto magalhaes,1706001.0,17.0,Couto Magalhães,couto magalhaes,1706001.0,17.0,Couto Magalhães
+386,Nova Rosalândia,Paraiso,Degradação Média,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+387,Miranorte-To,Miracema,Não possui degradação,miranorte-to,,,,,miranorte,1713304.0,17.0,Miranorte,miranorte,1713304.0,17.0,Miranorte
+388,Palmeiras do Tocantins,Araguatins,Pouco degradado,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+389,Barrolândia-To,Paraiso,Pouco degradado,barrolandia-to,,,,,barrolandia,1703107.0,17.0,Barrolândia,barrolandia,1703107.0,17.0,Barrolândia
+390,Guaraí,Colinas,Não possui degradação,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+391,Miracema do Tocantins,Paraiso,Não possui degradação,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+392,DIVINÓPOLIS,Paraiso,Não possui degradação,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+393,FIGUEIRÓPOLIS - TO.,Gurupi,Não possui degradação,figueiropolis - to.,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+394,Pium,Paraiso,Não possui degradação,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+395,Chapada de Areia,Paraiso,Degradação Média,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+396,Miracema do Tocantins,Paraiso,Pouco degradado,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+397,Gurupi,Gurupi,Degradação Média,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+398,FILADÉLFIA,Araguaina,Não possui degradação,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+399,Talismã,Gurupi,Não possui degradação,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+400,DUERÉ,Gurupi,Não possui degradação,duere,17.0,1707306.0,Dueré,duere,,,,,,1707306.0,17.0,Dueré
+401,FILADÉLFIA,Araguaina,Não possui degradação,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+402,Cristalandia TO Associação Vila da Prata,Paraiso,Não possui degradação,cristalandia to associacao vila da prata,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+403,Guaraí,Colinas,Não possui degradação,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+404,Miranorte-TO,Miracema,Não possui degradação,miranorte-to,,,,,miranorte,1713304.0,17.0,Miranorte,miranorte,1713304.0,17.0,Miranorte
+405,DIVINÓPOLIS,Paraiso,Pouco degradado,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+406,PARANÃ-TO,Taguatinga,Não possui degradação,parana-to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+407,Marianópolis do Tocantins,Paraiso,Não possui degradação,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+408,Miracema do Tocantins,Paraiso,Degradação Média,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+409,DIVINÓPOLIS,Paraiso,Pouco degradado,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+410,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+411,Peixe,Gurupi,Pouco degradado,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+412,rio sono to,Miracema,Não possui degradação,rio sono to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+413,CASEARA -TO,Paraiso,Não possui degradação,caseara -to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+414,Peixe,Gurupi,Degradação Média,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+415,Peixe,Gurupi,Pouco degradado,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+416,Peixe,Gurupi,Pouco degradado,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+417,Couto Magalhães,Colinas,Pouco degradado,couto magalhaes,17.0,1706001.0,Couto Magalhães,couto magalhaes,,,,,,1706001.0,17.0,Couto Magalhães
+418,MONTE SANTO,Paraiso,Não possui degradação,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+419,Talismã,Gurupi,Não possui degradação,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+420,PARANÃ -TO,Taguatinga,Não possui degradação,parana -to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+421,PARANÃ-TO,Taguatinga,Pouco degradado,parana-to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+422,FILADÉLFIA,Araguaina,Muito degradado,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+423,ALMAS TO,Taguatinga,Não possui degradação,almas to,,,,,almas,1700400.0,17.0,Almas,almas,1700400.0,17.0,Almas
+424,Pium,Paraiso,Pouco degradado,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+425,SÍTIO NOVO DO TOCANTINS,Araguatins,Degradação Média,sitio novo do tocantins,17.0,1720804.0,Sítio Novo do Tocantins,sitio novo do tocantins,,,,,,1720804.0,17.0,Sítio Novo do Tocantins
+426,Goiatins,Araguaina,Pouco degradado,goiatins,17.0,1709005.0,Goiatins,goiatins,,,,,,1709005.0,17.0,Goiatins
+427,Cristalandia To PA S. Francisco,Paraiso,Pouco degradado,cristalandia to pa s. francisco,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+428,Dianópolis,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+429,Santa Rita do Tocantins,Gurupi,Pouco degradado,santa rita do tocantins,17.0,1718899.0,Santa Rita do Tocantins,santa rita do tocantins,,,,,,1718899.0,17.0,Santa Rita do Tocantins
+430,Marianópolis - TO,Paraiso,Não possui degradação,marianopolis - to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+431,Marianópolis do Tocantins,Paraiso,Não possui degradação,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+432,Nova Rosalãndia,Paraiso,Degradação Média,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+433,Peixe,Gurupi,Pouco degradado,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+434,Marianópolis do Tocantins,Paraiso,Não possui degradação,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+435,Rio Sono,Miracema,Não possui degradação,rio sono,17.0,1718758.0,Rio Sono,rio sono,,,,,,1718758.0,17.0,Rio Sono
+436,JAU DO TO,Gurupi,Pouco degradado,jau do to,,,,,jau do tocantins,1711506.0,17.0,Jaú do Tocantins,jau do tocantins,1711506.0,17.0,Jaú do Tocantins
+437,Peixe,Gurupi,Pouco degradado,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+438,Nova Rosalãndia,Paraiso,Degradação Média,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+439,Marianópolis do Tocantins,Paraiso,Pouco degradado,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+440,LUZINOPOLIS-TO,Araguatins,Não possui degradação,luzinopolis-to,,,,,luzinopolis,1712454.0,17.0,Luzinópolis,luzinopolis,1712454.0,17.0,Luzinópolis
+441,Pium,Paraiso,Não possui degradação,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+442,Gurupi-TO,Gurupi,Pouco degradado,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+443,Palmeiras do Tocantins,Araguatins,Não possui degradação,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+444,Santa Rita do Tocantins,Gurupi,Degradação Média,santa rita do tocantins,17.0,1718899.0,Santa Rita do Tocantins,santa rita do tocantins,,,,,,1718899.0,17.0,Santa Rita do Tocantins
+445,PARANÃ,Taguatinga,Pouco degradado,parana,17.0,1716208.0,Paranã,parana,,,,,,1716208.0,17.0,Paranã
+446,FILADÉLFIA,Araguaina,Pouco degradado,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+447,Marianópolis do Tocantins,Paraiso,Não possui degradação,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+448,Marianópolis do Tocantins,Paraiso,Não possui degradação,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+449,Gurupi,Gurupi,Pouco degradado,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+450,Araguaçu,Gurupi,Degradação Média,araguacu,17.0,1702000.0,Araguaçu,araguacu,,,,,,1702000.0,17.0,Araguaçu
+451,Filadélfia,Araguaina,Pouco degradado,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+452,Santa Terezinha do Tocantins,Araguatins,Pouco degradado,santa terezinha do tocantins,17.0,1720002.0,Santa Terezinha do Tocantins,santa terezinha do tocantins,,,,,,1720002.0,17.0,Santa Terezinha do Tocantins
+453,MARIANÓPOLIS DO TOCANTINS,Paraiso,Degradação Média,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+454,Filadélfia,Araguaina,Degradação Média,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+455,PARANÃ TO,Taguatinga,Degradação Média,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+456,FILADÉLFIA,Araguaina,Pouco degradado,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+457,Caseara,Paraiso,Não possui degradação,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+458,Ananás,Araguatins,Não possui degradação,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+459,Caseara,Paraiso,Não possui degradação,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+460,Filadélfia,Araguaina,Pouco degradado,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+461,Caseara,Paraiso,Não possui degradação,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+462,pium to,Paraiso,Não possui degradação,pium to,,,,,pium,1717503.0,17.0,Pium,pium,1717503.0,17.0,Pium
+463,LAGOA DA CONFUSÃO,Paraiso,Não possui degradação,lagoa da confusao,17.0,1711902.0,Lagoa da Confusão,lagoa da confusao,,,,,,1711902.0,17.0,Lagoa da Confusão
+464,RIO SONO TO,Miracema,Não possui degradação,rio sono to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+465,Pium,Paraiso,Pouco degradado,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+466,DIVINÓPOLIS,Paraiso,Pouco degradado,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+467,Marianópolis do Tocantins,Paraiso,Degradação Média,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+468,Barrolândia,Paraiso,Não possui degradação,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+469,Rio Sono,Miracema,Não possui degradação,rio sono,17.0,1718758.0,Rio Sono,rio sono,,,,,,1718758.0,17.0,Rio Sono
+470,MONTE SANTO,Paraiso,Não possui degradação,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+471,Chapada de Areia,Paraiso,Degradação Média,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+472,Cristalândia,Paraiso,Pouco degradado,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+473,Alvorada,Gurupi,Não possui degradação,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+474,Nova Rosalândia,Paraiso,Degradação Média,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+475,Gurupi-TO,Gurupi,Não possui degradação,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+476,Rio Sono,Miracema,Não possui degradação,rio sono,17.0,1718758.0,Rio Sono,rio sono,,,,,,1718758.0,17.0,Rio Sono
+477,PARANÃ-TO,Taguatinga,Não possui degradação,parana-to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+478,Cristalandia - TO,Paraiso,Degradação Média,cristalandia - to,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+479,Pium,Paraiso,Degradação Média,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+480,Dois Irmãos do Tocantins,Paraiso,Degradação Média,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+481,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+482,Chapada da Natividade,Porto,Degradação Média,chapada da natividade,17.0,1705102.0,Chapada da Natividade,chapada da natividade,,,,,,1705102.0,17.0,Chapada da Natividade
+483,Chapada da Natividade,Porto,Pouco degradado,chapada da natividade,17.0,1705102.0,Chapada da Natividade,chapada da natividade,,,,,,1705102.0,17.0,Chapada da Natividade
+484,PARANÃ TO,Taguatinga,Pouco degradado,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+485,Cristalândia,Paraiso,Não possui degradação,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+486,Rio dos Bois,Miracema,Pouco degradado,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+487,PARANÃ TO,Taguatinga,Pouco degradado,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+488,PARANÃ TO,Taguatinga,Não possui degradação,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+489,FIGUEIRÓPOLIS -TO,Gurupi,Não possui degradação,figueiropolis -to,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+490,Nova Rosalãndia,Paraiso,Degradação Média,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+491,Silvanópolis,Porto,Degradação Média,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+492,IPUEIRAS -TO,Porto,Pouco degradado,ipueiras -to,,,,,ipueiras,1709807.0,17.0,Ipueiras,ipueiras,1709807.0,17.0,Ipueiras
+493,PARANÃ -TO,Taguatinga,Não possui degradação,parana -to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+494,Araguaina TO,Araguaina,Não possui degradação,araguaina to,,,,,araguaina,1702109.0,17.0,Araguaína,araguaina,1702109.0,17.0,Araguaína
+495,Marianópolis do Tocantins,Paraiso,Degradação Média,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+496,Miracema do Tocantins,Paraiso,Pouco degradado,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+497,LAGOA DA CONFUSÃO,Paraiso,Pouco degradado,lagoa da confusao,17.0,1711902.0,Lagoa da Confusão,lagoa da confusao,,,,,,1711902.0,17.0,Lagoa da Confusão
+498,Ipueiras,Porto,Não possui degradação,ipueiras,17.0,1709807.0,Ipueiras,ipueiras,,,,,,1709807.0,17.0,Ipueiras
+499,MONTE DO CARMO-TO,Porto,Pouco degradado,monte do carmo-to,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+500,FIGUEIRÓPOLIS - TO.,Gurupi,Não possui degradação,figueiropolis - to.,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+501,SÍTIO NOVO DO TOCANTINS,Araguatins,Degradação Média,sitio novo do tocantins,17.0,1720804.0,Sítio Novo do Tocantins,sitio novo do tocantins,,,,,,1720804.0,17.0,Sítio Novo do Tocantins
+502,Rio dos Bois,Miracema,Pouco degradado,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+503,Darcinópolis,Araguatins,Degradação Média,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+504,DIVINÓPOLIS,Paraiso,Não possui degradação,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+505,LAGOA DA CONFUSÃO -TO,Paraiso,Degradação Média,lagoa da confusao -to,,,,,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão
+506,PARANÃ TO,Taguatinga,Pouco degradado,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+507,MONTE DO CARMO-TO.,Porto,Pouco degradado,monte do carmo-to.,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+508,Crixás do Tocantins,Gurupi,Degradação Média,crixas do tocantins,17.0,1706258.0,Crixás do Tocantins,crixas do tocantins,,,,,,1706258.0,17.0,Crixás do Tocantins
+509,Rio dos Bois,Miracema,Pouco degradado,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+510,Novo Jardim,Taguatinga,Não possui degradação,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+511,BARROLÂNDIA -TO,Paraiso,Pouco degradado,barrolandia -to,,,,,barrolandia,1703107.0,17.0,Barrolândia,barrolandia,1703107.0,17.0,Barrolândia
+512,São Salvador do Tocantins,Gurupi,Degradação Média,sao salvador do tocantins,17.0,1720259.0,São Salvador do Tocantins,sao salvador do tocantins,,,,,,1720259.0,17.0,São Salvador do Tocantins
+513,Gurupi-TO,Gurupi,Não possui degradação,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+514,DIANÓPOLIS,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+515,Nova Rosalãndia,Paraiso,Degradação Média,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+516,ALMAS TO,Taguatinga,Não possui degradação,almas to,,,,,almas,1700400.0,17.0,Almas,almas,1700400.0,17.0,Almas
+517,RIO SONO TO,Miracema,Não possui degradação,rio sono to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+518,Marianópolis do Tocantins,Paraiso,Degradação Média,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+519,DIVINÓPOLIS,Paraiso,Não possui degradação,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+520,PIUM -TO,Paraiso,Pouco degradado,pium -to,,,,,pium,1717503.0,17.0,Pium,pium,1717503.0,17.0,Pium
+521,Marianópolis do Tocantins,Paraiso,Degradação Média,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+522,SANTA FÉ DO ARAGUAIA - TO,Araguaina,Pouco degradado,santa fe do araguaia - to,,,,,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia
+523,Silvanópolis,Porto,Degradação Média,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+524,Monte Santo,Paraiso,Pouco degradado,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+525,Chapada de Areia,Paraiso,Pouco degradado,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+526,Marianópolis do Tocantins,Paraiso,Degradação Média,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+527,Caseara,Paraiso,Não possui degradação,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+528,PARANÃ-TO,Taguatinga,Não possui degradação,parana-to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+529,Gurupi,Gurupi,Degradação Média,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+530,Gurupi,Gurupi,Degradação Média,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+531,Marianópolis do Tocantins,Paraiso,Degradação Média,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+532,Dueré TO,Gurupi,Muito degradado,duere to,,,,,duere,1707306.0,17.0,Dueré,duere,1707306.0,17.0,Dueré
+533,Gurupi-TO,Gurupi,Pouco degradado,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+534,Gurupi-TO,Gurupi,Pouco degradado,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+535,Alvorada,Gurupi,Pouco degradado,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+536,Talismã-TO,Gurupi,Não possui degradação,talisma-to,,,,,talisma,1720978.0,17.0,Talismã,talisma,1720978.0,17.0,Talismã
+537,Talismã,Gurupi,Pouco degradado,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+538,Riachinho,Araguatins,Não possui degradação,riachinho,17.0,1718550.0,Riachinho,riachinho,,,,,,1718550.0,17.0,Riachinho
+539,Cristalândia,Paraiso,Degradação Média,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+540,Almas,Taguatinga,Não possui degradação,almas,17.0,1700400.0,Almas,almas,,,,,,1700400.0,17.0,Almas
+541,Miranorte,Miracema,Pouco degradado,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+542,PARANÃ -TO,Taguatinga,Não possui degradação,parana -to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+543,DUEURÉ,Gurupi,Pouco degradado,dueure,,,,,duere,1707306.0,17.0,Dueré,duere,1707306.0,17.0,Dueré
+544,Alvorada,Gurupi,Pouco degradado,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+545,Sucupira-TO,Gurupi,Muito degradado,sucupira-to,,,,,sucupira,1720853.0,17.0,Sucupira,sucupira,1720853.0,17.0,Sucupira
+546,Talismã-TO,Gurupi,Não possui degradação,talisma-to,,,,,talisma,1720978.0,17.0,Talismã,talisma,1720978.0,17.0,Talismã
+547,PARANÃ-TO,Taguatinga,Não possui degradação,parana-to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+548,DOIS IRMÃOS DO TOCANTINS - TO,Paraiso,Pouco degradado,dois irmaos do tocantins - to,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+549,Miranorte,Miracema,Pouco degradado,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+550,ALMAES TO,Taguatinga,Pouco degradado,almaes to,,,,,,,,,,,,
+551,Talismã-TO,Gurupi,Não possui degradação,talisma-to,,,,,talisma,1720978.0,17.0,Talismã,talisma,1720978.0,17.0,Talismã
+552,Talismã-TO,Gurupi,Não possui degradação,talisma-to,,,,,talisma,1720978.0,17.0,Talismã,talisma,1720978.0,17.0,Talismã
+553,Araguaçu,Gurupi,Pouco degradado,araguacu,17.0,1702000.0,Araguaçu,araguacu,,,,,,1702000.0,17.0,Araguaçu
+554,Ipueiras,Porto,Pouco degradado,ipueiras,17.0,1709807.0,Ipueiras,ipueiras,,,,,,1709807.0,17.0,Ipueiras
+555,Nova Rosalãndia,Paraiso,Degradação Média,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+556,Sucupira-TO,Gurupi,Pouco degradado,sucupira-to,,,,,sucupira,1720853.0,17.0,Sucupira,sucupira,1720853.0,17.0,Sucupira
+557,Talismã,Gurupi,Não possui degradação,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+558,PARAÍSO DO TOCANTINS,Paraiso,Pouco degradado,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+559,Peixe,Gurupi,Degradação Média,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+560,Cristalândia,Paraiso,Não possui degradação,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+561,Nova Rosalândia,Paraiso,Degradação Média,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+562,Barrolândia,Paraiso,Pouco degradado,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+563,Araguaçu,Gurupi,Não possui degradação,araguacu,17.0,1702000.0,Araguaçu,araguacu,,,,,,1702000.0,17.0,Araguaçu
+564,Barrolândia,Paraiso,Pouco degradado,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+565,Ananás,Araguatins,Não possui degradação,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+566,RIO DA CONCEIÇÃO,Taguatinga,Não possui degradação,rio da conceicao,17.0,1718659.0,Rio da Conceição,rio da conceicao,,,,,,1718659.0,17.0,Rio da Conceição
+567,DIANÓPOLIS,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+568,Miracema do Tocantins,Paraiso,Pouco degradado,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+569,Novo Jardim,Taguatinga,Não possui degradação,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+570,Paraíso do Tocantins,Paraiso,Não possui degradação,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+571,Marianópolis do Tocantins,Paraiso,Degradação Média,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+572,Ipueiras,Porto,Pouco degradado,ipueiras,17.0,1709807.0,Ipueiras,ipueiras,,,,,,1709807.0,17.0,Ipueiras
+573,Talismã,Gurupi,Pouco degradado,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+574,Nova Rosalãndia,Paraiso,Degradação Média,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+575,MONTE DO CARMO-TO,Porto,Pouco degradado,monte do carmo-to,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+576,Rio dos Bois,Miracema,Pouco degradado,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+577,Miracema do tocantins-TO,Paraiso,Pouco degradado,miracema do tocantins-to,,,,,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins
+578,MONTE DO CARMO-TO,Porto,Degradação Média,monte do carmo-to,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+579,Aragominas,Araguaina,Pouco degradado,aragominas,17.0,1701309.0,Aragominas,aragominas,,,,,,1701309.0,17.0,Aragominas
+580,Cristalândia,Paraiso,Pouco degradado,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+581,ABREULANDIA,Paraiso,Pouco degradado,abreulandia,17.0,1700251.0,Abreulândia,abreulandia,,,,,,1700251.0,17.0,Abreulândia
+582,Rio dos Bois,Miracema,Pouco degradado,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+583,Xambioá,Araguaina,Degradação Média,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+584,Cristalândia,Paraiso,Pouco degradado,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+585,Miranorte,Miracema,Pouco degradado,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+586,Silvanópolis,Porto,Pouco degradado,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+587,PARANÃ TO,Taguatinga,Degradação Média,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+588,MIRACEMA,Paraiso,Não possui degradação,miracema,,,,,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins
+589,MONTE DO CARMO-TO.,Porto,Pouco degradado,monte do carmo-to.,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+590,CASEARA-TO,Paraiso,Não possui degradação,caseara-to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+591,Cristalândia - TO PA Virgínia,Paraiso,Pouco degradado,cristalandia - to pa virginia,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+592,SÍTIO NOVO DO TOCANTINS,Araguatins,Degradação Média,sitio novo do tocantins,17.0,1720804.0,Sítio Novo do Tocantins,sitio novo do tocantins,,,,,,1720804.0,17.0,Sítio Novo do Tocantins
+593,Araguaçu,Gurupi,Pouco degradado,araguacu,17.0,1702000.0,Araguaçu,araguacu,,,,,,1702000.0,17.0,Araguaçu
+594,Aurora do Tocantins,Taguatinga,Pouco degradado,aurora do tocantins,17.0,1702703.0,Aurora do Tocantins,aurora do tocantins,,,,,,1702703.0,17.0,Aurora do Tocantins
+595,Lagoa da Confusão,Paraiso,Não possui degradação,lagoa da confusao,17.0,1711902.0,Lagoa da Confusão,lagoa da confusao,,,,,,1711902.0,17.0,Lagoa da Confusão
+596,Cristalândia - To,Paraiso,Pouco degradado,cristalandia - to,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+597,São Salvador do Tocantins,Gurupi,Não possui degradação,sao salvador do tocantins,17.0,1720259.0,São Salvador do Tocantins,sao salvador do tocantins,,,,,,1720259.0,17.0,São Salvador do Tocantins
+598,PARANÃ,Taguatinga,Pouco degradado,parana,17.0,1716208.0,Paranã,parana,,,,,,1716208.0,17.0,Paranã
+599,São Salvador do Tocantins,Gurupi,Degradação Média,sao salvador do tocantins,17.0,1720259.0,São Salvador do Tocantins,sao salvador do tocantins,,,,,,1720259.0,17.0,São Salvador do Tocantins
+600,FÁTIMA - TO,Porto,Degradação Média,fatima - to,,,,,fatima,1707553.0,17.0,Fátima,fatima,1707553.0,17.0,Fátima
+601,Alvorada,Gurupi,Não possui degradação,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+602,Talismã,Gurupi,Não possui degradação,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+603,Marianópolis do Tocantins,Paraiso,Degradação Média,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+604,ALMAS TO,Taguatinga,Não possui degradação,almas to,,,,,almas,1700400.0,17.0,Almas,almas,1700400.0,17.0,Almas
+605,Santa Fé do Araguaia,Araguaina,Pouco degradado,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+606,DOIS IRMÃOS DO TOCANTINS,Paraiso,Pouco degradado,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+607,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+608,TALISMÃ,Gurupi,Degradação Média,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+609,ALIANÇA,Gurupi,Degradação Média,alianca,,,,,alianca do tocantins,1700350.0,17.0,Aliança do Tocantins,alianca do tocantins,1700350.0,17.0,Aliança do Tocantins
+610,Sucupira-TO,Gurupi,Pouco degradado,sucupira-to,,,,,sucupira,1720853.0,17.0,Sucupira,sucupira,1720853.0,17.0,Sucupira
+611,Silvanópolis,Porto,Pouco degradado,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+612,Luzinópolis,Araguatins,Não possui degradação,luzinopolis,17.0,1712454.0,Luzinópolis,luzinopolis,,,,,,1712454.0,17.0,Luzinópolis
+613,Monte Santo,Paraiso,Degradação Média,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+614,Caseara,Paraiso,Não possui degradação,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+615,MURICILÂNDIA,Araguaina,Pouco degradado,muricilandia,17.0,1713957.0,Muricilândia,muricilandia,,,,,,1713957.0,17.0,Muricilândia
+616,Araguanã,Araguaina,Pouco degradado,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+617,SANTA FÉ DO ARAGUAIA,Araguaina,Pouco degradado,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+618,DUERÉ,Gurupi,Degradação Média,duere,17.0,1707306.0,Dueré,duere,,,,,,1707306.0,17.0,Dueré
+619,SANTA FÉ DO ARAGUAIA,Araguaina,Degradação Média,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+620,Guaraí,Colinas,Pouco degradado,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+621,Colmeia TO,Colinas,Pouco degradado,colmeia to,,,,,colmeia,1716703.0,17.0,Colméia,colmeia,1716703.0,17.0,Colméia
+622,Muricilândia,Araguaina,Degradação Média,muricilandia,17.0,1713957.0,Muricilândia,muricilandia,,,,,,1713957.0,17.0,Muricilândia
+623,Abreulândia - TO,Paraiso,Pouco degradado,abreulandia - to,,,,,abreulandia,1700251.0,17.0,Abreulândia,abreulandia,1700251.0,17.0,Abreulândia
+624,Araguanã,Araguaina,Não possui degradação,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+625,JAU DO TO,Gurupi,Degradação Média,jau do to,,,,,jau do tocantins,1711506.0,17.0,Jaú do Tocantins,jau do tocantins,1711506.0,17.0,Jaú do Tocantins
+626,Marianópolis do Tocantins,Paraiso,Não possui degradação,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+627,Cachoeirinha,Araguatins,Pouco degradado,cachoeirinha,17.0,1703826.0,Cachoeirinha,cachoeirinha,,,,,,1703826.0,17.0,Cachoeirinha
+628,MURICILÂNDIA,Araguaina,Pouco degradado,muricilandia,17.0,1713957.0,Muricilândia,muricilandia,,,,,,1713957.0,17.0,Muricilândia
+629,RIACHINHO-TO,Araguatins,Não possui degradação,riachinho-to,,,,,riachinho,1718550.0,17.0,Riachinho,riachinho,1718550.0,17.0,Riachinho
+630,Araguaçu,Gurupi,Degradação Média,araguacu,17.0,1702000.0,Araguaçu,araguacu,,,,,,1702000.0,17.0,Araguaçu
+631,DIANÓPOLIS,Taguatinga,Degradação Média,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+632,Colméia,Colinas,Pouco degradado,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+633,COLMÉIA,Colinas,Pouco degradado,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+634,Wanderlândia,Araguaina,Pouco degradado,wanderlandia,17.0,1722081.0,Wanderlândia,wanderlandia,,,,,,1722081.0,17.0,Wanderlândia
+635,Chapada de Areia,Paraiso,Pouco degradado,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+636,RIACHINHO - TO,Araguatins,Pouco degradado,riachinho - to,,,,,riachinho,1718550.0,17.0,Riachinho,riachinho,1718550.0,17.0,Riachinho
+637,Riachinho,Araguatins,Não possui degradação,riachinho,17.0,1718550.0,Riachinho,riachinho,,,,,,1718550.0,17.0,Riachinho
+638,Riachinho,Araguatins,Não possui degradação,riachinho,17.0,1718550.0,Riachinho,riachinho,,,,,,1718550.0,17.0,Riachinho
+639,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+640,Pium,Paraiso,Pouco degradado,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+641,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+642,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+643,Barrolândia,Paraiso,Pouco degradado,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+644,ARAGUAÍNA,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+645,Araguaína,Araguaina,Degradação Média,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+646,PARANÃ TO,Taguatinga,Pouco degradado,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+647,DOIS IRMÃOS DO TOCANTINS,Paraiso,Pouco degradado,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+648,CASEARA - TO,Paraiso,Pouco degradado,caseara - to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+649,SANTA FÉ DO ARAGUAIA-TO,Araguaina,Pouco degradado,santa fe do araguaia-to,,,,,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia
+650,Xambioá,Araguaina,Degradação Média,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+651,LUZINOPOLIS-TO,Araguatins,Não possui degradação,luzinopolis-to,,,,,luzinopolis,1712454.0,17.0,Luzinópolis,luzinopolis,1712454.0,17.0,Luzinópolis
+652,ALIANÇA DO TOCANTINS,Gurupi,Degradação Média,alianca do tocantins,17.0,1700350.0,Aliança do Tocantins,alianca do tocantins,,,,,,1700350.0,17.0,Aliança do Tocantins
+653,SANTA FÉ DO ARAGUAIA,Araguaina,Muito degradado,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+654,MONTE SANTO,Paraiso,Não possui degradação,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+655,Guaraí,Colinas,Pouco degradado,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+656,GUARAÍ,Colinas,Pouco degradado,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+657,Axixá do Tocantins,Araguatins,Pouco degradado,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+658,Figueirópolis,Gurupi,Pouco degradado,figueiropolis,17.0,1707652.0,Figueirópolis,figueiropolis,,,,,,1707652.0,17.0,Figueirópolis
+659,Paraíso do Tocantins,Paraiso,Pouco degradado,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+660,Miranorte,Miracema,Pouco degradado,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+661,Figueirópolis,Gurupi,Pouco degradado,figueiropolis,17.0,1707652.0,Figueirópolis,figueiropolis,,,,,,1707652.0,17.0,Figueirópolis
+662,Figueirópolis,Gurupi,Pouco degradado,figueiropolis,17.0,1707652.0,Figueirópolis,figueiropolis,,,,,,1707652.0,17.0,Figueirópolis
+663,Paraíso do Tocantins,Paraiso,,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+664,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+665,FILADÉLFIA,Araguaina,Não possui degradação,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+666,Novo Acordo,Porto,Pouco degradado,novo acordo,17.0,1715101.0,Novo Acordo,novo acordo,,,,,,1715101.0,17.0,Novo Acordo
+667,Pium,Paraiso,Pouco degradado,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+668,ABREULANDIA,Paraiso,Pouco degradado,abreulandia,17.0,1700251.0,Abreulândia,abreulandia,,,,,,1700251.0,17.0,Abreulândia
+669,XAMBIOÁ,Araguaina,Pouco degradado,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+670,Aurora do Tocantins,Taguatinga,Pouco degradado,aurora do tocantins,17.0,1702703.0,Aurora do Tocantins,aurora do tocantins,,,,,,1702703.0,17.0,Aurora do Tocantins
+671,Goiatins,Araguaina,Pouco degradado,goiatins,17.0,1709005.0,Goiatins,goiatins,,,,,,1709005.0,17.0,Goiatins
+672,Barrolândia,Paraiso,Degradação Média,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+673,DIVINÓPOLIS,Paraiso,Pouco degradado,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+674,DIVINOPOLIS-TO,Paraiso,Pouco degradado,divinopolis-to,,,,,,,,,,,,
+675,PARANÃ-TO,Taguatinga,Pouco degradado,parana-to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+676,LAGOA DA CONFUSÃO -TO,Paraiso,Não possui degradação,lagoa da confusao -to,,,,,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão
+677,PARANÃ TO,Taguatinga,Pouco degradado,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+678,Tocantínia,Miracema,Degradação Média,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+679,Chapada da Natividade,Porto,Pouco degradado,chapada da natividade,17.0,1705102.0,Chapada da Natividade,chapada da natividade,,,,,,1705102.0,17.0,Chapada da Natividade
+680,Cariri do Tocantins,Gurupi,Pouco degradado,cariri do tocantins,17.0,1703867.0,Cariri do Tocantins,cariri do tocantins,,,,,,1703867.0,17.0,Cariri do Tocantins
+681,Rio dos Bois,Miracema,Pouco degradado,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+682,Pedro Afonso,Miracema,Pouco degradado,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+683,FIGUEIRÓPOLIS - TO,Gurupi,Não possui degradação,figueiropolis - to,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+684,CARIRI TOCANTINS,Gurupi,Pouco degradado,cariri tocantins,,,,,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins
+685,Chapada da Natividade,Porto,Degradação Média,chapada da natividade,17.0,1705102.0,Chapada da Natividade,chapada da natividade,,,,,,1705102.0,17.0,Chapada da Natividade
+686,Peixe,Gurupi,Pouco degradado,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+687,DIVINÓPOLIS,Paraiso,Não possui degradação,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+688,SÃO BENTO DO TOCANTINS,Araguatins,,sao bento do tocantins,17.0,1720101.0,São Bento do Tocantins,sao bento do tocantins,,,,,,1720101.0,17.0,São Bento do Tocantins
+689,CHAPADA DA NATIVIDADE-TO,Porto,Pouco degradado,chapada da natividade-to,,,,,chapada da natividade,1705102.0,17.0,Chapada da Natividade,chapada da natividade,1705102.0,17.0,Chapada da Natividade
+690,CHAPADA DA NATIVIDADE-TO,Porto,Pouco degradado,chapada da natividade-to,,,,,chapada da natividade,1705102.0,17.0,Chapada da Natividade,chapada da natividade,1705102.0,17.0,Chapada da Natividade
+691,FIGUEIRÓPOLIS - TO,Gurupi,Pouco degradado,figueiropolis - to,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+692,PARAÍSO DO TOCANTINS,Paraiso,Pouco degradado,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+693,Peixe,Gurupi,Pouco degradado,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+694,CARIRI TOCANTINS,Gurupi,Pouco degradado,cariri tocantins,,,,,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins
+695,Paraíso do Tocantins,Paraiso,Pouco degradado,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+696,SÃO BENTO DO TOCANTINS,Araguatins,,sao bento do tocantins,17.0,1720101.0,São Bento do Tocantins,sao bento do tocantins,,,,,,1720101.0,17.0,São Bento do Tocantins
+697,Silvanópolis,Porto,Muito degradado,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+698,Goiatins,Araguaina,Pouco degradado,goiatins,17.0,1709005.0,Goiatins,goiatins,,,,,,1709005.0,17.0,Goiatins
+699,RIO SONO - TO,Miracema,Pouco degradado,rio sono - to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+700,Porto Alegre do Tocantins,Taguatinga,Degradação Média,porto alegre do tocantins,17.0,1718006.0,Porto Alegre do Tocantins,porto alegre do tocantins,,,,,,1718006.0,17.0,Porto Alegre do Tocantins
+701,PARANÃ -TO,Taguatinga,Não possui degradação,parana -to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+702,Porto Alegre do Tocantins,Taguatinga,Degradação Média,porto alegre do tocantins,17.0,1718006.0,Porto Alegre do Tocantins,porto alegre do tocantins,,,,,,1718006.0,17.0,Porto Alegre do Tocantins
+703,Chapada de Areia,Paraiso,Pouco degradado,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+704,Rio Sono,Miracema,Pouco degradado,rio sono,17.0,1718758.0,Rio Sono,rio sono,,,,,,1718758.0,17.0,Rio Sono
+705,Figueiropolis-TO,Gurupi,Pouco degradado,figueiropolis-to,,,,,figueiropolis,1707652.0,17.0,Figueirópolis,figueiropolis,1707652.0,17.0,Figueirópolis
+706,Colméia,Colinas,Pouco degradado,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+707,Cristalândia,Paraiso,Não possui degradação,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+708,PARANÃ TO,Taguatinga,Pouco degradado,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+709,Silvanópolis,Porto,Degradação Média,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+710,SANTA FÉ DO ARAGUAINA,Araguaina,Pouco degradado,santa fe do araguaina,,,,,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia,santa fe do araguaia,1718865.0,17.0,Santa Fé do Araguaia
+711,DOIS IRMÃOS DO TOCANTINS,Paraiso,Pouco degradado,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+712,DIVINÓPOLIS,Paraiso,Não possui degradação,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+713,Rio Sono,Miracema,Pouco degradado,rio sono,17.0,1718758.0,Rio Sono,rio sono,,,,,,1718758.0,17.0,Rio Sono
+714,Xambioá,Araguaina,Pouco degradado,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+715,MONTE DO CARMO-TO.,Porto,Pouco degradado,monte do carmo-to.,,,,,monte do carmo,1713601.0,17.0,Monte do Carmo,monte do carmo,1713601.0,17.0,Monte do Carmo
+716,Paraíso do Tocantins,Paraiso,Pouco degradado,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+717,Filadélfia,Araguaina,Pouco degradado,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+718,Dianópolis,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+719,Santa Rita do Tocantins,Gurupi,Muito degradado,santa rita do tocantins,17.0,1718899.0,Santa Rita do Tocantins,santa rita do tocantins,,,,,,1718899.0,17.0,Santa Rita do Tocantins
+720,CARIRI DO TOCANTINS - TO,Gurupi,Degradação Média,cariri do tocantins - to,,,,,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins
+721,DIANÓPOLIS,Taguatinga,Pouco degradado,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+722,Porto Alegre do Tocantins,Taguatinga,Degradação Média,porto alegre do tocantins,17.0,1718006.0,Porto Alegre do Tocantins,porto alegre do tocantins,,,,,,1718006.0,17.0,Porto Alegre do Tocantins
+723,Marianópolis do Tocantins,Paraiso,Degradação Média,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+724,Goiatins,Araguaina,Pouco degradado,goiatins,17.0,1709005.0,Goiatins,goiatins,,,,,,1709005.0,17.0,Goiatins
+725,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+726,SANTA MARIA DO TO.,Miracema,,santa maria do to.,,,,,santa terezinha do tocantins,1720002.0,17.0,Santa Terezinha do Tocantins,santa terezinha do tocantins,1720002.0,17.0,Santa Terezinha do Tocantins
+727,Miranorte,Miracema,Pouco degradado,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+728,Marianópolis do Tocantins,Paraiso,Degradação Média,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+729,Araguaína,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+730,Araguaína,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+731,Pedro Afonso,Miracema,Pouco degradado,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+732,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+733,CASEARA - TO,Paraiso,Não possui degradação,caseara - to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+734,CARIRI DO TOCANTIINS -TO,Gurupi,Degradação Média,cariri do tocantiins -to,,,,,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins,cariri do tocantins,1703867.0,17.0,Cariri do Tocantins
+735,Filadélfia,Araguaina,Pouco degradado,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+736,CACHOEIRINHA-TO,Araguatins,Pouco degradado,cachoeirinha-to,,,,,cachoeirinha,1703826.0,17.0,Cachoeirinha,cachoeirinha,1703826.0,17.0,Cachoeirinha
+737,Aliança do Tocantins,Gurupi,Degradação Média,alianca do tocantins,17.0,1700350.0,Aliança do Tocantins,alianca do tocantins,,,,,,1700350.0,17.0,Aliança do Tocantins
+738,Paraíso do Tocantins,Paraiso,Pouco degradado,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+739,Pium,Paraiso,Pouco degradado,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+740,Marianópolis do Tocantins,Paraiso,Degradação Média,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+741,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+742,Marianópolis do Tocantins,Paraiso,Muito degradado,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+743,ARAGOMINAS -TO,Araguaina,Pouco degradado,aragominas -to,,,,,aragominas,1701309.0,17.0,Aragominas,aragominas,1701309.0,17.0,Aragominas
+744,PARANÃ TO,Taguatinga,Pouco degradado,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+745,Pedro Afonso,Miracema,Degradação Média,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+746,Nova Olinda,Araguaina,Degradação Média,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+747,Wanderlândia,Araguaina,Não possui degradação,wanderlandia,17.0,1722081.0,Wanderlândia,wanderlandia,,,,,,1722081.0,17.0,Wanderlândia
+748,Xambioá,Araguaina,Pouco degradado,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+749,Araguaína,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+750,Piraquê,Araguaina,Não possui degradação,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+751,MONTE SANTO TO,Paraiso,Pouco degradado,monte santo to,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+752,MONTE SANTO,Paraiso,Degradação Média,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+753,Chapada de Areia,Paraiso,Não possui degradação,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+754,Chapada de Areia,Paraiso,Pouco degradado,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+755,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+756,ESPERANTINA -TO,Araguatins,Não possui degradação,esperantina -to,,,,,esperantina,1707405.0,17.0,Esperantina,esperantina,1707405.0,17.0,Esperantina
+757,MONTE SANTO -TO,Paraiso,Pouco degradado,monte santo -to,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+758,DIANÓPOLIS,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+759,Angico,Araguatins,Degradação Média,angico,17.0,1701051.0,Angico,angico,,,,,,1701051.0,17.0,Angico
+760,PARANÃ O,Taguatinga,Pouco degradado,parana o,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+761,PARANÃ TO,Taguatinga,Pouco degradado,parana to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+762,Dianópolis,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+763,Babaçulandia,Araguaina,Pouco degradado,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+764,SÃO MIGUEL,Araguatins,Degradação Média,sao miguel,,,,,sao miguel do tocantins,1720200.0,17.0,São Miguel do Tocantins,sao miguel do tocantins,1720200.0,17.0,São Miguel do Tocantins
+765,Dianópolis,Taguatinga,Pouco degradado,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+766,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+767,Ipueiras,Porto,Degradação Média,ipueiras,17.0,1709807.0,Ipueiras,ipueiras,,,,,,1709807.0,17.0,Ipueiras
+768,bABAÇULÂNDIA,Araguaina,Pouco degradado,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+769,ALIANÇA DO TOCANTINS,Gurupi,Muito degradado,alianca do tocantins,17.0,1700350.0,Aliança do Tocantins,alianca do tocantins,,,,,,1700350.0,17.0,Aliança do Tocantins
+770,Marianópolis do Tocantins,Paraiso,Degradação Média,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+771,Palmeiras do Tocantins,Araguatins,Pouco degradado,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+772,Palmeiras do Tocantins,Araguatins,Pouco degradado,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+773,Piraquê,Araguaina,Pouco degradado,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+774,Pedro Afonso,Miracema,Degradação Média,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+775,FÁTIMA - TO,Porto,Degradação Média,fatima - to,,,,,fatima,1707553.0,17.0,Fátima,fatima,1707553.0,17.0,Fátima
+776,Piraquê,Araguaina,Pouco degradado,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+777,Piraquê,Araguaina,Pouco degradado,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+778,Piraquê,Araguaina,Não possui degradação,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+779,Xambioá,Araguaina,Pouco degradado,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+780,Marianópolis do Tocantins,Paraiso,Degradação Média,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+781,TABOCÃO,Miracema,Pouco degradado,tabocao,,,,,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão
+782,Aragominas,Araguaina,Pouco degradado,aragominas,17.0,1701309.0,Aragominas,aragominas,,,,,,1701309.0,17.0,Aragominas
+783,Gurupi,Gurupi,Pouco degradado,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+784,CRIXÁS DO TOCANTINS,Gurupi,Degradação Média,crixas do tocantins,17.0,1706258.0,Crixás do Tocantins,crixas do tocantins,,,,,,1706258.0,17.0,Crixás do Tocantins
+785,Palmas,Porto,Não possui degradação,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+786,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+787,Gurupi-TO,Gurupi,Pouco degradado,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+788,Gurupi-TO,Gurupi,Pouco degradado,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+789,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+790,TABOCÃO,Miracema,Pouco degradado,tabocao,,,,,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão
+791,PIRAQUÊ,Araguaina,Pouco degradado,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+792,GUARAÍ,Colinas,Não possui degradação,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+793,ALMAS TO,Taguatinga,Não possui degradação,almas to,,,,,almas,1700400.0,17.0,Almas,almas,1700400.0,17.0,Almas
+794,Chapada de Areia,Paraiso,Pouco degradado,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+795,Pedro Afonso,Miracema,Não possui degradação,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+796,DOIS IRMÃOS DO TOCANTINS,Paraiso,Degradação Média,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+797,Marianópolis do Tocantins,Paraiso,Muito degradado,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+798,Guaraí,Colinas,Não possui degradação,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+799,Chapada de Areia,Paraiso,Pouco degradado,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+800,Xambioá,Araguaina,Pouco degradado,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+801,Araguaína,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+802,Praia Norte,Araguatins,Degradação Média,praia norte,17.0,1718303.0,Praia Norte,praia norte,,,,,,1718303.0,17.0,Praia Norte
+803,SÍTIO NOVO DO TO,Araguatins,Degradação Média,sitio novo do to,,,,,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins
+804,Araguaína,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+805,Piraquê,Araguaina,Não possui degradação,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+806,DIANÓPOLIS,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+807,Novo Acordo,Porto,Muito degradado,novo acordo,17.0,1715101.0,Novo Acordo,novo acordo,,,,,,1715101.0,17.0,Novo Acordo
+808,SÍTIO NOVO DO TO,Araguatins,Pouco degradado,sitio novo do to,,,,,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins
+809,Nova Olinda,Araguaina,Degradação Média,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+810,SILVANÓPOLIS,Porto,Pouco degradado,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+811,Piraquê,Araguaina,Pouco degradado,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+812,"P.A Tamboril, Angico - TO",Araguatins,Degradação Média,"p.a tamboril, angico - to",,,,,angico,1701051.0,17.0,Angico,angico,1701051.0,17.0,Angico
+813,Piraquê,Araguaina,Pouco degradado,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+814,Angico,Araguatins,Degradação Média,angico,17.0,1701051.0,Angico,angico,,,,,,1701051.0,17.0,Angico
+815,Piraquê,Araguaina,Degradação Média,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+816,Marianópolis do Tocantins,Paraiso,Degradação Média,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+817,Gurupi,Gurupi,Pouco degradado,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+818,Piraquê,Araguaina,Pouco degradado,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+819,TABOCÃO,Miracema,Pouco degradado,tabocao,,,,,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão
+820,Nova Olinda,Araguaina,Pouco degradado,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+821,DIANÓPOLIS,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+822,PALMEIRAS,Araguatins,Pouco degradado,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+823,Tupirama,Miracema,Pouco degradado,tupirama,17.0,1721257.0,Tupirama,tupirama,,,,,,1721257.0,17.0,Tupirama
+824,Xambioá,Araguaina,Degradação Média,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+825,Araguanã,Araguaina,Pouco degradado,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+826,Araguanã,Araguaina,Não possui degradação,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+827,Marianópolis do Tocantins,Paraiso,Degradação Média,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+828,DIVINÓPOLIS - TO,Paraiso,Pouco degradado,divinopolis - to,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+829,BABAÇULÂNDIA,Araguaina,Pouco degradado,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+830,Santa Terezinha do Tocantins,Araguatins,Não possui degradação,santa terezinha do tocantins,17.0,1720002.0,Santa Terezinha do Tocantins,santa terezinha do tocantins,,,,,,1720002.0,17.0,Santa Terezinha do Tocantins
+831,Paraíso do Tocantins,Paraiso,Pouco degradado,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+832,CENTENÁRIO - TO,Miracema,Não possui degradação,centenario - to,,,,,centenario,1704105.0,17.0,Centenário,centenario,1704105.0,17.0,Centenário
+833,ANANÁS - TO,Araguatins,Não possui degradação,ananas - to,,,,,ananas,1701002.0,17.0,Ananás,ananas,1701002.0,17.0,Ananás
+834,ALMAS TO,Taguatinga,Não possui degradação,almas to,,,,,almas,1700400.0,17.0,Almas,almas,1700400.0,17.0,Almas
+835,Cristalândia,Paraiso,Não possui degradação,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+836,Marianópolis do Tocantins,Paraiso,Degradação Média,marianopolis do tocantins,17.0,1712504.0,Marianópolis do Tocantins,marianopolis do tocantins,,,,,,1712504.0,17.0,Marianópolis do Tocantins
+837,TABOCÃO,Miracema,Pouco degradado,tabocao,,,,,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão
+838,Palmeiras do Tocantins,Araguatins,,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+839,Tupirama,Miracema,,tupirama,17.0,1721257.0,Tupirama,tupirama,,,,,,1721257.0,17.0,Tupirama
+840,CASEARA-TO,Paraiso,,caseara-to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+841,CASEARA-TO,Paraiso,,caseara-to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+842,Caseara,Paraiso,,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+843,Chapada de Areia,Paraiso,,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+844,LAGOA DA CONFUSÃO - TO,Paraiso,,lagoa da confusao - to,,,,,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão
+845,Miracema do Tocantins,Paraiso,Não possui degradação,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+846,Novo Jardim,Taguatinga,,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+847,TUPIRAMA TO,Miracema,,tupirama to,,,,,tupirama,1721257.0,17.0,Tupirama,tupirama,1721257.0,17.0,Tupirama
+848,Miranorte/To,Miracema,Não possui degradação,miranorte/to,,,,,miranorte,1713304.0,17.0,Miranorte,miranorte,1713304.0,17.0,Miranorte
+849,Araguaína,Araguaina,,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+850,Gurupi,Gurupi,,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+851,PARANÃ -TO,Taguatinga,,parana -to,,,,,parana,1716208.0,17.0,Paranã,parana,1716208.0,17.0,Paranã
+852,SÃO MIGUEL DO TOCANTINS,Araguatins,,sao miguel do tocantins,17.0,1720200.0,São Miguel do Tocantins,sao miguel do tocantins,,,,,,1720200.0,17.0,São Miguel do Tocantins
+853,Caseara,Paraiso,,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+854,Figueirópolis,Gurupi,,figueiropolis,17.0,1707652.0,Figueirópolis,figueiropolis,,,,,,1707652.0,17.0,Figueirópolis
+855,Couto Magalhães,Colinas,Degradação Média,couto magalhaes,17.0,1706001.0,Couto Magalhães,couto magalhaes,,,,,,1706001.0,17.0,Couto Magalhães
+856,Tocantínia,Miracema,,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+857,TUPIRAMA TO,Miracema,,tupirama to,,,,,tupirama,1721257.0,17.0,Tupirama,tupirama,1721257.0,17.0,Tupirama
+858,Tocantínia,Miracema,,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+859,SITIO NOVO-TO,Araguatins,,sitio novo-to,,,,,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins
+860,SÃO MIGUEL DO TOCANTINS,Araguatins,,sao miguel do tocantins,17.0,1720200.0,São Miguel do Tocantins,sao miguel do tocantins,,,,,,1720200.0,17.0,São Miguel do Tocantins
+861,DIANÓPOLIS TO,Taguatinga,,dianopolis to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+862,AXIXÁ DO TOCANTINS,Araguatins,,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+863,AXIXÁ,Araguatins,,axixa,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+864,Tocantínia,Miracema,,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+865,Bom Jesus do Tocantins,Miracema,Pouco degradado,bom jesus do tocantins,17.0,1703305.0,Bom Jesus do Tocantins,bom jesus do tocantins,,,,,,1703305.0,17.0,Bom Jesus do Tocantins
+866,Barrolândia,Paraiso,,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+867,Palmeiras do Tocantins,Araguatins,,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+868,ABREULANDIA,Paraiso,,abreulandia,17.0,1700251.0,Abreulândia,abreulandia,,,,,,1700251.0,17.0,Abreulândia
+869,MONTE SANTO -TO,Paraiso,,monte santo -to,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+870,Pedro Afonso,Miracema,,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+871,MONTE VSANTO -TO,Paraiso,Pouco degradado,monte vsanto -to,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+872,SÃO MIGUEL DO TOCANTINS,Araguatins,,sao miguel do tocantins,17.0,1720200.0,São Miguel do Tocantins,sao miguel do tocantins,,,,,,1720200.0,17.0,São Miguel do Tocantins
+873,Ponte Alta do Bom Jesus,Taguatinga,,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+874,AXIXÁ DO TOCANTINS,Araguatins,,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+875,AXIXA DO TO,Araguatins,,axixa do to,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+876,SITIO NOVO -TO,Araguatins,,sitio novo -to,,,,,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins
+877,Ponte Alta do Bom Jesus,Taguatinga,,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+878,Barrolândia,Paraiso,,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+879,Ananás,Araguatins,,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+880,Wanderlândia,Araguaina,,wanderlandia,17.0,1722081.0,Wanderlândia,wanderlandia,,,,,,1722081.0,17.0,Wanderlândia
+881,ALMAS TO,Taguatinga,,almas to,,,,,almas,1700400.0,17.0,Almas,almas,1700400.0,17.0,Almas
+882,Nova Rosalãndia,Paraiso,,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+883,Rio dos Bois,Miracema,,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+884,SÃO MIGUEL DO TOCANTINS,Araguatins,,sao miguel do tocantins,17.0,1720200.0,São Miguel do Tocantins,sao miguel do tocantins,,,,,,1720200.0,17.0,São Miguel do Tocantins
+885,Ananás,Araguatins,,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+886,Xambioá,Araguaina,,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+887,LAGOA DA CONFUSÃO - TO,Paraiso,,lagoa da confusao - to,,,,,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão
+888,LAGOA DA CONFUSÃO - TO,Paraiso,,lagoa da confusao - to,,,,,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão
+889,LAGOA DA CONFUSÃO - TO,Paraiso,,lagoa da confusao - to,,,,,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão,lagoa da confusao,1711902.0,17.0,Lagoa da Confusão
+890,Dianópolis,Taguatinga,,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+891,SÃO MIGUEL DO TOCANTINS,Araguatins,,sao miguel do tocantins,17.0,1720200.0,São Miguel do Tocantins,sao miguel do tocantins,,,,,,1720200.0,17.0,São Miguel do Tocantins
+892,DARCINÓPOLIS,Araguatins,,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+893,Wanderlândia,Araguaina,,wanderlandia,17.0,1722081.0,Wanderlândia,wanderlandia,,,,,,1722081.0,17.0,Wanderlândia
+894,São Salvador do Tocantins,Gurupi,,sao salvador do tocantins,17.0,1720259.0,São Salvador do Tocantins,sao salvador do tocantins,,,,,,1720259.0,17.0,São Salvador do Tocantins
+895,Pugmil,Paraiso,,pugmil,17.0,1718451.0,Pugmil,pugmil,,,,,,1718451.0,17.0,Pugmil
+896,Carmolândia,Araguaina,,carmolandia,17.0,1703883.0,Carmolândia,carmolandia,,,,,,1703883.0,17.0,Carmolândia
+897,Peixe,Gurupi,,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+898,PARAISO -TO,Paraiso,,paraiso -to,,,,,paraiso do tocantins,1716109.0,17.0,Paraíso do Tocantins,paraiso do tocantins,1716109.0,17.0,Paraíso do Tocantins
+899,SILVANÓPOLIS,Porto,,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+900,Gurupi-TO,Gurupi,,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+901,Wanderlândia,Araguaina,,wanderlandia,17.0,1722081.0,Wanderlândia,wanderlandia,,,,,,1722081.0,17.0,Wanderlândia
+902,Nova Olinda,Araguaina,,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+903,DARCINÓPOLIS,Araguatins,,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+904,Nova Rosalãndia,Paraiso,,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+905,Carmolândia,Araguaina,,carmolandia,17.0,1703883.0,Carmolândia,carmolandia,,,,,,1703883.0,17.0,Carmolândia
+906,Aguiarnópolis,Araguatins,,aguiarnopolis,17.0,1700301.0,Aguiarnópolis,aguiarnopolis,,,,,,1700301.0,17.0,Aguiarnópolis
+907,DARCINÓPOLIS,Araguatins,,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+908,AXIXA,Araguatins,,axixa,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+909,Chapada de Areia,Paraiso,,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+910,Filadélfia,Araguaina,,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+911,DARCINÓPOLIS,Araguatins,,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+912,Palmas,Porto,,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+913,Paraíso do Tocantins,Paraiso,,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+914,Porto Alegre do Tocantins,Taguatinga,,porto alegre do tocantins,17.0,1718006.0,Porto Alegre do Tocantins,porto alegre do tocantins,,,,,,1718006.0,17.0,Porto Alegre do Tocantins
+915,Nova Rosalândia,Paraiso,,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+916,SÃO MIGUEL DO TOCANTINS,Araguatins,,sao miguel do tocantins,17.0,1720200.0,São Miguel do Tocantins,sao miguel do tocantins,,,,,,1720200.0,17.0,São Miguel do Tocantins
+917,Tupirama,Miracema,,tupirama,17.0,1721257.0,Tupirama,tupirama,,,,,,1721257.0,17.0,Tupirama
+918,PORTO NACIONAL - TO,Porto,,porto nacional - to,,,,,porto nacional,1718204.0,17.0,Porto Nacional,porto nacional,1718204.0,17.0,Porto Nacional
+919,Tupirama,Miracema,,tupirama,17.0,1721257.0,Tupirama,tupirama,,,,,,1721257.0,17.0,Tupirama
+920,SILVANÓPOLIS,Porto,,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+921,DIVINÓPOLIS,Paraiso,,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+922,Palmeiras do Tocantins,Araguatins,,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+923,Araguaína,Araguaina,,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+924,DIVINÓPOLIS,Paraiso,,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+925,Palmeiras do Tocantins,Araguatins,,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+926,SITIO NOVO TO,Araguatins,,sitio novo to,,,,,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins
+927,Tupirama,Miracema,,tupirama,17.0,1721257.0,Tupirama,tupirama,,,,,,1721257.0,17.0,Tupirama
+928,Miracema do Tocantins,Miracema,,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+929,Palmeiras do Tocantins,Araguatins,,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+930,Barrolândia,Paraiso,,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+931,Caseara,Paraiso,,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+932,Lajeado,Porto,,lajeado,17.0,1712009.0,Lajeado,lajeado,,,,,,1712009.0,17.0,Lajeado
+933,Porto Nacional,Porto,,porto nacional,17.0,1718204.0,Porto Nacional,porto nacional,,,,,,1718204.0,17.0,Porto Nacional
+934,Miracema do Tocantins,Miracema,,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+935,Monte Santo,Paraiso,,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+936,Riachinho,Araguatins,,riachinho,17.0,1718550.0,Riachinho,riachinho,,,,,,1718550.0,17.0,Riachinho
+937,Xambioá,Araguaina,,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+938,SÃO MIGUEL DO TOCANTINS,Araguatins,,sao miguel do tocantins,17.0,1720200.0,São Miguel do Tocantins,sao miguel do tocantins,,,,,,1720200.0,17.0,São Miguel do Tocantins
+939,Palmeiras do Tocantins,Araguatins,,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+940,BABAÇULÂNDIA,Araguaina,,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+941,Esperantina,Araguatins,,esperantina,17.0,1707405.0,Esperantina,esperantina,,,,,,1707405.0,17.0,Esperantina
+942,Lajeado,Porto,,lajeado,17.0,1712009.0,Lajeado,lajeado,,,,,,1712009.0,17.0,Lajeado
+943,Lajeado,Porto,,lajeado,17.0,1712009.0,Lajeado,lajeado,,,,,,1712009.0,17.0,Lajeado
+944,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+945,Lajeado,Porto,,lajeado,17.0,1712009.0,Lajeado,lajeado,,,,,,1712009.0,17.0,Lajeado
+946,Lajeado,Porto,,lajeado,17.0,1712009.0,Lajeado,lajeado,,,,,,1712009.0,17.0,Lajeado
+947,Lajeado,Porto,,lajeado,17.0,1712009.0,Lajeado,lajeado,,,,,,1712009.0,17.0,Lajeado
+948,Xambioá,Araguaina,Degradação Média,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+949,Tocantínia,Miracema,,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+950,DIANÓPOLIS,Taguatinga,,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+951,Tocantínia,Miracema,,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+952,Silvanópolis,Porto,,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+953,barrolandia tocantins,Paraiso,,barrolandia tocantins,,,,,barrolandia,1703107.0,17.0,Barrolândia,barrolandia,1703107.0,17.0,Barrolândia
+954,PORTONACIONAL - TO,Porto,,portonacional - to,,,,,porto nacional,1718204.0,17.0,Porto Nacional,porto nacional,1718204.0,17.0,Porto Nacional
+955,PALMEIRAS,Araguatins,,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+956,SÃO MIGUEL DO TOCANTINS,Araguatins,,sao miguel do tocantins,17.0,1720200.0,São Miguel do Tocantins,sao miguel do tocantins,,,,,,1720200.0,17.0,São Miguel do Tocantins
+957,Barrolândia,Paraiso,Não possui degradação,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+958,NOVA OLINDA - TO,Araguaina,,nova olinda - to,,,,,nova olinda,1714880.0,17.0,Nova Olinda,nova olinda,1714880.0,17.0,Nova Olinda
+959,Palmas,Porto,,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+960,Alvorada,Gurupi,,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+961,Lajeado,Porto,,lajeado,17.0,1712009.0,Lajeado,lajeado,,,,,,1712009.0,17.0,Lajeado
+962,SÍTIO NOVO DO TOCANTINS,Araguatins,,sitio novo do tocantins,17.0,1720804.0,Sítio Novo do Tocantins,sitio novo do tocantins,,,,,,1720804.0,17.0,Sítio Novo do Tocantins
+963,Pedro Afonso,Miracema,,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+964,Dois Irmãos do Tocantins,Paraiso,,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+965,FÁTIMA -TO,Porto,,fatima -to,,,,,fatima,1707553.0,17.0,Fátima,fatima,1707553.0,17.0,Fátima
+966,Aurora do Tocantins,Taguatinga,Pouco degradado,aurora do tocantins,17.0,1702703.0,Aurora do Tocantins,aurora do tocantins,,,,,,1702703.0,17.0,Aurora do Tocantins
+967,Rio dos Bois,Miracema,,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+968,SÍTIO NOVO- TO,Araguatins,,sitio novo- to,,,,,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins,sitio novo do tocantins,1720804.0,17.0,Sítio Novo do Tocantins
+969,Nova Olinda,Araguaina,,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+970,TUPIRAMA-TO,Miracema,,tupirama-to,,,,,tupirama,1721257.0,17.0,Tupirama,tupirama,1721257.0,17.0,Tupirama
+971,Palmas,Porto,,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+972,CASEARA-TO,Paraiso,,caseara-to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+973,NOVA OLINDA - TO,Araguaina,,nova olinda - to,,,,,nova olinda,1714880.0,17.0,Nova Olinda,nova olinda,1714880.0,17.0,Nova Olinda
+974,Bom Jesus do Tocantins,Miracema,,bom jesus do tocantins,17.0,1703305.0,Bom Jesus do Tocantins,bom jesus do tocantins,,,,,,1703305.0,17.0,Bom Jesus do Tocantins
+975,Nova Olinda,Araguaina,,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+976,Tupirama,Miracema,,tupirama,17.0,1721257.0,Tupirama,tupirama,,,,,,1721257.0,17.0,Tupirama
+977,Dois Irmãos do Tocantins,Paraiso,,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+978,TUPIRAMA- TO,Miracema,,tupirama- to,,,,,tupirama,1721257.0,17.0,Tupirama,tupirama,1721257.0,17.0,Tupirama
+979,Esperantina,Araguatins,,esperantina,17.0,1707405.0,Esperantina,esperantina,,,,,,1707405.0,17.0,Esperantina
+980,Nova Olinda,Araguaina,,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+981,Palmas,Porto,,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+982,Palmas,Porto,,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+983,araguantins-esperantina,Araguatins,,araguantins-esperantina,,,,,esperantina,1707405.0,17.0,Esperantina,esperantina,1707405.0,17.0,Esperantina
+984,Nova Olinda,Araguaina,,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+985,DIANOPÓLIS,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+986,Santa Maria do Tocantins,Miracema,Pouco degradado,santa maria do tocantins,17.0,1718881.0,Santa Maria do Tocantins,santa maria do tocantins,,,,,,1718881.0,17.0,Santa Maria do Tocantins
+987,Nova Olinda,Araguaina,,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+988,DOIS IRMÃOS DO TOCANTINS - TO,Paraiso,,dois irmaos do tocantins - to,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+989,CASEARA-TO,Paraiso,,caseara-to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+990,Nova Olinda,Araguaina,,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+991,PORTO NACIONAL - TO,Porto,,porto nacional - to,,,,,porto nacional,1718204.0,17.0,Porto Nacional,porto nacional,1718204.0,17.0,Porto Nacional
+992,Dois Irmãos do Tocantins,Paraiso,,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+993,Pedro Afonso,Miracema,Não possui degradação,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+994,DOIS IRMÃOS - TO,Paraiso,,dois irmaos - to,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+995,Bom Jesus do Tocantins,Miracema,Não possui degradação,bom jesus do tocantins,17.0,1703305.0,Bom Jesus do Tocantins,bom jesus do tocantins,,,,,,1703305.0,17.0,Bom Jesus do Tocantins
+996,PARAISO -TO,Paraiso,Pouco degradado,paraiso -to,,,,,paraiso do tocantins,1716109.0,17.0,Paraíso do Tocantins,paraiso do tocantins,1716109.0,17.0,Paraíso do Tocantins
+997,Palmas,Porto,Não possui degradação,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+998,CHÁCARA CRISTO TEM PODER,Paraiso,Não possui degradação,chacara cristo tem poder,,,,,,,,,,,,
+999,Rio dos Bois,Miracema,Não possui degradação,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+1000,Pium,Paraiso,Não possui degradação,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+1001,LUZINOPOLIS-TO,Araguatins,Degradação Média,luzinopolis-to,,,,,luzinopolis,1712454.0,17.0,Luzinópolis,luzinopolis,1712454.0,17.0,Luzinópolis
+1002,Chapada de Areia,Paraiso,Pouco degradado,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+1003,DOIS IRMÃOS DO TOCANTINS - TO,Paraiso,Pouco degradado,dois irmaos do tocantins - to,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+1004,Miranorte,Miracema,Pouco degradado,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+1005,Novo Jardim,Taguatinga,Não possui degradação,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+1006,araguatins-esperantina,Araguatins,Não possui degradação,araguatins-esperantina,,,,,araguatins,1702208.0,17.0,Araguatins,araguatins,1702208.0,17.0,Araguatins
+1007,GUARAÍ,Colinas,Pouco degradado,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+1008,Guaraí,Colinas,Pouco degradado,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+1009,Miranorte,Miracema,Pouco degradado,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+1010,ARAGUAÍNA,Araguaina,Degradação Média,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1011,Dois Irmãos do Tocantins,Paraiso,Pouco degradado,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+1012,DIVINÓPOLIS,Paraiso,Pouco degradado,divinopolis,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+1013,Couto Magalhães,Colinas,Pouco degradado,couto magalhaes,17.0,1706001.0,Couto Magalhães,couto magalhaes,,,,,,1706001.0,17.0,Couto Magalhães
+1014,PUGMIL -TO,Paraiso,Pouco degradado,pugmil -to,,,,,pugmil,1718451.0,17.0,Pugmil,pugmil,1718451.0,17.0,Pugmil
+1015,Darcinópolis,Araguaina,Pouco degradado,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+1016,MONTE SANTO,Paraiso,Não possui degradação,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+1017,Nova Olinda,Araguaina,Não possui degradação,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+1018,Araguaína,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1019,Couto Magalhães,Colinas,Pouco degradado,couto magalhaes,17.0,1706001.0,Couto Magalhães,couto magalhaes,,,,,,1706001.0,17.0,Couto Magalhães
+1020,Nova Rosalãndia,Paraiso,Degradação Média,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+1021,CASEARA-TO,Paraiso,Não possui degradação,caseara-to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+1022,DOIS IRMÃOS DO TOCANTINS - TO,Paraiso,Pouco degradado,dois irmaos do tocantins - to,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+1023,Dianópolis,Taguatinga,Degradação Média,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+1024,Pium,Paraiso,Não possui degradação,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+1025,MONTE SANTO,Paraiso,Não possui degradação,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+1026,Araguaína,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1027,Nova Olinda,Araguaina,Não possui degradação,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+1028,Nova Olinda,Araguaina,Pouco degradado,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+1029,Monte do Carmo,Porto,Degradação Média,monte do carmo,17.0,1713601.0,Monte do Carmo,monte do carmo,,,,,,1713601.0,17.0,Monte do Carmo
+1030,Dois Irmãos,Paraiso,Pouco degradado,dois irmaos,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+1031,Araguaína,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1032,Esperantina,Araguatins,Não possui degradação,esperantina,17.0,1707405.0,Esperantina,esperantina,,,,,,1707405.0,17.0,Esperantina
+1033,DOIS IRMÃOS DO TOCANTINS,Paraiso,Não possui degradação,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+1034,NOVA OLINDA - TO,Araguaina,Não possui degradação,nova olinda - to,,,,,nova olinda,1714880.0,17.0,Nova Olinda,nova olinda,1714880.0,17.0,Nova Olinda
+1035,FÁTIMA -TO,Porto,Pouco degradado,fatima -to,,,,,fatima,1707553.0,17.0,Fátima,fatima,1707553.0,17.0,Fátima
+1036,FÁTIMA -TO,Porto,Pouco degradado,fatima -to,,,,,fatima,1707553.0,17.0,Fátima,fatima,1707553.0,17.0,Fátima
+1037,Barrolândia -To,Paraiso,Pouco degradado,barrolandia -to,,,,,barrolandia,1703107.0,17.0,Barrolândia,barrolandia,1703107.0,17.0,Barrolândia
+1038,Araguaína,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1039,DOIS IRMÃOS - TO,Paraiso,Pouco degradado,dois irmaos - to,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+1040,Couto Magalhães,Colinas,Pouco degradado,couto magalhaes,17.0,1706001.0,Couto Magalhães,couto magalhaes,,,,,,1706001.0,17.0,Couto Magalhães
+1041,Nova Olinda,Araguaina,Degradação Média,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+1042,Itaguatins,Araguatins,Não possui degradação,itaguatins,17.0,1710706.0,Itaguatins,itaguatins,,,,,,1710706.0,17.0,Itaguatins
+1043,FÁTIMA - TO,Porto,Degradação Média,fatima - to,,,,,fatima,1707553.0,17.0,Fátima,fatima,1707553.0,17.0,Fátima
+1044,Nova Olinda,Araguaina,Degradação Média,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+1045,NOVA OLINDA - TO,Araguaina,Degradação Média,nova olinda - to,,,,,nova olinda,1714880.0,17.0,Nova Olinda,nova olinda,1714880.0,17.0,Nova Olinda
+1046,Nova Olinda,Araguaina,Não possui degradação,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+1047,Palmas,Porto,Não possui degradação,palmas,17.0,1721000.0,Palmas,palmas,,,,,,1721000.0,17.0,Palmas
+1048,Cristalândia,Paraiso,Pouco degradado,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+1049,NOVA OLINDA - TO,Araguaina,Pouco degradado,nova olinda - to,,,,,nova olinda,1714880.0,17.0,Nova Olinda,nova olinda,1714880.0,17.0,Nova Olinda
+1050,Piraquê,Araguaina,Pouco degradado,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+1051,Novo Acordo,Porto,Pouco degradado,novo acordo,17.0,1715101.0,Novo Acordo,novo acordo,,,,,,1715101.0,17.0,Novo Acordo
+1052,Couto Magalhães,Colinas,Pouco degradado,couto magalhaes,17.0,1706001.0,Couto Magalhães,couto magalhaes,,,,,,1706001.0,17.0,Couto Magalhães
+1053,Nova Rosalãndia,Paraiso,Degradação Média,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+1054,Pedro Afonso,Miracema,,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+1055,PEDRO AFONSO TO.,Miracema,,pedro afonso to.,,,,,pedro afonso,1716505.0,17.0,Pedro Afonso,pedro afonso,1716505.0,17.0,Pedro Afonso
+1056,Rio dos Bois,Miracema,,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+1057,Rio dos Bois,Miracema,,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+1058,Bom Jesus do Tocantins,Miracema,,bom jesus do tocantins,17.0,1703305.0,Bom Jesus do Tocantins,bom jesus do tocantins,,,,,,1703305.0,17.0,Bom Jesus do Tocantins
+1059,Pedro Afonso,Miracema,,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+1060,Santa Maria do Tocantins,Miracema,,santa maria do tocantins,17.0,1718881.0,Santa Maria do Tocantins,santa maria do tocantins,,,,,,1718881.0,17.0,Santa Maria do Tocantins
+1061,Porto Nacional,Porto,,porto nacional,17.0,1718204.0,Porto Nacional,porto nacional,,,,,,1718204.0,17.0,Porto Nacional
+1062,Esperantina,Araguatins,,esperantina,17.0,1707405.0,Esperantina,esperantina,,,,,,1707405.0,17.0,Esperantina
+1063,Darcinópolis,Araguatins,,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+1064,Nova Rosalândia,Paraiso,,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+1065,Araguanã,Araguaina,Não possui degradação,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+1066,FILADÉLFIA,Araguaina,,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+1067,Chapada de Areia,Paraiso,,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+1068,ABREULANDIA,Paraiso,,abreulandia,17.0,1700251.0,Abreulândia,abreulandia,,,,,,1700251.0,17.0,Abreulândia
+1069,Darcinópolis,Araguatins,,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+1070,PALMEIRAS,Araguatins,,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+1071,Araguaína,Araguaina,,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1072,Tocantínia,Miracema,,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+1073,Barrolândia,Paraiso,,barrolandia,17.0,1703107.0,Barrolândia,barrolandia,,,,,,1703107.0,17.0,Barrolândia
+1074,ARAGUAÍNA,Araguaina,,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1075,Ananás,Araguatins,,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+1076,Ananás,Araguatins,Pouco degradado,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+1077,Araguaína,Araguaina,,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1078,Darcinópolis,Araguatins,,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+1079,DOIS IRMÃOS DO TOCANTINS,Paraiso,,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+1080,Pedro Afonso,Miracema,,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+1081,ARAGUAÍNA,Araguaina,,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1082,Bom Jesus do Tocantins,Miracema,,bom jesus do tocantins,17.0,1703305.0,Bom Jesus do Tocantins,bom jesus do tocantins,,,,,,1703305.0,17.0,Bom Jesus do Tocantins
+1083,Wanderlândia,Araguaina,,wanderlandia,17.0,1722081.0,Wanderlândia,wanderlandia,,,,,,1722081.0,17.0,Wanderlândia
+1084,Wanderlândia,Araguaina,,wanderlandia,17.0,1722081.0,Wanderlândia,wanderlandia,,,,,,1722081.0,17.0,Wanderlândia
+1085,Nova Rosalândia,Paraiso,,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+1086,DIANÓPOLIS,Taguatinga,,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+1087,Monte do Carmo,Porto,,monte do carmo,17.0,1713601.0,Monte do Carmo,monte do carmo,,,,,,1713601.0,17.0,Monte do Carmo
+1088,Palmeirópolis,Gurupi,,palmeiropolis,17.0,1715754.0,Palmeirópolis,palmeiropolis,,,,,,1715754.0,17.0,Palmeirópolis
+1089,DIANÓPOLIS,Taguatinga,,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+1090,PALMEIRAS,Araguatins,,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+1091,Araguatins,Araguatins,,araguatins,17.0,1702208.0,Araguatins,araguatins,,,,,,1702208.0,17.0,Araguatins
+1092,Piraquê,Araguaina,,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+1093,araguaína,Araguaina,,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1094,Nova Olinda,Araguaina,,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+1095,Araguatins,Araguatins,,araguatins,17.0,1702208.0,Araguatins,araguatins,,,,,,1702208.0,17.0,Araguatins
+1096,Paraíso do Tocantins,Paraiso,,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+1097,Bom Jesus do Tocantins,Miracema,,bom jesus do tocantins,17.0,1703305.0,Bom Jesus do Tocantins,bom jesus do tocantins,,,,,,1703305.0,17.0,Bom Jesus do Tocantins
+1098,Chapada de Areia,Paraiso,,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+1099,Paraíso do Tocantins,Paraiso,,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+1100,Miranorte,Miracema,,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+1101,Caseara,Paraiso,Não possui degradação,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+1102,Crixás do Tocantins,Gurupi,,crixas do tocantins,17.0,1706258.0,Crixás do Tocantins,crixas do tocantins,,,,,,1706258.0,17.0,Crixás do Tocantins
+1103,MONTE SANTO,Paraiso,,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+1104,MONTE SANTO,Paraiso,Não possui degradação,monte santo,,,,,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins,monte santo do tocantins,1713700.0,17.0,Monte Santo do Tocantins
+1105,Novo Jardim,Taguatinga,Não possui degradação,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+1106,Pium,Paraiso,,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+1107,Caseara,Paraiso,,caseara,17.0,1703909.0,Caseara,caseara,,,,,,1703909.0,17.0,Caseara
+1108,Santa Maria do Tocantins,Miracema,,santa maria do tocantins,17.0,1718881.0,Santa Maria do Tocantins,santa maria do tocantins,,,,,,1718881.0,17.0,Santa Maria do Tocantins
+1109,SILVANOPOLIS TO,Porto,,silvanopolis to,,,,,silvanopolis,1720655.0,17.0,Silvanópolis,silvanopolis,1720655.0,17.0,Silvanópolis
+1110,NOVA OLINDA - TO,Araguaina,,nova olinda - to,,,,,nova olinda,1714880.0,17.0,Nova Olinda,nova olinda,1714880.0,17.0,Nova Olinda
+1111,SÍTIO NOVO DO TO,Araguatins,,sitio novo do to,,,,,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins
+1112,Gurupi-TO,Gurupi,,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+1113,Praia Norte,Araguatins,,praia norte,17.0,1718303.0,Praia Norte,praia norte,,,,,,1718303.0,17.0,Praia Norte
+1114,Paraíso do Tocantins,Paraiso,,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+1115,Ananás,Araguatins,Pouco degradado,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+1116,Ananás,Araguatins,Não possui degradação,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+1117,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+1118,PALMEIRAS,Araguatins,Degradação Média,palmeiras,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+1119,FILADÉLFIA,Araguaina,Muito degradado,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+1120,Palmeiras do Tocantins,Araguatins,Pouco degradado,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+1121,Palmeiras do Tocantins,Araguatins,Pouco degradado,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+1122,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+1123,Ananás,Araguatins,Não possui degradação,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+1124,Ananás,Araguatins,Não possui degradação,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+1125,DIANÓPOLIS,Taguatinga,Degradação Média,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+1126,Araguanã,Araguaina,Pouco degradado,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+1127,Filadélfia,Araguaina,Pouco degradado,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+1128,Aurora do Tocantins,Taguatinga,Não possui degradação,aurora do tocantins,17.0,1702703.0,Aurora do Tocantins,aurora do tocantins,,,,,,1702703.0,17.0,Aurora do Tocantins
+1129,Ananás,Araguatins,Pouco degradado,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+1130,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+1131,Ananás,Araguatins,Pouco degradado,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+1132,MURICILÂNDIA,Araguaina,Pouco degradado,muricilandia,17.0,1713957.0,Muricilândia,muricilandia,,,,,,1713957.0,17.0,Muricilândia
+1133,Barrolândia-TO,Paraiso,Pouco degradado,barrolandia-to,,,,,barrolandia,1703107.0,17.0,Barrolândia,barrolandia,1703107.0,17.0,Barrolândia
+1134,Ananás,Araguatins,Pouco degradado,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+1135,Ananás,Araguatins,Pouco degradado,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+1136,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+1137,Ananás,Araguatins,Pouco degradado,ananas,17.0,1701002.0,Ananás,ananas,,,,,,1701002.0,17.0,Ananás
+1138,ITAGUATINS DO TOCANTINS,Araguatins,Pouco degradado,itaguatins do tocantins,,,,,itaguatins,1710706.0,17.0,Itaguatins,itaguatins,1710706.0,17.0,Itaguatins
+1139,Riachinho,Araguatins,Pouco degradado,riachinho,17.0,1718550.0,Riachinho,riachinho,,,,,,1718550.0,17.0,Riachinho
+1140,DIANÓPOLIS,Taguatinga,Pouco degradado,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+1141,Gurupi,Gurupi,Pouco degradado,gurupi,17.0,1709500.0,Gurupi,gurupi,,,,,,1709500.0,17.0,Gurupi
+1142,Bom Jesus do Tocantins,Miracema,Não possui degradação,bom jesus do tocantins,17.0,1703305.0,Bom Jesus do Tocantins,bom jesus do tocantins,,,,,,1703305.0,17.0,Bom Jesus do Tocantins
+1143,RIO SONO - TO,Miracema,Não possui degradação,rio sono - to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+1144,Araguaína,Araguaina,Não possui degradação,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1145,Axixá do Tocantins,Araguatins,Não possui degradação,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+1146,Xambioá,Araguaina,Degradação Média,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+1147,Palmeiras do Tocantins,Araguatins,Pouco degradado,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+1148,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+1149,Santa Maria do Tocantins,Miracema,Pouco degradado,santa maria do tocantins,17.0,1718881.0,Santa Maria do Tocantins,santa maria do tocantins,,,,,,1718881.0,17.0,Santa Maria do Tocantins
+1150,Pium,Paraiso,Degradação Média,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+1151,Itaporã do Tocantins,Colinas,Não possui degradação,itapora do tocantins,17.0,1711100.0,Itaporã do Tocantins,itapora do tocantins,,,,,,1711100.0,17.0,Itaporã do Tocantins
+1152,PUGMIL -TO,Paraiso,Não possui degradação,pugmil -to,,,,,pugmil,1718451.0,17.0,Pugmil,pugmil,1718451.0,17.0,Pugmil
+1153,FILADÉLFIA,Araguaina,Pouco degradado,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+1154,Nova Rosalãndia,Paraiso,Degradação Média,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+1155,Pium,Paraiso,Pouco degradado,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+1156,Dois Irmãos do Tocantins,Paraiso,Pouco degradado,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+1157,ARAGOMINAS-TO,Araguaina,Pouco degradado,aragominas-to,,,,,aragominas,1701309.0,17.0,Aragominas,aragominas,1701309.0,17.0,Aragominas
+1158,Aragominas,Araguaina,Degradação Média,aragominas,17.0,1701309.0,Aragominas,aragominas,,,,,,1701309.0,17.0,Aragominas
+1159,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+1160,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+1161,Divinópolis - TO,Paraiso,Não possui degradação,divinopolis - to,,,,,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins,divinopolis do tocantins,1707108.0,17.0,Divinópolis do Tocantins
+1162,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+1163,DIANÓPOLIS,Taguatinga,,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+1164,Dois Irmãos,Paraiso,Pouco degradado,dois irmaos,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+1165,Araguaína,Araguaina,Não possui degradação,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1166,Araguaína,Araguaina,Não possui degradação,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1167,BABAÇULÂNDIA,Araguaina,Degradação Média,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+1168,Itaguatins,Araguatins,Não possui degradação,itaguatins,17.0,1710706.0,Itaguatins,itaguatins,,,,,,1710706.0,17.0,Itaguatins
+1169,São Salvador do Tocantins,Gurupi,Não possui degradação,sao salvador do tocantins,17.0,1720259.0,São Salvador do Tocantins,sao salvador do tocantins,,,,,,1720259.0,17.0,São Salvador do Tocantins
+1170,Rio dos Bois,Miracema,Pouco degradado,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+1171,DIANÓPOLIS-TO,Taguatinga,Não possui degradação,dianopolis-to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+1172,Pium,Paraiso,Não possui degradação,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+1173,Araguanã,Araguaina,Pouco degradado,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+1174,Araguaína,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1175,Cristalandia To Associação Vila da Prata,Paraiso,Não possui degradação,cristalandia to associacao vila da prata,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+1176,Chapada de Areia,Paraiso,Não possui degradação,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+1177,Dianópolis - To,Taguatinga,Não possui degradação,dianopolis - to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+1178,Pium,Paraiso,Pouco degradado,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+1179,Rio dos Bois,Miracema,Não possui degradação,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+1180,Filadélfia,Araguaina,Não possui degradação,filadelfia,17.0,1707702.0,Filadélfia,filadelfia,,,,,,1707702.0,17.0,Filadélfia
+1181,ALMAS TO,Taguatinga,Pouco degradado,almas to,,,,,almas,1700400.0,17.0,Almas,almas,1700400.0,17.0,Almas
+1182,Pium,Paraiso,Não possui degradação,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+1183,Gurupi-TO,Gurupi,Não possui degradação,gurupi-to,,,,,gurupi,1709500.0,17.0,Gurupi,gurupi,1709500.0,17.0,Gurupi
+1184,Talismã,Gurupi,Não possui degradação,talisma,17.0,1720978.0,Talismã,talisma,,,,,,1720978.0,17.0,Talismã
+1185,SILVANÓPOLIS,Porto,Pouco degradado,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+1186,Cristalandia -TO Associação Vila da Prata,Paraiso,Degradação Média,cristalandia -to associacao vila da prata,,,,,cristalandia,1706100.0,17.0,Cristalândia,cristalandia,1706100.0,17.0,Cristalândia
+1187,Araguatins,Araguatins,Muito degradado,araguatins,17.0,1702208.0,Araguatins,araguatins,,,,,,1702208.0,17.0,Araguatins
+1188,Araguaína,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1189,Nova Rosalãndia,Paraiso,Degradação Média,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+1190,Silvanópolis,Porto,Degradação Média,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+1191,Pium,Paraiso,Degradação Média,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+1192,Novo Jardim,Taguatinga,Não possui degradação,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+1193,Novo Jardim,Taguatinga,Não possui degradação,novo jardim,17.0,1715259.0,Novo Jardim,novo jardim,,,,,,1715259.0,17.0,Novo Jardim
+1194,Pium,Paraiso,Não possui degradação,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+1195,Tocantínia,Miracema,Não possui degradação,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+1196,SANTA FÉ DO ARAGUAIA,Araguaina,Pouco degradado,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+1197,Cristalândia,Paraiso,Pouco degradado,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+1198,Nova Rosalãndia,Paraiso,Degradação Média,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
+1199,Cristalândia,Paraiso,Não possui degradação,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+1200,ARAGUAÍNA,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1201,Silvanópolis,Porto,Degradação Média,silvanopolis,17.0,1720655.0,Silvanópolis,silvanopolis,,,,,,1720655.0,17.0,Silvanópolis
+1202,CASEARA-TO,Paraiso,Não possui degradação,caseara-to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+1203,São Bento do Tocantins,Araguatins,Pouco degradado,sao bento do tocantins,17.0,1720101.0,São Bento do Tocantins,sao bento do tocantins,,,,,,1720101.0,17.0,São Bento do Tocantins
+1204,Dianópolis -To,Taguatinga,Não possui degradação,dianopolis -to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+1205,Araguanã,Araguaina,Não possui degradação,araguana,17.0,1702158.0,Araguanã,araguana,,,,,,1702158.0,17.0,Araguanã
+1206,SÍTIO DEUS É BOM,Miracema,Não possui degradação,sitio deus e bom,,,,,,,,,,,,
+1207,Pium,Paraiso,Pouco degradado,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+1208,MURICILÂNDIA,Araguaina,Degradação Média,muricilandia,17.0,1713957.0,Muricilândia,muricilandia,,,,,,1713957.0,17.0,Muricilândia
+1209,SANTA FÉ DO ARAGUAIA,Araguaina,Pouco degradado,santa fe do araguaia,17.0,1718865.0,Santa Fé do Araguaia,santa fe do araguaia,,,,,,1718865.0,17.0,Santa Fé do Araguaia
+1210,araguaína,Araguaina,Não possui degradação,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1211,Araguatins,Araguatins,Não possui degradação,araguatins,17.0,1702208.0,Araguatins,araguatins,,,,,,1702208.0,17.0,Araguatins
+1212,Araguatins,Araguatins,Não possui degradação,araguatins,17.0,1702208.0,Araguatins,araguatins,,,,,,1702208.0,17.0,Araguatins
+1213,Araguaçu,Gurupi,Pouco degradado,araguacu,17.0,1702000.0,Araguaçu,araguacu,,,,,,1702000.0,17.0,Araguaçu
+1214,GUARAÍ,Colinas,Pouco degradado,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+1215,Guaraí,Colinas,Pouco degradado,guarai,17.0,1709302.0,Guaraí,guarai,,,,,,1709302.0,17.0,Guaraí
+1216,Aparecida do Rio Negro,Porto,Pouco degradado,aparecida do rio negro,17.0,1701101.0,Aparecida do Rio Negro,aparecida do rio negro,,,,,,1701101.0,17.0,Aparecida do Rio Negro
+1217,Araguatins,Araguatins,Não possui degradação,araguatins,17.0,1702208.0,Araguatins,araguatins,,,,,,1702208.0,17.0,Araguatins
+1218,RIO DA CONCEIÇÃO,Taguatinga,Muito degradado,rio da conceicao,17.0,1718659.0,Rio da Conceição,rio da conceicao,,,,,,1718659.0,17.0,Rio da Conceição
+1219,"P.A Tamboril , Angico - TO",Araguatins,Não possui degradação,"p.a tamboril , angico - to",,,,,angico,1701051.0,17.0,Angico,angico,1701051.0,17.0,Angico
+1220,Pium,Paraiso,Pouco degradado,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+1221,MURICILÂNDIA,Araguaina,Pouco degradado,muricilandia,17.0,1713957.0,Muricilândia,muricilandia,,,,,,1713957.0,17.0,Muricilândia
+1222,Santa Terezinha do Tocantins,Araguatins,Não possui degradação,santa terezinha do tocantins,17.0,1720002.0,Santa Terezinha do Tocantins,santa terezinha do tocantins,,,,,,1720002.0,17.0,Santa Terezinha do Tocantins
+1223,FÁTIMA-TO,Porto,Pouco degradado,fatima-to,,,,,fatima,1707553.0,17.0,Fátima,fatima,1707553.0,17.0,Fátima
+1224,Miracema do Tocantins,Miracema,Não possui degradação,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+1225,Peixe,Gurupi,Pouco degradado,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+1226,Peixe,Gurupi,Pouco degradado,peixe,17.0,1716604.0,Peixe,peixe,,,,,,1716604.0,17.0,Peixe
+1227,ALIANÇA DO TOCANTINS,Gurupi,Não possui degradação,alianca do tocantins,17.0,1700350.0,Aliança do Tocantins,alianca do tocantins,,,,,,1700350.0,17.0,Aliança do Tocantins
+1228,Cristalândia,Paraiso,Pouco degradado,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+1229,Paraíso do Tocantins,Paraiso,Pouco degradado,paraiso do tocantins,17.0,1716109.0,Paraíso do Tocantins,paraiso do tocantins,,,,,,1716109.0,17.0,Paraíso do Tocantins
+1230,Chapada de Areia,Paraiso,Degradação Média,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+1231,Pium,Paraiso,Pouco degradado,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+1232,Colméia,Colinas,Não possui degradação,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+1233,COLMÉIA,Colinas,Não possui degradação,colmeia,17.0,1716703.0,Colméia,colmeia,,,,,,1716703.0,17.0,Colméia
+1234,Chapada da Natividade,Porto,Pouco degradado,chapada da natividade,17.0,1705102.0,Chapada da Natividade,chapada da natividade,,,,,,1705102.0,17.0,Chapada da Natividade
+1235,Rio Sono,Miracema,Pouco degradado,rio sono,17.0,1718758.0,Rio Sono,rio sono,,,,,,1718758.0,17.0,Rio Sono
+1236,PUGMIL -TO,Paraiso,Pouco degradado,pugmil -to,,,,,pugmil,1718451.0,17.0,Pugmil,pugmil,1718451.0,17.0,Pugmil
+1237,Dois Irmãos do Tocantins,Paraiso,Não possui degradação,dois irmaos do tocantins,17.0,1707207.0,dois Irmãos do Tocantins,dois irmaos do tocantins,,,,,,1707207.0,17.0,dois Irmãos do Tocantins
+1238,Ponte Alta do Bom Jesus,Taguatinga,Não possui degradação,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+1239,Ipueiras,Porto,Pouco degradado,ipueiras,17.0,1709807.0,Ipueiras,ipueiras,,,,,,1709807.0,17.0,Ipueiras
+1240,Ponte Alta do Bom Jesus,Taguatinga,Degradação Média,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+1241,ARAGUAÍNA,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1242,DIANÓPOLIS,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+1243,RIO SONO - TO,Miracema,Pouco degradado,rio sono - to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+1244,Nova Olinda,Araguaina,Não possui degradação,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+1245,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+1246,Dianópolis - TO,Taguatinga,Não possui degradação,dianopolis - to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+1247,SÍTIO NOVO DO TO,Araguatins,Degradação Média,sitio novo do to,,,,,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins
+1248,ALMAS TO,Taguatinga,Não possui degradação,almas to,,,,,almas,1700400.0,17.0,Almas,almas,1700400.0,17.0,Almas
+1249,Araguaína,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1250,XAMBIOÁ,Araguaina,Não possui degradação,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+1251,Piraquê,Araguaina,Pouco degradado,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+1252,Araguaína,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1253,Pium,Paraiso,Pouco degradado,pium,17.0,1717503.0,Pium,pium,,,,,,1717503.0,17.0,Pium
+1254,Dianópolis,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+1255,DIANÓPOLIS,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+1256,Dianópolis,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+1257,Dianópolis,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+1258,Piraquê,Araguaina,Pouco degradado,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+1259,TABOCÃO,Miracema,Pouco degradado,tabocao,,,,,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão,fortaleza do tabocao,1708254.0,17.0,Fortaleza do Tabocão
+1260,AXIXÁ DO TOCANTINS,Araguatins,Não possui degradação,axixa do tocantins,17.0,1702901.0,Axixá do Tocantins,axixa do tocantins,,,,,,1702901.0,17.0,Axixá do Tocantins
+1261,Miranorte,Miracema,Não possui degradação,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+1262,AXIXA DO TOCANTIS,Araguatins,Não possui degradação,axixa do tocantis,,,,,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins,axixa do tocantins,1702901.0,17.0,Axixá do Tocantins
+1263,Chapada de Areia,Paraiso,Degradação Média,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+1264,Dianópolis,Taguatinga,Não possui degradação,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+1265,Chapada de Areia,Paraiso,Não possui degradação,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+1266,Dianópolis -To,Taguatinga,Não possui degradação,dianopolis -to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+1267,Novo Acordo,Porto,Pouco degradado,novo acordo,17.0,1715101.0,Novo Acordo,novo acordo,,,,,,1715101.0,17.0,Novo Acordo
+1268,SÍTIO NOVO DO TO,Araguatins,Degradação Média,sitio novo do to,,,,,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins
+1269,Dianópolis - TO,Taguatinga,Pouco degradado,dianopolis - to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+1270,Araguaína,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1271,BOM JESUS DO TOCANTINS-TO,Miracema,Não possui degradação,bom jesus do tocantins-to,,,,,bom jesus do tocantins,1703305.0,17.0,Bom Jesus do Tocantins,bom jesus do tocantins,1703305.0,17.0,Bom Jesus do Tocantins
+1272,Nova Olinda,Araguaina,Pouco degradado,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+1273,SÍTIO NOVO DO TO,Araguatins,Pouco degradado,sitio novo do to,,,,,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins,bandeirantes do tocantins,1703057.0,17.0,Bandeirantes do Tocantins
+1274,Nova Olinda,Araguaina,Não possui degradação,nova olinda,17.0,1714880.0,Nova Olinda,nova olinda,,,,,,1714880.0,17.0,Nova Olinda
+1275,Chapada de Areia,Paraiso,Não possui degradação,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+1276,Dianópolis -TO,Taguatinga,Não possui degradação,dianopolis -to,,,,,dianopolis,1707009.0,17.0,Dianópolis,dianopolis,1707009.0,17.0,Dianópolis
+1277,Chapada de Areia,Paraiso,Muito degradado,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+1278,Araguaína,Araguaina,Pouco degradado,araguaina,17.0,1702109.0,Araguaína,araguaina,,,,,,1702109.0,17.0,Araguaína
+1279,Goiatins,Araguaina,Pouco degradado,goiatins,17.0,1709005.0,Goiatins,goiatins,,,,,,1709005.0,17.0,Goiatins
+1280,Chapada de Areia,Paraiso,Pouco degradado,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+1281,Rio dos Bois,Miracema,Não possui degradação,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+1282,Babaçulandia,Araguaina,Pouco degradado,babaculandia,17.0,1703008.0,Babaçulândia,babaculandia,,,,,,1703008.0,17.0,Babaçulândia
+1283,Piraquê,Araguaina,Degradação Média,piraque,17.0,1717206.0,Piraquê,piraque,,,,,,1717206.0,17.0,Piraquê
+1284,Chapada de Areia,Paraiso,Não possui degradação,chapada de areia,17.0,1704600.0,Chapada de Areia,chapada de areia,,,,,,1704600.0,17.0,Chapada de Areia
+1285,Dois Irmãos,Miracema,,dois irmaos,,,,,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins,dois irmaos do tocantins,1707207.0,17.0,dois Irmãos do Tocantins
+1286,Rio dos Bois,Miracema,,rio dos bois,17.0,1718709.0,Rio dos Bois,rio dos bois,,,,,,1718709.0,17.0,Rio dos Bois
+1287,Miracema do Tocantins,Miracema,,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+1288,DIANÓPOLIS,Taguatinga,,dianopolis,17.0,1707009.0,Dianópolis,dianopolis,,,,,,1707009.0,17.0,Dianópolis
+1289,Miranorte,Miracema,,miranorte,17.0,1713304.0,Miranorte,miranorte,,,,,,1713304.0,17.0,Miranorte
+1290,Rio Sono,Miracema,,rio sono,17.0,1718758.0,Rio Sono,rio sono,,,,,,1718758.0,17.0,Rio Sono
+1291,RIO SONO - TO,Miracema,,rio sono - to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+1292,Palmeiras do Tocantins,Araguatins,,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+1293,RIO SONO - TO,Miracema,,rio sono - to,,,,,rio sono,1718758.0,17.0,Rio Sono,rio sono,1718758.0,17.0,Rio Sono
+1294,Pedro Afonso,Miracema,,pedro afonso,17.0,1716505.0,Pedro Afonso,pedro afonso,,,,,,1716505.0,17.0,Pedro Afonso
+1295,Miracema do Tocantins,Miracema,,miracema do tocantins,17.0,1713205.0,Miracema do Tocantins,miracema do tocantins,,,,,,1713205.0,17.0,Miracema do Tocantins
+1296,miracema tocantins,Paraiso,Pouco degradado,miracema tocantins,,,,,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins,miracema do tocantins,1713205.0,17.0,Miracema do Tocantins
+1297,Tocantínia,Miracema,,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+1298,RIO DA CONCEIÇÃO,Taguatinga,,rio da conceicao,17.0,1718659.0,Rio da Conceição,rio da conceicao,,,,,,1718659.0,17.0,Rio da Conceição
+1299,Ponte Alta do Bom Jesus,Taguatinga,,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+1300,Xambioá,Araguaina,,xambioa,17.0,1722107.0,Xambioá,xambioa,,,,,,1722107.0,17.0,Xambioá
+1301,Darcinópolis,Araguatins,,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+1302,Palmeiras do Tocantins,Araguatins,,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+1303,Cristalândia,Paraiso,,cristalandia,17.0,1706100.0,Cristalândia,cristalandia,,,,,,1706100.0,17.0,Cristalândia
+1304,ABREULÂNDIA,Paraiso,,abreulandia,17.0,1700251.0,Abreulândia,abreulandia,,,,,,1700251.0,17.0,Abreulândia
+1305,Rio Sono,Miracema,,rio sono,17.0,1718758.0,Rio Sono,rio sono,,,,,,1718758.0,17.0,Rio Sono
+1306,Santa Maria do Tocantins,Miracema,,santa maria do tocantins,17.0,1718881.0,Santa Maria do Tocantins,santa maria do tocantins,,,,,,1718881.0,17.0,Santa Maria do Tocantins
+1307,Palmeirópolis,Gurupi,,palmeiropolis,17.0,1715754.0,Palmeirópolis,palmeiropolis,,,,,,1715754.0,17.0,Palmeirópolis
+1308,Ponte Alta do Bom Jesus,Taguatinga,,ponte alta do bom jesus,17.0,1717800.0,Ponte Alta do Bom Jesus,ponte alta do bom jesus,,,,,,1717800.0,17.0,Ponte Alta do Bom Jesus
+1309,Tocantínia,Miracema,,tocantinia,17.0,1721109.0,Tocantínia,tocantinia,,,,,,1721109.0,17.0,Tocantínia
+1310,TUPIRAMA - TO,Miracema,,tupirama - to,,,,,tupirama,1721257.0,17.0,Tupirama,tupirama,1721257.0,17.0,Tupirama
+1311,CASEARA-TO,Paraiso,,caseara-to,,,,,caseara,1703909.0,17.0,Caseara,caseara,1703909.0,17.0,Caseara
+1312,SÍTIO NOVO DO TOCANTINS,Araguatins,,sitio novo do tocantins,17.0,1720804.0,Sítio Novo do Tocantins,sitio novo do tocantins,,,,,,1720804.0,17.0,Sítio Novo do Tocantins
+1313,RIO DA CONCEIÇÃO,Taguatinga,,rio da conceicao,17.0,1718659.0,Rio da Conceição,rio da conceicao,,,,,,1718659.0,17.0,Rio da Conceição
+1314,Palmeiras do Tocantins,Araguatins,,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+1315,Rio da Conceiçaõ,Taguatinga,,rio da conceicao,17.0,1718659.0,Rio da Conceição,rio da conceicao,,,,,,1718659.0,17.0,Rio da Conceição
+1316,Pugmil,Paraiso,,pugmil,17.0,1718451.0,Pugmil,pugmil,,,,,,1718451.0,17.0,Pugmil
+1317,Palmeiras do Tocantins,Araguatins,,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+1318,Riachinho,Araguatins,,riachinho,17.0,1718550.0,Riachinho,riachinho,,,,,,1718550.0,17.0,Riachinho
+1319,DARCINÓPOLIS,Araguatins,,darcinopolis,17.0,1706506.0,darcinópolis,darcinopolis,,,,,,1706506.0,17.0,darcinópolis
+1320,Alvorada,Gurupi,,alvorada,17.0,1700707.0,Alvorada,alvorada,,,,,,1700707.0,17.0,Alvorada
+1321,CHÁCARA BAIXA FUNDA,Araguaina,,chacara baixa funda,,,,,,,,,,,,
+1322,PALMEIRA DO TOCANTINS,Araguatins,,palmeira do tocantins,,,,,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins,palmeiras do tocantins,1713809.0,17.0,Palmeiras do Tocantins
+1323,Palmeiras do Tocantins,Araguatins,,palmeiras do tocantins,17.0,1713809.0,Palmeiras do Tocantins,palmeiras do tocantins,,,,,,1713809.0,17.0,Palmeiras do Tocantins
+1324,Nova Rosalãndia,Paraiso,,nova rosalandia,17.0,1715002.0,Nova Rosalândia,nova rosalandia,,,,,,1715002.0,17.0,Nova Rosalândia
